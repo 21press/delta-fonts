@@ -13,15 +13,15 @@
 			"fontFamily": "Bona Nova"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/bonanova/v12/B50IF7ZCpX7fcHfvIUBxN4d-E46f.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Bona Nova"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/bonanova/v12/B50LF7ZCpX7fcHfvIUB5iZJpNKs.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Bona Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bonanova/v12/B50IF7ZCpX7fcHfvIUBxN4d-E46f.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Bona Nova"
 		}
 	]

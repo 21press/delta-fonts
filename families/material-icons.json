@@ -1,0 +1,16 @@
+{
+	"slug": "material-icons",
+	"name": "Material Icons",
+	"fontFamily": "\"Material Icons\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Material Icons"
+		}
+	]
+}

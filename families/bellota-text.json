@@ -13,27 +13,27 @@
 			"fontFamily": "Bellota Text"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMx_tkP.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Bellota Text"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5Rfwaeg_x.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Bellota Text"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfz_zayo.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
 			"fontFamily": "Bellota Text"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMx_tkP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bellota Text"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/bellotatext/v20/0FlNVP2VnlWS4f3-UE9hHXMx--kNXSo.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Bellota Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5Rfwaeg_x.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Bellota Text"
 		},
 		{

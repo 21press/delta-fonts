@@ -13,45 +13,15 @@
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DuJH4iNhMA.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Alegreya Sans SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGh4-RGJqfMvt7P8FUr0Q1j-Hf1Bkll9w.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Alegreya Sans SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DrpG4iNhMA.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Alegreya Sans SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DvJA4iNhMA.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Alegreya Sans SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1Du5D4iNhMA.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Alegreya Sans SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DspC4iNhMA.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Alegreya Sans SC"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGl4-RGJqfMvt7P8FUr0Q1j-Hf1BkxdljRGFY8.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DuJH4iNhMA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{
@@ -61,9 +31,21 @@
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGh4-RGJqfMvt7P8FUr0Q1j-Hf1Bkll9w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans SC"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGn4-RGJqfMvt7P8FUr0Q1j-Hf1BkxV9QRE.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DrpG4iNhMA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{
@@ -73,15 +55,33 @@
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DvJA4iNhMA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans SC"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGk4-RGJqfMvt7P8FUr0Q1j-Hf1BkxdTiFRMqp7.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1Du5D4iNhMA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans SC"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGk4-RGJqfMvt7P8FUr0Q1j-Hf1BkxdUiJRMqp7.woff2",
 			"fontWeight": "800",
 			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGm4-RGJqfMvt7P8FUr0Q1j-Hf1DspC4iNhMA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Alegreya Sans SC"
 		},
 		{

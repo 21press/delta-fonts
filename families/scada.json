@@ -13,15 +13,15 @@
 			"fontFamily": "Scada"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/scada/v16/RLp8K5Pv5qumeVrU6CEnT1Y.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Scada"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/scada/v16/RLp_K5Pv5qumeVJq_TYAag.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Scada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/scada/v16/RLp8K5Pv5qumeVrU6CEnT1Y.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Scada"
 		},
 		{

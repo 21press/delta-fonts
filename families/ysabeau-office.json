@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/ysabeauoffice/v4/LDIrapaZKhM9RuQIp8FmdYrPPPLJs78.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Ysabeau Office"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ysabeauoffice/v4/LDIrapaZKhM9RuQIp8FmdYrPPPLJs78.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Ysabeau Office"
@@ -67,26 +61,8 @@
 			"fontFamily": "Ysabeau Office"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/ysabeauoffice/v4/LDIrapaZKhM9RuQIp8FmdYrPPPLJs78.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Ysabeau Office"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ysabeauoffice/v4/LDIpapaZKhM9RuQIp8FmdYrPPPLMg70R9g.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "Ysabeau Office"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/ysabeauoffice/v4/LDIpapaZKhM9RuQIp8FmdYrPPPLMg70R9g.woff2",
 			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Ysabeau Office"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ysabeauoffice/v4/LDIpapaZKhM9RuQIp8FmdYrPPPLMg70R9g.woff2",
-			"fontWeight": "1",
 			"fontStyle": "italic",
 			"fontFamily": "Ysabeau Office"
 		},

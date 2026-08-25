@@ -13,15 +13,15 @@
 			"fontFamily": "Amiri"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkaY_zp4.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Amiri"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/amiri/v30/J7afnpd8CGxBHpUrhLEY6w.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Amiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkaY_zp4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Amiri"
 		},
 		{

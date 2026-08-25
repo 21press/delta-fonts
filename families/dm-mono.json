@@ -13,27 +13,27 @@
 			"fontFamily": "DM Mono"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthqQBA.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "DM Mono"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "DM Mono"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYadb435.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
 			"fontFamily": "DM Mono"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthqQBA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "DM Mono"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/dmmono/v16/aFTW7PB1QTsUX8KYth-gBqSI.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "DM Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
 			"fontFamily": "DM Mono"
 		},
 		{

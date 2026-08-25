@@ -13,15 +13,15 @@
 			"fontFamily": "PT Serif"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qSVys.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "PT Serif"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRTQgYoZZY2vCFuvAFT_r21cg.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "PT Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qSVys.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "PT Serif"
 		},
 		{

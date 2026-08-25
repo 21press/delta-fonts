@@ -13,51 +13,15 @@
 			"fontFamily": "Livvic"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlffp8IutV3D.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlffw8EutV3D.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCp-x1S2hzjrlfXaOM7.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlffm8AutV3D.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlfft8cutV3D.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlff08YutV3D.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlff68QutV3D.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Livvic"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCt-x1S2hzjrlfXbdtaonrmTA.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "Livvic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlffp8IutV3D.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
 			"fontFamily": "Livvic"
 		},
 		{
@@ -67,9 +31,21 @@
 			"fontFamily": "Livvic"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlffw8EutV3D.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Livvic"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCs-x1S2hzjrlfXbduSsG3BafY.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "Livvic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCp-x1S2hzjrlfXaOM7.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "Livvic"
 		},
 		{
@@ -79,9 +55,21 @@
 			"fontFamily": "Livvic"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlffm8AutV3D.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Livvic"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCs-x1S2hzjrlfXbdvKsW3BafY.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
+			"fontFamily": "Livvic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlfft8cutV3D.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
 			"fontFamily": "Livvic"
 		},
 		{
@@ -91,9 +79,21 @@
 			"fontFamily": "Livvic"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlff08YutV3D.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Livvic"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCs-x1S2hzjrlfXbduCt23BafY.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
+			"fontFamily": "Livvic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/livvic/v15/rnCq-x1S2hzjrlff68QutV3D.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Livvic"
 		},
 		{

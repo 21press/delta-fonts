@@ -1,0 +1,16 @@
+{
+	"slug": "material-icons-outlined",
+	"name": "Material Icons Outlined",
+	"fontFamily": "\"Material Icons Outlined\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/materialiconsoutlined/v110/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Material Icons Outlined"
+		}
+	]
+}

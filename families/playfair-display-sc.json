@@ -13,27 +13,27 @@
 			"fontFamily": "Playfair Display SC"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXLg.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Playfair Display SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXLg.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Playfair Display SC"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke87OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw8Eusy.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
 			"fontFamily": "Playfair Display SC"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nQIpBcwXLg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Playfair Display SC"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke82OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lbw0qc4nLKoQ.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
+			"fontFamily": "Playfair Display SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke80OhoaMkR6-hSn7kbHVoFf7ZfgMPr_nTorBcwXLg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Playfair Display SC"
 		},
 		{

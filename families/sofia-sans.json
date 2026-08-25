@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/sofiasans/v20/Yq6R-LCVXSLy9uPBwlATrOF6kg.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Sofia Sans"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasans/v20/Yq6R-LCVXSLy9uPBwlATrOF6kg.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Sofia Sans"
@@ -67,26 +61,8 @@
 			"fontFamily": "Sofia Sans"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/sofiasans/v20/Yq6R-LCVXSLy9uPBwlATrOF6kg.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Sofia Sans"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasans/v20/Yq6T-LCVXSLy9uPBwlATrORKkDAp.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "Sofia Sans"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/sofiasans/v20/Yq6T-LCVXSLy9uPBwlATrORKkDAp.woff2",
 			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Sofia Sans"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasans/v20/Yq6T-LCVXSLy9uPBwlATrORKkDAp.woff2",
-			"fontWeight": "1",
 			"fontStyle": "italic",
 			"fontFamily": "Sofia Sans"
 		},

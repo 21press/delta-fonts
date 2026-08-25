@@ -1,0 +1,16 @@
+{
+	"slug": "material-icons-two-tone",
+	"name": "Material Icons Two Tone",
+	"fontFamily": "\"Material Icons Two Tone\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/materialiconstwotone/v113/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Material Icons Two Tone"
+		}
+	]
+}

@@ -13,15 +13,15 @@
 			"fontFamily": "Cambay"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0pucwPNx.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Cambay"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXLc1rY6H0_ZDs2bI6L59Y.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Cambay"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0pucwPNx.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Cambay"
 		},
 		{

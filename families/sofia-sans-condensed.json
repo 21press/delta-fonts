@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05EGKVS5aVKd567NYXawnFKJaTtoAuLnIcIptE.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Sofia Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05EGKVS5aVKd567NYXawnFKJaTtoAuLnIcIptE.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Sofia Sans Condensed"
@@ -67,26 +61,8 @@
 			"fontFamily": "Sofia Sans Condensed"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05EGKVS5aVKd567NYXawnFKJaTtoAuLnIcIptE.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Sofia Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05KGKVS5aVKd567NYXawnFKJaTtoAuLnIcNltP9fg.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "Sofia Sans Condensed"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05KGKVS5aVKd567NYXawnFKJaTtoAuLnIcNltP9fg.woff2",
 			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Sofia Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05KGKVS5aVKd567NYXawnFKJaTtoAuLnIcNltP9fg.woff2",
-			"fontWeight": "1",
 			"fontStyle": "italic",
 			"fontFamily": "Sofia Sans Condensed"
 		},

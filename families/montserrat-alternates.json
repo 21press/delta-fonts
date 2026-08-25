@@ -13,57 +13,15 @@
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xJIbFB7xG.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIXFB7xG.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU0566fQ.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGITFB7xG.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIPFB7xG.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUILFB7xG.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xTIHFB7xG.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaIDFB7xG.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Montserrat Alternates"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xEJtj1w.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xJIbFB7xG.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
@@ -73,9 +31,21 @@
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIXFB7xG.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95AoxE8mQ.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU0566fQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
@@ -85,9 +55,21 @@
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGITFB7xG.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA4xE8mQ.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIPFB7xG.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
@@ -97,15 +79,33 @@
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUILFB7xG.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBYxE8mQ.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
 			"fontFamily": "Montserrat Alternates"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xTIHFB7xG.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p91BoxE8mQ.woff2",
 			"fontWeight": "800",
 			"fontStyle": "italic",
+			"fontFamily": "Montserrat Alternates"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaIDFB7xG.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Montserrat Alternates"
 		},
 		{

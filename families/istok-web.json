@@ -13,15 +13,15 @@
 			"fontFamily": "Istok Web"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Istok Web"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qTpojGmgSyUukBzKslpA1t93kY.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Istok Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Istok Web"
 		},
 		{

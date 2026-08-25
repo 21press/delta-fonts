@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Ysabeau SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Ysabeau SC"
@@ -63,12 +57,6 @@
 		{
 			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
 			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Ysabeau SC"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
-			"fontWeight": "1000",
 			"fontStyle": "normal",
 			"fontFamily": "Ysabeau SC"
 		}

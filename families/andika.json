@@ -13,15 +13,15 @@
 			"fontFamily": "Andika"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/andika/v27/mem8Ya6iyW-Lwqg40ZMFVZ0b.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Andika"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/andika/v27/mem9Ya6iyW-Lwqgwb4YScrg.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Andika"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/andika/v27/mem8Ya6iyW-Lwqg40ZMFVZ0b.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Andika"
 		},
 		{

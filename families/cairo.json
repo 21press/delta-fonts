@@ -53,12 +53,6 @@
 			"fontWeight": "900",
 			"fontStyle": "normal",
 			"fontFamily": "Cairo"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/cairo/v31/SLXVc1nY6HkvangtZmpQdkhzfH5lkSscRiyS.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Cairo"
 		}
 	]
 }

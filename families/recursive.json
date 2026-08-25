@@ -47,12 +47,6 @@
 			"fontWeight": "900",
 			"fontStyle": "normal",
 			"fontFamily": "Recursive"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/recursive/v44/8vI-7wMr0mhh-RQChyHEH06TlXhq_gukbYrFMk1QuAIcyEwG_X-dpEfaE5YaERmK-CImKsvxvU-MXGX2fSqasNfUlTGZnA.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Recursive"
 		}
 	]
 }

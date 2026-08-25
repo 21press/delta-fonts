@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"updatedAt": "2026-08-25T15:12:22.808Z",
+	"updatedAt": "2026-08-25T17:35:26.532Z",
 	"provider": "google",
 	"families": [
 		{
@@ -112,7 +112,7 @@
 			"name": "Afacad Flux",
 			"fontFamily": "\"Afacad Flux\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 10,
+			"weightCount": 9,
 			"license": "OFL-1.1"
 		},
 		{
@@ -576,7 +576,7 @@
 			"name": "Ancizar Sans",
 			"fontFamily": "\"Ancizar Sans\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 20,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -2280,7 +2280,7 @@
 			"name": "Cairo",
 			"fontFamily": "Cairo, sans-serif",
 			"category": "sans-serif",
-			"weightCount": 9,
+			"weightCount": 8,
 			"license": "OFL-1.1"
 		},
 		{
@@ -2288,7 +2288,7 @@
 			"name": "Cairo Play",
 			"fontFamily": "\"Cairo Play\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 9,
+			"weightCount": 8,
 			"license": "OFL-1.1"
 		},
 		{
@@ -3344,7 +3344,7 @@
 			"name": "DM Sans",
 			"fontFamily": "\"DM Sans\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 20,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -4744,7 +4744,7 @@
 			"name": "Google Sans Flex",
 			"fontFamily": "\"Google Sans Flex\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 11,
+			"weightCount": 9,
 			"license": "OFL-1.1"
 		},
 		{
@@ -5104,7 +5104,7 @@
 			"name": "Hepta Slab",
 			"fontFamily": "\"Hepta Slab\", serif",
 			"category": "serif",
-			"weightCount": 10,
+			"weightCount": 9,
 			"license": "OFL-1.1"
 		},
 		{
@@ -6896,7 +6896,7 @@
 			"name": "Linefont",
 			"fontFamily": "Linefont, system-ui",
 			"category": "display",
-			"weightCount": 10,
+			"weightCount": 9,
 			"license": "OFL-1.1"
 		},
 		{
@@ -7457,6 +7457,78 @@
 			"fontFamily": "Matemasie, sans-serif",
 			"category": "sans-serif",
 			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-icons",
+			"name": "Material Icons",
+			"fontFamily": "\"Material Icons\", monospace",
+			"category": "monospace",
+			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-icons-outlined",
+			"name": "Material Icons Outlined",
+			"fontFamily": "\"Material Icons Outlined\", monospace",
+			"category": "monospace",
+			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-icons-round",
+			"name": "Material Icons Round",
+			"fontFamily": "\"Material Icons Round\", monospace",
+			"category": "monospace",
+			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-icons-sharp",
+			"name": "Material Icons Sharp",
+			"fontFamily": "\"Material Icons Sharp\", monospace",
+			"category": "monospace",
+			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-icons-two-tone",
+			"name": "Material Icons Two Tone",
+			"fontFamily": "\"Material Icons Two Tone\", monospace",
+			"category": "monospace",
+			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-symbols",
+			"name": "Material Symbols",
+			"fontFamily": "\"Material Symbols\", monospace",
+			"category": "monospace",
+			"weightCount": 7,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-symbols-outlined",
+			"name": "Material Symbols Outlined",
+			"fontFamily": "\"Material Symbols Outlined\", monospace",
+			"category": "monospace",
+			"weightCount": 7,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-symbols-rounded",
+			"name": "Material Symbols Rounded",
+			"fontFamily": "\"Material Symbols Rounded\", monospace",
+			"category": "monospace",
+			"weightCount": 7,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "material-symbols-sharp",
+			"name": "Material Symbols Sharp",
+			"fontFamily": "\"Material Symbols Sharp\", monospace",
+			"category": "monospace",
+			"weightCount": 7,
 			"license": "OFL-1.1"
 		},
 		{
@@ -8096,7 +8168,7 @@
 			"name": "Mulish",
 			"fontFamily": "Mulish, sans-serif",
 			"category": "sans-serif",
-			"weightCount": 18,
+			"weightCount": 16,
 			"license": "OFL-1.1"
 		},
 		{
@@ -10160,7 +10232,7 @@
 			"name": "Nunito",
 			"fontFamily": "Nunito, sans-serif",
 			"category": "sans-serif",
-			"weightCount": 18,
+			"weightCount": 16,
 			"license": "OFL-1.1"
 		},
 		{
@@ -10168,7 +10240,7 @@
 			"name": "Nunito Sans",
 			"fontFamily": "\"Nunito Sans\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 18,
+			"weightCount": 16,
 			"license": "OFL-1.1"
 		},
 		{
@@ -12240,7 +12312,7 @@
 			"name": "Recursive",
 			"fontFamily": "Recursive, sans-serif",
 			"category": "sans-serif",
-			"weightCount": 8,
+			"weightCount": 7,
 			"license": "OFL-1.1"
 		},
 		{
@@ -12456,7 +12528,7 @@
 			"name": "Roboto Flex",
 			"fontFamily": "\"Roboto Flex\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 10,
+			"weightCount": 1,
 			"license": "OFL-1.1"
 		},
 		{
@@ -13584,7 +13656,7 @@
 			"name": "Sofia Sans",
 			"fontFamily": "\"Sofia Sans\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -13592,7 +13664,7 @@
 			"name": "Sofia Sans Condensed",
 			"fontFamily": "\"Sofia Sans Condensed\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -13600,7 +13672,7 @@
 			"name": "Sofia Sans Extra Condensed",
 			"fontFamily": "\"Sofia Sans Extra Condensed\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -13608,7 +13680,7 @@
 			"name": "Sofia Sans Semi Condensed",
 			"fontFamily": "\"Sofia Sans Semi Condensed\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -15000,7 +15072,7 @@
 			"name": "Wavefont",
 			"fontFamily": "Wavefont, system-ui",
 			"category": "display",
-			"weightCount": 10,
+			"weightCount": 9,
 			"license": "OFL-1.1"
 		},
 		{
@@ -15256,7 +15328,7 @@
 			"name": "Ysabeau",
 			"fontFamily": "Ysabeau, sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -15264,7 +15336,7 @@
 			"name": "Ysabeau Infant",
 			"fontFamily": "\"Ysabeau Infant\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -15272,7 +15344,7 @@
 			"name": "Ysabeau Office",
 			"fontFamily": "\"Ysabeau Office\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 22,
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -15280,7 +15352,7 @@
 			"name": "Ysabeau SC",
 			"fontFamily": "\"Ysabeau SC\", sans-serif",
 			"category": "sans-serif",
-			"weightCount": 11,
+			"weightCount": 9,
 			"license": "OFL-1.1"
 		},
 		{

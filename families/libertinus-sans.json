@@ -13,15 +13,15 @@
 			"fontFamily": "Libertinus Sans"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/libertinussans/v1/YA9Or0-a6k7ZLbw_dle4knJh2cq0MvLB8vFp.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Libertinus Sans"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/libertinussans/v1/YA9Jr0-a6k7ZLbw_dle4knJh2cq8jOfW1dQ.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Libertinus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/libertinussans/v1/YA9Or0-a6k7ZLbw_dle4knJh2cq0MvLB8vFp.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Libertinus Sans"
 		}
 	]

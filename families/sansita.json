@@ -13,27 +13,15 @@
 			"fontFamily": "Sansita"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/sansita/v12/QldLNTRRphEb_-V7JKWUWX5-ww.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Sansita"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sansita/v12/QldLNTRRphEb_-V7JLmXWX5-ww.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Sansita"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sansita/v12/QldLNTRRphEb_-V7JJ2WWX5-ww.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Sansita"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/sansita/v12/QldMNTRRphEb_-V7LBuBTllb.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Sansita"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sansita/v12/QldLNTRRphEb_-V7JKWUWX5-ww.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Sansita"
 		},
 		{
@@ -43,9 +31,21 @@
 			"fontFamily": "Sansita"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/sansita/v12/QldLNTRRphEb_-V7JLmXWX5-ww.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Sansita"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/sansita/v12/QldJNTRRphEb_-V7LBuJ6X9OwY1r.woff2",
 			"fontWeight": "800",
 			"fontStyle": "italic",
+			"fontFamily": "Sansita"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sansita/v12/QldLNTRRphEb_-V7JJ2WWX5-ww.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Sansita"
 		},
 		{

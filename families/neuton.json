@@ -25,6 +25,12 @@
 			"fontFamily": "Neuton"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyrg4Wi8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Neuton"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0vfQr4.woff2",
 			"fontWeight": "700",
 			"fontStyle": "normal",
@@ -34,12 +40,6 @@
 			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKaK4vfQr4.woff2",
 			"fontWeight": "800",
 			"fontStyle": "normal",
-			"fontFamily": "Neuton"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyrg4Wi8.woff2",
-			"fontWeight": "400",
-			"fontStyle": "italic",
 			"fontFamily": "Neuton"
 		}
 	]

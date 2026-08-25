@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Sofia Sans Extra Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Sofia Sans Extra Condensed"
@@ -67,26 +61,8 @@
 			"fontFamily": "Sofia Sans Extra Condensed"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Sofia Sans Extra Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "Sofia Sans Extra Condensed"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
 			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Sofia Sans Extra Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
-			"fontWeight": "1",
 			"fontStyle": "italic",
 			"fontFamily": "Sofia Sans Extra Condensed"
 		},

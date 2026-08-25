@@ -13,33 +13,15 @@
 			"fontFamily": "Chakra Petch"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIf6MapbsEk7TDLdtEz1BwkWn6pg.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Chakra Petch"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIflMapbsEk7TDLdtEz1BwkebIl1R5_F.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Chakra Petch"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIflMapbsEk7TDLdtEz1BwkeQI51R5_F.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Chakra Petch"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIflMapbsEk7TDLdtEz1BwkeJI91R5_F.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Chakra Petch"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIfnMapbsEk7TDLdtEz1BwkWmpLJQq_H9AI.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "Chakra Petch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIf6MapbsEk7TDLdtEz1BwkWn6pg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "Chakra Petch"
 		},
 		{
@@ -49,15 +31,33 @@
 			"fontFamily": "Chakra Petch"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIflMapbsEk7TDLdtEz1BwkebIl1R5_F.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Chakra Petch"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIfnMapbsEk7TDLdtEz1BwkWmpKRQ6_H9AI.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
 			"fontFamily": "Chakra Petch"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIflMapbsEk7TDLdtEz1BwkeQI51R5_F.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Chakra Petch"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIfnMapbsEk7TDLdtEz1BwkWmpK9RK_H9AI.woff2",
 			"fontWeight": "600",
 			"fontStyle": "italic",
+			"fontFamily": "Chakra Petch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/chakrapetch/v13/cIflMapbsEk7TDLdtEz1BwkeJI91R5_F.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Chakra Petch"
 		},
 		{

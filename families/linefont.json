@@ -59,12 +59,6 @@
 			"fontWeight": "900",
 			"fontStyle": "normal",
 			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
 		}
 	]
 }

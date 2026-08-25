@@ -13,45 +13,15 @@
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY5m6bvspYY.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "IBM Plex Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY4C6rvspYY.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "IBM Plex Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8lN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYapyK4.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "IBM Plex Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY5a67vspYY.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "IBM Plex Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY527LvspYY.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "IBM Plex Sans Condensed"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY4S7bvspYY.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "IBM Plex Sans Condensed"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8hN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8M_7gqMI.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY5m6bvspYY.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{
@@ -61,9 +31,21 @@
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY4C6rvspYY.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Condensed"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8AfplYQtEw.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8lN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYapyK4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{
@@ -73,15 +55,33 @@
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY5a67vspYY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Condensed"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8F_olYQtEw.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY527LvspYY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Condensed"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8iN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYas8HPvlYQtEw.woff2",
 			"fontWeight": "600",
 			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8gN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHY4S7bvspYY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "IBM Plex Sans Condensed"
 		},
 		{

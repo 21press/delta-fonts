@@ -13,33 +13,15 @@
 			"fontFamily": "Proza Libre"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyELbV8_YeJE.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Proza Libre"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_YeJE.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Proza Libre"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKTUc_YeJE.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Proza Libre"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKPUs_YeJE.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Proza Libre"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjEdGHgj0k1DIQRyUEyyEotRNj_XQ.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Proza Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyELbV8_YeJE.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
 			"fontFamily": "Proza Libre"
 		},
 		{
@@ -49,15 +31,33 @@
 			"fontFamily": "Proza Libre"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEL3UM_YeJE.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Proza Libre"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTAfbSJOS8g.woff2",
 			"fontWeight": "600",
 			"fontStyle": "italic",
 			"fontFamily": "Proza Libre"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKTUc_YeJE.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Proza Libre"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjZdGHgj0k1DIQRyUEyyEotTGPaSJOS8g.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
+			"fontFamily": "Proza Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/prozalibre/v9/LYjbdGHgj0k1DIQRyUEyyEKPUs_YeJE.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
 			"fontFamily": "Proza Libre"
 		},
 		{

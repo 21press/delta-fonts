@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/heptaslab/v25/ea8cadoyU_jkHdalebHv42llhA.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Hepta Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/heptaslab/v25/ea8cadoyU_jkHdalebHv42llhA.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Hepta Slab"

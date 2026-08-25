@@ -55,18 +55,6 @@
 			"fontFamily": "Nunito"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Nunito"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "Nunito"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
 			"fontWeight": "200",
 			"fontStyle": "italic",

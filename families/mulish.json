@@ -55,18 +55,6 @@
 			"fontFamily": "Mulish"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/mulish/v18/1Ptvg83HX_SGhgqk3wot.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Mulish"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/mulish/v18/1Pttg83HX_SGhgqk2jovaqQ.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "Mulish"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/mulish/v18/1Pttg83HX_SGhgqk2jovaqQ.woff2",
 			"fontWeight": "200",
 			"fontStyle": "italic",

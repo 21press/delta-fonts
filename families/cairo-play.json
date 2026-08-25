@@ -53,12 +53,6 @@
 			"fontWeight": "900",
 			"fontStyle": "normal",
 			"fontFamily": "Cairo Play"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/cairoplay/v13/wXK7E3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3kKizHo.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Cairo Play"
 		}
 	]
 }

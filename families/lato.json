@@ -13,33 +13,15 @@
 			"fontFamily": "Lato"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPGQ.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Lato"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXg.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Lato"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Lato"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50XSwiPGQ.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Lato"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/lato/v25/S6u-w4BMUTPHjxsIPx-oPCI.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "Lato"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPGQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
 			"fontFamily": "Lato"
 		},
 		{
@@ -49,15 +31,33 @@
 			"fontFamily": "Lato"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lato"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHjxsAXC-q.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
 			"fontFamily": "Lato"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lato"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wq_Gwft.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
+			"fontFamily": "Lato"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50XSwiPGQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Lato"
 		},
 		{

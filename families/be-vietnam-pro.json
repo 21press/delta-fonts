@@ -13,57 +13,15 @@
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JG81Rb0.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ281Rb0.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Hw3BXo.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rb0.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIW81Rb0.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIG81Rb0.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI281Rb0.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Im81Rb0.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Be Vietnam Pro"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsiYpgm.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JG81Rb0.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
@@ -73,9 +31,21 @@
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ281Rb0.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwdb8Ddw.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Hw3BXo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
@@ -85,9 +55,21 @@
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rb0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxdb8Ddw.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIW81Rb0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
@@ -97,15 +79,33 @@
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIG81Rb0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3db8Ddw.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI281Rb0.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80db8Ddw.woff2",
 			"fontWeight": "800",
 			"fontStyle": "italic",
+			"fontFamily": "Be Vietnam Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Im81Rb0.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Be Vietnam Pro"
 		},
 		{

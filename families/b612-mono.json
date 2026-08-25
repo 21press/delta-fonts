@@ -13,15 +13,15 @@
 			"fontFamily": "B612 Mono"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayvIpcVO.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "B612 Mono"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmK5Zq85QVWbN1eW6lJV1T7fguA.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "B612 Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayvIpcVO.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "B612 Mono"
 		},
 		{

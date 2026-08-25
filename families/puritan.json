@@ -13,15 +13,15 @@
 			"fontFamily": "Puritan"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/puritan/v25/845dNMgkAJ2VTtIozCbfUdmp-g.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Puritan"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/puritan/v25/845aNMgkAJ2VTtIoxJjKRv6M.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Puritan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/puritan/v25/845dNMgkAJ2VTtIozCbfUdmp-g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Puritan"
 		},
 		{

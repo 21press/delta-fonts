@@ -1,0 +1,16 @@
+{
+	"slug": "material-icons-round",
+	"name": "Material Icons Round",
+	"fontFamily": "\"Material Icons Round\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/materialiconsround/v109/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Material Icons Round"
+		}
+	]
+}

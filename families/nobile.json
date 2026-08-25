@@ -13,27 +13,27 @@
 			"fontFamily": "Nobile"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iOqo7Dd5RA.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Nobile"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iO4ojDd5RA.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Nobile"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/nobile/v19/m8JRjflSeaOVl1iGXJ3UULE.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
 			"fontFamily": "Nobile"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iOqo7Dd5RA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Nobile"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJUnc6RCTm4.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
+			"fontFamily": "Nobile"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iO4ojDd5RA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Nobile"
 		},
 		{

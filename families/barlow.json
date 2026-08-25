@@ -13,57 +13,15 @@
 			"fontFamily": "Barlow"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3w-os51os.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3p-ks51os.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7E_DMs5.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3_-gs51os.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E30-8s51os.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3t-4s51os.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3q-0s51os.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3j-ws51os.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Barlow"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHtv4kjgoGqM7E_CfNY8H0JmA.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "Barlow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3w-os51os.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
 			"fontFamily": "Barlow"
 		},
 		{
@@ -73,9 +31,21 @@
 			"fontFamily": "Barlow"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3p-ks51os.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfOQ4mouvTo.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "Barlow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7E_DMs5.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "Barlow"
 		},
 		{
@@ -85,9 +55,21 @@
 			"fontFamily": "Barlow"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3_-gs51os.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfPI42ouvTo.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
+			"fontFamily": "Barlow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E30-8s51os.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
 			"fontFamily": "Barlow"
 		},
 		{
@@ -97,15 +79,33 @@
 			"fontFamily": "Barlow"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3t-4s51os.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfOA5WouvTo.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
 			"fontFamily": "Barlow"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3q-0s51os.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfOc5mouvTo.woff2",
 			"fontWeight": "800",
 			"fontStyle": "italic",
+			"fontFamily": "Barlow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3j-ws51os.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
 			"fontFamily": "Barlow"
 		},
 		{

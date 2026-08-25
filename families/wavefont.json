@@ -59,12 +59,6 @@
 			"fontWeight": "900",
 			"fontStyle": "normal",
 			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
 		}
 	]
 }

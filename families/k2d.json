@@ -13,51 +13,15 @@
 			"fontFamily": "K2D"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erv4Q5k5Y9.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er24c5k5Y9.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0EjcKUs.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erg4Y5k5Y9.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Err4E5k5Y9.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Ery4A5k5Y9.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er14M5k5Y9.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "K2D"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/k2d/v13/J7afnpF2V0EjdZ1NhLEY6w.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",
+			"fontFamily": "K2D"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erv4Q5k5Y9.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
 			"fontFamily": "K2D"
 		},
 		{
@@ -67,9 +31,21 @@
 			"fontFamily": "K2D"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er24c5k5Y9.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "K2D"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2FlqY_zp4.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
+			"fontFamily": "K2D"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0EjcKUs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
 			"fontFamily": "K2D"
 		},
 		{
@@ -79,9 +55,21 @@
 			"fontFamily": "K2D"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erg4Y5k5Y9.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "K2D"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3dl6Y_zp4.woff2",
 			"fontWeight": "500",
 			"fontStyle": "italic",
+			"fontFamily": "K2D"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Err4E5k5Y9.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
 			"fontFamily": "K2D"
 		},
 		{
@@ -91,9 +79,21 @@
 			"fontFamily": "K2D"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Ery4A5k5Y9.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "K2D"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2VkaY_zp4.woff2",
 			"fontWeight": "700",
 			"fontStyle": "italic",
+			"fontFamily": "K2D"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er14M5k5Y9.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
 			"fontFamily": "K2D"
 		},
 		{

@@ -61,18 +61,6 @@
 			"fontFamily": "DM Sans"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "normal",
-			"fontFamily": "DM Sans"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/dmsans/v17/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2",
-			"fontWeight": "1000",
-			"fontStyle": "italic",
-			"fontFamily": "DM Sans"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/dmsans/v17/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2",
 			"fontWeight": "100",
 			"fontStyle": "italic",

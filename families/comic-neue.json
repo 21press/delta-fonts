@@ -13,27 +13,27 @@
 			"fontFamily": "Comic Neue"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeD96rp5w.woff2",
-			"fontWeight": "400",
-			"fontStyle": "normal",
-			"fontFamily": "Comic Neue"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHM8pxULg.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Comic Neue"
-		},
-		{
 			"src": "https://fonts.gstatic.com/s/comicneue/v9/4UaarEJDsxBrF37olUeD96_RTplkLCND.woff2",
 			"fontWeight": "300",
 			"fontStyle": "italic",
 			"fontFamily": "Comic Neue"
 		},
 		{
+			"src": "https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeD96rp5w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Comic Neue"
+		},
+		{
 			"src": "https://fonts.gstatic.com/s/comicneue/v9/4UaFrEJDsxBrF37olUeD96_Z5btx.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
+			"fontFamily": "Comic Neue"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/comicneue/v9/4UaErEJDsxBrF37olUeD_xHM8pxULg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
 			"fontFamily": "Comic Neue"
 		},
 		{

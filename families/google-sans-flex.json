@@ -8,12 +8,6 @@
 	"fontFace": [
 		{
 			"src": "https://fonts.gstatic.com/s/googlesansflex/v22/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8Ju1x6sKCyp0l9sI40swNJwInycYAJzz0m7kJ4qFQOJBOjLvDSndo0SKMpKSTzwliVdHAy4xyRg2.woff2",
-			"fontWeight": "1",
-			"fontStyle": "normal",
-			"fontFamily": "Google Sans Flex"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/googlesansflex/v22/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8Ju1x6sKCyp0l9sI40swNJwInycYAJzz0m7kJ4qFQOJBOjLvDSndo0SKMpKSTzwliVdHAy4xyRg2.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Google Sans Flex"
@@ -63,12 +57,6 @@
 		{
 			"src": "https://fonts.gstatic.com/s/googlesansflex/v22/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8Ju1x6sKCyp0l9sI40swNJwInycYAJzz0m7kJ4qFQOJBOjLvDSndo0SKMpKSTzwliVdHAy4xyRg2.woff2",
 			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Google Sans Flex"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/googlesansflex/v22/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8Ju1x6sKCyp0l9sI40swNJwInycYAJzz0m7kJ4qFQOJBOjLvDSndo0SKMpKSTzwliVdHAy4xyRg2.woff2",
-			"fontWeight": "1000",
 			"fontStyle": "normal",
 			"fontFamily": "Google Sans Flex"
 		}
