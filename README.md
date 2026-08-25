@@ -37,6 +37,8 @@ npm run validate
 
 CI cron runs sync twice a week. Manual: Actions → Sync Google Fonts catalog → Run workflow.
 
+Workflow files live in `.github/workflows/` (`sync.yml`, `validate.yml`, `purge-cdn.yml`). Pushing them needs a token with the **`workflow`** scope (`repo` alone is refused). Optional repo secret: `GOOGLE_FONTS_API_KEY` (sync falls back to fonts.google.com metadata when unset).
+
 | Script | What |
 |--------|------|
 | `npm run sync` | Fetch Google Fonts, write families + index |
