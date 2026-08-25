@@ -1,0 +1,16 @@
+{
+	"slug": "dr-sugiyama",
+	"name": "Dr Sugiyama",
+	"fontFamily": "\"Dr Sugiyama\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/drsugiyama/v30/HTxoL2k4N3O9n5I1boGI7ZbWOY4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dr Sugiyama"
+		}
+	]
+}

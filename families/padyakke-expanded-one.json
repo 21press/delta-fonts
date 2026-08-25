@@ -1,0 +1,16 @@
+{
+	"slug": "padyakke-expanded-one",
+	"name": "Padyakke Expanded One",
+	"fontFamily": "\"Padyakke Expanded One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/padyakkeexpandedone/v8/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoP65l.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Padyakke Expanded One"
+		}
+	]
+}

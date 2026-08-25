@@ -1,0 +1,22 @@
+{
+	"slug": "padauk",
+	"name": "Padauk",
+	"fontFamily": "Padauk, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/padauk/v17/RrQRboJg-id7OnbxbEXh.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Padauk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/padauk/v17/RrQSboJg-id7Onb512D005hF.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Padauk"
+		}
+	]
+}

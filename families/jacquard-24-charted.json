@@ -1,0 +1,16 @@
+{
+	"slug": "jacquard-24-charted",
+	"name": "Jacquard 24 Charted",
+	"fontFamily": "\"Jacquard 24 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquard24charted/v5/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iNhMA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacquard 24 Charted"
+		}
+	]
+}

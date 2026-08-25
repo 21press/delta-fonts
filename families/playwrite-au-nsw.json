@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-au-nsw",
+	"name": "Playwrite AU NSW",
+	"fontFamily": "\"Playwrite AU NSW\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLbKY4NtxD-qVlIPUIPenElWCCEQxY.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU NSW"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLbKY4NtxD-qVlIPUIPenElWCCEQxY.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU NSW"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLbKY4NtxD-qVlIPUIPenElWCCEQxY.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU NSW"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLbKY4NtxD-qVlIPUIPenElWCCEQxY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU NSW"
+		}
+	]
+}

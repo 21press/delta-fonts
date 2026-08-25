@@ -1,0 +1,16 @@
+{
+	"slug": "euphoria-script",
+	"name": "Euphoria Script",
+	"fontFamily": "\"Euphoria Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/euphoriascript/v22/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Euphoria Script"
+		}
+	]
+}

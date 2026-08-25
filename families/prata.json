@@ -1,0 +1,16 @@
+{
+	"slug": "prata",
+	"name": "Prata",
+	"fontFamily": "Prata, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWPCm4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Prata"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"slug": "gelasio",
+	"name": "Gelasio",
+	"fontFamily": "Gelasio, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9C6hYQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9C6hYQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9C6hYQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf9MaFfvUQxTTqS9C6hYQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf_MaFfvUQxTTqS9CuRY0ED.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf_MaFfvUQxTTqS9CuRY0ED.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf_MaFfvUQxTTqS9CuRY0ED.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Gelasio"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gelasio/v14/cIf_MaFfvUQxTTqS9CuRY0ED.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Gelasio"
+		}
+	]
+}

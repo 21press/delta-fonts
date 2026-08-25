@@ -1,0 +1,22 @@
+{
+	"slug": "alumni-sans-pinstripe",
+	"name": "Alumni Sans Pinstripe",
+	"fontFamily": "\"Alumni Sans Pinstripe\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObheDZb9J.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alumni Sans Pinstripe"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNDjOFFPq_AUJD1umyS30W-Xub8zD1ObheDYI9LjcQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Alumni Sans Pinstripe"
+		}
+	]
+}

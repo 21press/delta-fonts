@@ -1,0 +1,16 @@
+{
+	"slug": "princess-sofia",
+	"name": "Princess Sofia",
+	"fontFamily": "\"Princess Sofia\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/princesssofia/v27/qWczB6yguIb8DZ_GXZst16n7GSz8kjQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Princess Sofia"
+		}
+	]
+}

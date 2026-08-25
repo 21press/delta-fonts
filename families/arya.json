@@ -1,0 +1,22 @@
+{
+	"slug": "arya",
+	"name": "Arya",
+	"fontFamily": "Arya, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/arya/v21/ga6CawNG-HJdxUH_-A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Arya"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arya/v21/ga6NawNG-HJdzfra7biLaQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Arya"
+		}
+	]
+}

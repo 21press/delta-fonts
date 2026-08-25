@@ -1,0 +1,16 @@
+{
+	"slug": "tilt-neon",
+	"name": "Tilt Neon",
+	"fontFamily": "\"Tilt Neon\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquUK6UOc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tilt Neon"
+		}
+	]
+}

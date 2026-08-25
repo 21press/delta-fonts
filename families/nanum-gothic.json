@@ -1,0 +1,28 @@
+{
+	"slug": "nanum-gothic",
+	"name": "Nanum Gothic",
+	"fontFamily": "\"Nanum Gothic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_D-dje.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Gothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsm.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Gothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsm.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Gothic"
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"slug": "piazzolla",
+	"name": "Piazzolla",
+	"fontFamily": "Piazzolla, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bE2SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFV4kLYA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/piazzolla/v42/N0bG2SlTPu5rIkWIZjVgI-TckS03oGpPETyEJ887YtBF.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Piazzolla"
+		}
+	]
+}

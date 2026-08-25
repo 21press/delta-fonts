@@ -1,0 +1,16 @@
+{
+	"slug": "grand-hotel",
+	"name": "Grand Hotel",
+	"fontFamily": "\"Grand Hotel\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/grandhotel/v21/7Au7p_IgjDKdCRWuR1azplQKGFw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Grand Hotel"
+		}
+	]
+}

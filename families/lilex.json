@@ -1,0 +1,94 @@
+{
+	"slug": "lilex",
+	"name": "Lilex",
+	"fontFamily": "Lilex, monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEiYwmezwMATATuJDs.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lilex/v1/DPEsYwmezwMATATrFDkhcw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Lilex"
+		}
+	]
+}

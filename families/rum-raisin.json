@@ -1,0 +1,16 @@
+{
+	"slug": "rum-raisin",
+	"name": "Rum Raisin",
+	"fontFamily": "\"Rum Raisin\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rumraisin/v24/nwpRtKu3Ih8D5avB4h2uF3iCyg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rum Raisin"
+		}
+	]
+}

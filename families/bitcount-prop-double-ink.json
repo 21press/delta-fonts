@@ -1,0 +1,64 @@
+{
+	"slug": "bitcount-prop-double-ink",
+	"name": "Bitcount Prop Double Ink",
+	"fontFamily": "\"Bitcount Prop Double Ink\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EeaqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DafyoUk.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Double Ink"
+		}
+	]
+}

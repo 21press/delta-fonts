@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-ro-guides",
+	"name": "Playwrite RO Guides",
+	"fontFamily": "\"Playwrite RO Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5Ym_LU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite RO Guides"
+		}
+	]
+}

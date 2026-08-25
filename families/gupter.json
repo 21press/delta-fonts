@@ -1,0 +1,28 @@
+{
+	"slug": "gupter",
+	"name": "Gupter",
+	"fontFamily": "Gupter, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gupter/v18/2-cm9JNmxJqPO1QkZpy-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gupter"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gupter/v18/2-cl9JNmxJqPO1Qslb-rVc74.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Gupter"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gupter/v18/2-cl9JNmxJqPO1Qs3bmrVc74.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gupter"
+		}
+	]
+}

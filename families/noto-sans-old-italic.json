@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-italic",
+	"name": "Noto Sans Old Italic",
+	"fontFamily": "\"Noto Sans Old Italic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansolditalic/v18/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlWfxk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old Italic"
+		}
+	]
+}

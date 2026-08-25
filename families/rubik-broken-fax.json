@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-broken-fax",
+	"name": "Rubik Broken Fax",
+	"fontFamily": "\"Rubik Broken Fax\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UWicdw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Broken Fax"
+		}
+	]
+}

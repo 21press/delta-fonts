@@ -1,0 +1,22 @@
+{
+	"slug": "phetsarath",
+	"name": "Phetsarath",
+	"fontFamily": "Phetsarath, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/phetsarath/v3/N0bQ2SpTP-plK0uWayAYMdD3nA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Phetsarath"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/phetsarath/v3/N0bT2SpTP-plK0uWayAYOWLSidnxZA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Phetsarath"
+		}
+	]
+}

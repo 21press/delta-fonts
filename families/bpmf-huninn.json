@@ -1,0 +1,16 @@
+{
+	"slug": "bpmf-huninn",
+	"name": "Bpmf Huninn",
+	"fontFamily": "\"Bpmf Huninn\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bpmfhuninn/v6/taiOGmRuFJa3qsALi5gn1J6v2ZA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bpmf Huninn"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "grape-nuts",
+	"name": "Grape Nuts",
+	"fontFamily": "\"Grape Nuts\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/grapenuts/v7/syk2-yF4iLM2RfKj4F7k7tXlow.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Grape Nuts"
+		}
+	]
+}

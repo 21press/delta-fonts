@@ -1,0 +1,16 @@
+{
+	"slug": "kaushan-script",
+	"name": "Kaushan Script",
+	"fontFamily": "\"Kaushan Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kaushanscript/v19/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kaushan Script"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"slug": "playpen-sans-deva",
+	"name": "Playpen Sans Deva",
+	"fontFamily": "\"Playpen Sans Deva\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playpensansdeva/v4/vm8sdQj0UUbMxObnsO17RZ7pPBuJgcd4EpI.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Playpen Sans Deva"
+		}
+	]
+}

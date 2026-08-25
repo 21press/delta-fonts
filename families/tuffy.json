@@ -1,0 +1,34 @@
+{
+	"slug": "tuffy",
+	"name": "Tuffy",
+	"fontFamily": "Tuffy, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7ox0HY0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tuffy"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tuffy/v1/1q2FY56bHkJl7oTPOJhp6Os.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tuffy"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tuffy/v1/1q2GY56bHkJl7oxxLY9OzQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tuffy"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tuffy/v1/1q2DY56bHkJl7oxxJTRr2Ok_gQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Tuffy"
+		}
+	]
+}

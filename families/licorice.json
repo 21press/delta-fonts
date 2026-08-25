@@ -1,0 +1,16 @@
+{
+	"slug": "licorice",
+	"name": "Licorice",
+	"fontFamily": "Licorice, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/licorice/v8/t5tjIR8TMomTCAyjNn2wjKM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Licorice"
+		}
+	]
+}

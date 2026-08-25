@@ -1,0 +1,16 @@
+{
+	"slug": "bbh-bogle",
+	"name": "BBH Bogle",
+	"fontFamily": "\"BBH Bogle\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bbhbogle/v1/GFDoWA58rVDJf-fOV9A7rJJd.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BBH Bogle"
+		}
+	]
+}

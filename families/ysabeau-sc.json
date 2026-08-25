@@ -1,0 +1,76 @@
+{
+	"slug": "ysabeau-sc",
+	"name": "Ysabeau SC",
+	"fontFamily": "\"Ysabeau SC\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "1",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ysabeausc/v4/Noa36Uro3JCIKAbW46nMiL5xOQ.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "normal",
+			"fontFamily": "Ysabeau SC"
+		}
+	]
+}

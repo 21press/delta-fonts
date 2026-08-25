@@ -1,0 +1,46 @@
+{
+	"slug": "kedebideri",
+	"name": "Kedebideri",
+	"fontFamily": "Kedebideri, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tlIR0UPo6ZGAykNh_evKHIyA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kedebideri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etFLr3T7Prw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kedebideri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etH7s3T7Prw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Kedebideri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etBrt3T7Prw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kedebideri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etAbu3T7Prw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Kedebideri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etCLv3T7Prw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Kedebideri"
+		}
+	]
+}

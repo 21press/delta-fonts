@@ -1,0 +1,16 @@
+{
+	"slug": "barrio",
+	"name": "Barrio",
+	"fontFamily": "Barrio, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/barrio/v20/wEO8EBXBk8hBIDi0cgwg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Barrio"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"slug": "brygada-1918",
+	"name": "Brygada 1918",
+	"fontFamily": "\"Brygada 1918\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qBP5v.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qBP5v.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qBP5v.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe0pMI6eKpdGqlF5LANrM--qBP5v.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe03MI6eKpdGqlF5LANrM--qAc5tU1E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe03MI6eKpdGqlF5LANrM--qAc5tU1E.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe03MI6eKpdGqlF5LANrM--qAc5tU1E.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Brygada 1918"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brygada1918/v27/pe03MI6eKpdGqlF5LANrM--qAc5tU1E.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Brygada 1918"
+		}
+	]
+}

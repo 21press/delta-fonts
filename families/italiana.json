@@ -1,0 +1,16 @@
+{
+	"slug": "italiana",
+	"name": "Italiana",
+	"fontFamily": "Italiana, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/italiana/v21/QldNNTtLsx4E__B0XQmWaXw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Italiana"
+		}
+	]
+}

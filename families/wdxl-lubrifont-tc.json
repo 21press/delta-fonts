@@ -1,0 +1,16 @@
+{
+	"slug": "wdxl-lubrifont-tc",
+	"name": "WDXL Lubrifont TC",
+	"fontFamily": "\"WDXL Lubrifont TC\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/wdxllubrifonttc/v6/nKKN-H4mPq1yJurnWXfJE8svQHonWf_5GK0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "WDXL Lubrifont TC"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "carter-one",
+	"name": "Carter One",
+	"fontFamily": "\"Carter One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/carterone/v18/q5uCsoe5IOB2-pXv9UcNExN8hA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Carter One"
+		}
+	]
+}

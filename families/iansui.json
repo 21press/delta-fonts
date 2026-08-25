@@ -1,0 +1,16 @@
+{
+	"slug": "iansui",
+	"name": "Iansui",
+	"fontFamily": "Iansui, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/iansui/v13/w8gbH2UoTuUp5bOqiiuC.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Iansui"
+		}
+	]
+}

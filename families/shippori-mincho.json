@@ -1,0 +1,40 @@
+{
+	"slug": "shippori-mincho",
+	"name": "Shippori Mincho",
+	"fontFamily": "\"Shippori Mincho\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGGAZweH5EbgHY6YExcZfDoj0Bw3PWD.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4L9aW45sP.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4A9GW45sP.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9CW45sP.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4e9OW45sP.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Mincho"
+		}
+	]
+}

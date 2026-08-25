@@ -1,0 +1,82 @@
+{
+	"slug": "mali",
+	"name": "Mali",
+	"fontFamily": "Mali, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bV2SRONuN4QOLlGlNQJA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bV2SRONuN4QIbmGlNQJA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0ba2SRONuN4SC3EDw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bV2SRONuN4QN7nGlNQJA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bV2SRONuN4QPLgGlNQJA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bV2SRONuN4QJbhGlNQJA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bX2SRONuN4SCj8wlVgJv7S.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bX2SRONuN4SCj8plZgJv7S.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bU2SRONuN4SCj0DXR1.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bX2SRONuN4SCj8_ldgJv7S.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bX2SRONuN4SCj80lBgJv7S.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Mali"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mali/v13/N0bX2SRONuN4SCj8tlFgJv7S.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Mali"
+		}
+	]
+}

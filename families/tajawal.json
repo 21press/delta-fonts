@@ -1,0 +1,52 @@
+{
+	"slug": "tajawal",
+	"name": "Tajawal",
+	"fontFamily": "Tajawal, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l_6gHrFpiQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l5qjHrFpiQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1nzGBCw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiHrFpiQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkHrFpiQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l5anHrFpiQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l7KmHrFpiQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Tajawal"
+		}
+	]
+}

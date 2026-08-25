@@ -1,0 +1,16 @@
+{
+	"slug": "sedan-sc",
+	"name": "Sedan SC",
+	"fontFamily": "\"Sedan SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Aq7dy0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sedan SC"
+		}
+	]
+}

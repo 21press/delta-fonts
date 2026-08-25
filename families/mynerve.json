@@ -1,0 +1,16 @@
+{
+	"slug": "mynerve",
+	"name": "Mynerve",
+	"fontFamily": "Mynerve, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mynerve/v8/P5sCzZKPdNjb4jt79CNkiA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mynerve"
+		}
+	]
+}

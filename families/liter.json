@@ -1,0 +1,16 @@
+{
+	"slug": "liter",
+	"name": "Liter",
+	"fontFamily": "Liter, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/liter/v4/SLXGc1nX4GQ4d1IhTps.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Liter"
+		}
+	]
+}

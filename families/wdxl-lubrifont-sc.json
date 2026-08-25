@@ -1,0 +1,16 @@
+{
+	"slug": "wdxl-lubrifont-sc",
+	"name": "WDXL Lubrifont SC",
+	"fontFamily": "\"WDXL Lubrifont SC\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/wdxllubrifontsc/v2/gNMeW2VmY6acu0XtugFrduDciOOyfky-kj4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "WDXL Lubrifont SC"
+		}
+	]
+}

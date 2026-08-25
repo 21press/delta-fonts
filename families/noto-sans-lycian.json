@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-lycian",
+	"name": "Noto Sans Lycian",
+	"fontFamily": "\"Noto Sans Lycian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslycian/v16/QldVNSNMqAsHtsJ7UmqxBQA9r8wA16TQCQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lycian"
+		}
+	]
+}

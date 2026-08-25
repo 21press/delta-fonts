@@ -1,0 +1,16 @@
+{
+	"slug": "trykker",
+	"name": "Trykker",
+	"fontFamily": "Trykker, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/trykker/v22/KtktALyWZJXudUPztN7iOA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Trykker"
+		}
+	]
+}

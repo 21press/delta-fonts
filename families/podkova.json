@@ -1,0 +1,40 @@
+{
+	"slug": "podkova",
+	"name": "Podkova",
+	"fontFamily": "Podkova, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/podkova/v33/K2FxfZ1EmftJSV9VaJnzJw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Podkova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/podkova/v33/K2FxfZ1EmftJSV9VaJnzJw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Podkova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/podkova/v33/K2FxfZ1EmftJSV9VaJnzJw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Podkova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/podkova/v33/K2FxfZ1EmftJSV9VaJnzJw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Podkova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/podkova/v33/K2FxfZ1EmftJSV9VaJnzJw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Podkova"
+		}
+	]
+}

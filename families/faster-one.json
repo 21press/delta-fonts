@@ -1,0 +1,16 @@
+{
+	"slug": "faster-one",
+	"name": "Faster One",
+	"fontFamily": "\"Faster One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fasterone/v20/H4ciBXCHmdfClFb-vWhf-LyYhw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Faster One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "kablammo",
+	"name": "Kablammo",
+	"fontFamily": "Kablammo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kablammo/v4/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCTiBcQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kablammo"
+		}
+	]
+}

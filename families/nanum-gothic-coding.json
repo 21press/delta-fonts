@@ -1,0 +1,22 @@
+{
+	"slug": "nanum-gothic-coding",
+	"name": "Nanum Gothic Coding",
+	"fontFamily": "\"Nanum Gothic Coding\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nanumgothiccoding/v27/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Vw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Gothic Coding"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nanumgothiccoding/v27/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ28w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Gothic Coding"
+		}
+	]
+}

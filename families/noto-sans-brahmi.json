@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-brahmi",
+	"name": "Noto Sans Brahmi",
+	"fontFamily": "\"Noto Sans Brahmi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansbrahmi/v20/vEFK2-VODB8RrNDvZSUmQQIIByV1wtW_Wg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Brahmi"
+		}
+	]
+}

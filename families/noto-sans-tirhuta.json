@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-tirhuta",
+	"name": "Noto Sans Tirhuta",
+	"fontFamily": "\"Noto Sans Tirhuta\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uBWho.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Tirhuta"
+		}
+	]
+}

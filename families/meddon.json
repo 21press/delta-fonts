@@ -1,0 +1,16 @@
+{
+	"slug": "meddon",
+	"name": "Meddon",
+	"fontFamily": "Meddon, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/meddon/v27/kmK8ZqA2EgDNeHTpgx1A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Meddon"
+		}
+	]
+}

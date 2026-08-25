@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-samaritan",
+	"name": "Noto Sans Samaritan",
+	"fontFamily": "\"Noto Sans Samaritan\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssamaritan/v17/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOYolpNw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Samaritan"
+		}
+	]
+}

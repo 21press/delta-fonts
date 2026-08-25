@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-mro",
+	"name": "Noto Sans Mro",
+	"fontFamily": "\"Noto Sans Mro\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmro/v20/qWcsB6--pZv9TqnUQMhe9b39aDvbtw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Mro"
+		}
+	]
+}

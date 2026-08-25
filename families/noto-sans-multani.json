@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-multani",
+	"name": "Noto Sans Multani",
+	"fontFamily": "\"Noto Sans Multani\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmultani/v22/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2Azr_E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Multani"
+		}
+	]
+}

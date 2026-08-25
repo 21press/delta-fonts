@@ -1,0 +1,40 @@
+{
+	"slug": "cormorant-upright",
+	"name": "Cormorant Upright",
+	"fontFamily": "\"Cormorant Upright\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDrWdQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Upright"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantupright/v19/VuJrdM3I2Y35poFONtLdafkUCHw1y1vShDU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Upright"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDrWdQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Upright"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1MNoCDrWdQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Upright"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantupright/v19/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDrWdQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Upright"
+		}
+	]
+}

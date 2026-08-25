@@ -1,0 +1,16 @@
+{
+	"slug": "didact-gothic",
+	"name": "Didact Gothic",
+	"fontFamily": "\"Didact Gothic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/didactgothic/v21/ahcfv8qz1zt6hCC5G4F_P4ASlUuYpg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Didact Gothic"
+		}
+	]
+}

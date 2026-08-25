@@ -1,0 +1,52 @@
+{
+	"slug": "ibm-plex-sans-arabic",
+	"name": "IBM Plex Sans Arabic",
+	"fontFamily": "\"IBM Plex Sans Arabic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3MZRtWPQCuHme67tEYUIx3Kh0PHR9N6YNe7PezeQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPy_eCUXMQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOW_uCUXMQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys93PU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_-CUXMQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-OCUXMQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-eCUXMQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Arabic"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "mingzat",
+	"name": "Mingzat",
+	"fontFamily": "Mingzat, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mingzat/v12/0QIgMX5C-o-oWWyvNtxumg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mingzat"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "macondo-swash-caps",
+	"name": "Macondo Swash Caps",
+	"fontFamily": "\"Macondo Swash Caps\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/macondoswashcaps/v26/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAb.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Macondo Swash Caps"
+		}
+	]
+}

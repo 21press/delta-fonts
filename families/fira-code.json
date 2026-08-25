@@ -1,0 +1,40 @@
+{
+	"slug": "fira-code",
+	"name": "Fira Code",
+	"fontFamily": "\"Fira Code\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firacode/v27/uU9NCBsR6Z2vfE9aq3bh3dSD.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Code"
+		}
+	]
+}

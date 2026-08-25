@@ -1,0 +1,58 @@
+{
+	"slug": "miranda-sans",
+	"name": "Miranda Sans",
+	"fontFamily": "\"Miranda Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTT7Pt8ZWk4XsiWhk7Rb_edb435.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTT7Pt8ZWk4XsiWhk7Rb_edb435.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTT7Pt8ZWk4XsiWhk7Rb_edb435.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTT7Pt8ZWk4XsiWhk7Rb_edb435.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTN7Pt8ZWk4XsiWhk7Rb_edar37fl0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTN7Pt8ZWk4XsiWhk7Rb_edar37fl0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTN7Pt8ZWk4XsiWhk7Rb_edar37fl0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Miranda Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mirandasans/v3/aFTN7Pt8ZWk4XsiWhk7Rb_edar37fl0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Miranda Sans"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"slug": "google-sans-code",
+	"name": "Google Sans Code",
+	"fontFamily": "\"Google Sans Code\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_jF58LQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_jF58LQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_jF58LQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_jF58LQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_jF58LQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_jF58LQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZnOk-ljWSpwaFBwLa0hg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZnOk-ljWSpwaFBwLa0hg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZnOk-ljWSpwaFBwLa0hg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZnOk-ljWSpwaFBwLa0hg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZnOk-ljWSpwaFBwLa0hg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Google Sans Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/googlesanscode/v17/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZnOk-ljWSpwaFBwLa0hg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Google Sans Code"
+		}
+	]
+}

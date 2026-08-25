@@ -1,0 +1,16 @@
+{
+	"slug": "special-gothic-expanded-one",
+	"name": "Special Gothic Expanded One",
+	"fontFamily": "\"Special Gothic Expanded One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5QmJF_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Special Gothic Expanded One"
+		}
+	]
+}

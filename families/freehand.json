@@ -1,0 +1,16 @@
+{
+	"slug": "freehand",
+	"name": "Freehand",
+	"fontFamily": "Freehand, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/freehand/v34/cIf-Ma5eqk01VjKTgDmGRGQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Freehand"
+		}
+	]
+}

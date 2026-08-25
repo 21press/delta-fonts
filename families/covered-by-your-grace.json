@@ -1,0 +1,16 @@
+{
+	"slug": "covered-by-your-grace",
+	"name": "Covered By Your Grace",
+	"fontFamily": "\"Covered By Your Grace\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/coveredbyyourgrace/v17/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEEQgs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Covered By Your Grace"
+		}
+	]
+}

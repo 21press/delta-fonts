@@ -1,0 +1,16 @@
+{
+	"slug": "courgette",
+	"name": "Courgette",
+	"fontFamily": "Courgette, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/courgette/v19/wEO_EBrAnc9BLjLQAUk1VvoK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Courgette"
+		}
+	]
+}

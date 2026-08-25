@@ -1,0 +1,34 @@
+{
+	"slug": "harmattan",
+	"name": "Harmattan",
+	"fontFamily": "Harmattan, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/harmattan/v24/goksH6L2DkFvVvRp9XpjTEqi.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Harmattan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/harmattan/v24/gokpH6L2DkFvVvRp9Xprv2m3n9xF.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Harmattan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/harmattan/v24/gokpH6L2DkFvVvRp9Xprk263n9xF.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Harmattan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/harmattan/v24/gokpH6L2DkFvVvRp9Xpr92-3n9xF.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Harmattan"
+		}
+	]
+}

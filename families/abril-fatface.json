@@ -1,0 +1,16 @@
+{
+	"slug": "abril-fatface",
+	"name": "Abril Fatface",
+	"fontFamily": "\"Abril Fatface\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/abrilfatface/v25/zOL64pLDlL1D99S8g8PtiKchq-dmjQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Abril Fatface"
+		}
+	]
+}

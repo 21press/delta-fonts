@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-khojki",
+	"name": "Noto Sans Khojki",
+	"fontFamily": "\"Noto Sans Khojki\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhojki/v20/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Bx0g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khojki"
+		}
+	]
+}

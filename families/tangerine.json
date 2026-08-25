@@ -1,0 +1,22 @@
+{
+	"slug": "tangerine",
+	"name": "Tangerine",
+	"fontFamily": "Tangerine, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOxCZZM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tangerine"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tangerine/v18/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tangerine"
+		}
+	]
+}

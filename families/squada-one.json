@@ -1,0 +1,16 @@
+{
+	"slug": "squada-one",
+	"name": "Squada One",
+	"fontFamily": "\"Squada One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/squadaone/v20/BCasqZ8XsOrx4mcOk6Mtaac2WQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Squada One"
+		}
+	]
+}

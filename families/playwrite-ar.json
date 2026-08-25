@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-ar",
+	"name": "Playwrite AR",
+	"fontFamily": "\"Playwrite AR\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AR"
+		}
+	]
+}

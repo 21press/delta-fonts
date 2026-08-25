@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-nandinagari",
+	"name": "Noto Sans Nandinagari",
+	"fontFamily": "\"Noto Sans Nandinagari\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlbJ5W.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Nandinagari"
+		}
+	]
+}

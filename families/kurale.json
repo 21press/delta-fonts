@@ -1,0 +1,16 @@
+{
+	"slug": "kurale",
+	"name": "Kurale",
+	"fontFamily": "Kurale, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kurale/v16/4iCs6KV9e9dXjhoKfw72.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kurale"
+		}
+	]
+}

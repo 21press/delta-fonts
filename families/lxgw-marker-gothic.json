@@ -1,0 +1,16 @@
+{
+	"slug": "lxgw-marker-gothic",
+	"name": "LXGW Marker Gothic",
+	"fontFamily": "\"LXGW Marker Gothic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwmarkergothic/v3/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToxieY-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW Marker Gothic"
+		}
+	]
+}

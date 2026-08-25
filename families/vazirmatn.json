@@ -1,0 +1,64 @@
+{
+	"slug": "vazirmatn",
+	"name": "Vazirmatn",
+	"fontFamily": "Vazirmatn, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWW.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Vazirmatn"
+		}
+	]
+}

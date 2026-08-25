@@ -1,0 +1,118 @@
+{
+	"slug": "labrada",
+	"name": "Labrada",
+	"fontFamily": "Labrada, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV-2Y9HLWefIpOyPVlKLA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/labrada/v4/ieV82Y9HLWefIpOyPVx6Lmob.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Labrada"
+		}
+	]
+}

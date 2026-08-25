@@ -1,0 +1,16 @@
+{
+	"slug": "comforter",
+	"name": "Comforter",
+	"fontFamily": "Comforter, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/comforter/v9/H4clBXOCl8nQnlaql3Qq75u9.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Comforter"
+		}
+	]
+}

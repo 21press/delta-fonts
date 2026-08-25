@@ -1,0 +1,82 @@
+{
+	"slug": "bodoni-moda-sc",
+	"name": "Bodoni Moda SC",
+	"fontFamily": "\"Bodoni Moda SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjWdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-gVAY3s.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjWdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-gVAY3s.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjWdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-gVAY3s.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjWdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-gVAY3s.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjWdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-gVAY3s.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjWdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-gVAY3s.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjUdGTykkIgA8197UwkzHp8F8_dYp-6DdBNRF6RX6k1R73u0JY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjUdGTykkIgA8197UwkzHp8F8_dYp-6DdBNRF6RX6k1R73u0JY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjUdGTykkIgA8197UwkzHp8F8_dYp-6DdBNRF6RX6k1R73u0JY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjUdGTykkIgA8197UwkzHp8F8_dYp-6DdBNRF6RX6k1R73u0JY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjUdGTykkIgA8197UwkzHp8F8_dYp-6DdBNRF6RX6k1R73u0JY.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Bodoni Moda SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bodonimodasc/v3/LYjUdGTykkIgA8197UwkzHp8F8_dYp-6DdBNRF6RX6k1R73u0JY.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Bodoni Moda SC"
+		}
+	]
+}

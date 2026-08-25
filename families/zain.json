@@ -1,0 +1,58 @@
+{
+	"slug": "zain",
+	"name": "Zain",
+	"fontFamily": "Zain, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/sykz-y9lm7soOBrshS23-w.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/sykz-y9lm7soOH7vhS23-w.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/syk8-y9lm7soMNXNkA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/sykz-y9lm7soOG7ohS23-w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/sykz-y9lm7soOHLrhS23-w.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/sykz-y9lm7soOFbqhS23-w.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/sykx-y9lm7soMND1OSiH-fLA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Zain"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zain/v4/syky-y9lm7soMND9kgqS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Zain"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "rationale",
+	"name": "Rationale",
+	"fontFamily": "Rationale, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rationale/v30/9XUnlJ92n0_JFxHIfHcccVtN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rationale"
+		}
+	]
+}

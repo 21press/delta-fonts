@@ -1,0 +1,22 @@
+{
+	"slug": "pragati-narrow",
+	"name": "Pragati Narrow",
+	"fontFamily": "\"Pragati Narrow\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8vdRf0T0bS1ffgsPB7WZ-mD274wNI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pragati Narrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd4EpI.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Pragati Narrow"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "gveret-levin",
+	"name": "Gveret Levin",
+	"fontFamily": "\"Gveret Levin\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gveretlevin/v4/0QInMXVI5YS9Rnn7ar449p--9JzT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gveret Levin"
+		}
+	]
+}

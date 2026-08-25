@@ -1,0 +1,16 @@
+{
+	"slug": "zcool-qingke-huangyou",
+	"name": "ZCOOL QingKe HuangYou",
+	"fontFamily": "\"ZCOOL QingKe HuangYou\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mR4jPe9.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "ZCOOL QingKe HuangYou"
+		}
+	]
+}

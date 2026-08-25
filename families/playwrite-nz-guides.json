@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-nz-guides",
+	"name": "Playwrite NZ Guides",
+	"fontFamily": "\"Playwrite NZ Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritenzguides/v2/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71Who.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite NZ Guides"
+		}
+	]
+}

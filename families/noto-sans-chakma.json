@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-chakma",
+	"name": "Noto Sans Chakma",
+	"fontFamily": "\"Noto Sans Chakma\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanschakma/v19/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0J_ZQw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Chakma"
+		}
+	]
+}

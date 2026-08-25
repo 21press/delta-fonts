@@ -1,0 +1,16 @@
+{
+	"slug": "sacramento",
+	"name": "Sacramento",
+	"fontFamily": "Sacramento, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sacramento/v17/buEzpo6gcdjy0EiZMBUG4C0f_Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sacramento"
+		}
+	]
+}

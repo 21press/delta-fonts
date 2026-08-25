@@ -1,0 +1,40 @@
+{
+	"slug": "hind-mysuru",
+	"name": "Hind Mysuru",
+	"fontFamily": "\"Hind Mysuru\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8pppEWXD1U.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Mysuru"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li8LChlA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Mysuru"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8oxpUWXD1U.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Mysuru"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8odokWXD1U.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Mysuru"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8p5o0WXD1U.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Mysuru"
+		}
+	]
+}

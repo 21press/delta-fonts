@@ -1,0 +1,28 @@
+{
+	"slug": "idiqlat",
+	"name": "Idiqlat",
+	"fontFamily": "Idiqlat, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/idiqlat/v3/YA9Wr0ef50XNM6kiAOrKoiYgsg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Idiqlat"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/idiqlat/v3/YA9Wr0ef50XNM6kiAI7JoiYgsg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Idiqlat"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/idiqlat/v3/YA9Tr0ef50XNM6kiCCXrtw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Idiqlat"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "lilita-one",
+	"name": "Lilita One",
+	"fontFamily": "\"Lilita One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lilita One"
+		}
+	]
+}

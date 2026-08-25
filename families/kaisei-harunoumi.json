@@ -1,0 +1,28 @@
+{
+	"slug": "kaisei-harunoumi",
+	"name": "Kaisei HarunoUmi",
+	"fontFamily": "\"Kaisei HarunoUmi\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_RiZQSLqBQoAHhK_C6N_nzy_jcKszzsQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei HarunoUmi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QpMAPww.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei HarunoUmi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWpMAPww.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei HarunoUmi"
+		}
+	]
+}

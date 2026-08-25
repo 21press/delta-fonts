@@ -1,0 +1,64 @@
+{
+	"slug": "saira-extra-condensed",
+	"name": "Saira Extra Condensed",
+	"fontFamily": "\"Saira Extra Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFsOHYr-vcC7h8MklGBkrvmUG9rbpkisrTri3j2_C8.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrJ2nh2wph.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrQ2rh2wph.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFiOHYr-vcC7h8MklGBkrvmUG9rbpkisrTj6Ej0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrG2vh2wph.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrN2zh2wph.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrU23h2wph.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTrT27h2wph.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFvOHYr-vcC7h8MklGBkrvmUG9rbpkisrTra2_h2wph.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Saira Extra Condensed"
+		}
+	]
+}

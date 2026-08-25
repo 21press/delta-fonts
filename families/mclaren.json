@@ -1,0 +1,16 @@
+{
+	"slug": "mclaren",
+	"name": "McLaren",
+	"fontFamily": "McLaren, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mclaren/v19/2EbnL-ZuAXFqZFXIeYEV8g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "McLaren"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"slug": "noto-sans-hk",
+	"name": "Noto Sans HK",
+	"fontFamily": "\"Noto Sans HK\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshk/v35/nKKQ-GM_FYFRJvXzVXaAPe9RM3p2.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans HK"
+		}
+	]
+}

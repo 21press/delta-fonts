@@ -1,0 +1,16 @@
+{
+	"slug": "lalezar",
+	"name": "Lalezar",
+	"fontFamily": "Lalezar, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lalezar/v16/zrfl0HLVx-HwTP82Yaf4Iw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lalezar"
+		}
+	]
+}

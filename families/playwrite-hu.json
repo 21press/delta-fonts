@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-hu",
+	"name": "Playwrite HU",
+	"fontFamily": "\"Playwrite HU\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritehu/v6/A2Bdn59A0g0xA3zDhFw-0vfVVg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite HU"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritehu/v6/A2Bdn59A0g0xA3zDhFw-0vfVVg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite HU"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritehu/v6/A2Bdn59A0g0xA3zDhFw-0vfVVg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite HU"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritehu/v6/A2Bdn59A0g0xA3zDhFw-0vfVVg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite HU"
+		}
+	]
+}

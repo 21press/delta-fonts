@@ -1,0 +1,34 @@
+{
+	"slug": "noto-sans-sora-sompeng",
+	"name": "Noto Sans Sora Sompeng",
+	"fontFamily": "\"Noto Sans Sora Sompeng\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIsFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolAPyE7g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sora Sompeng"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIsFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolAPyE7g.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sora Sompeng"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIsFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolAPyE7g.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sora Sompeng"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIsFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolAPyE7g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sora Sompeng"
+		}
+	]
+}

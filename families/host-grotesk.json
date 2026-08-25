@@ -1,0 +1,82 @@
+{
+	"slug": "host-grotesk",
+	"name": "Host Grotesk",
+	"fontFamily": "\"Host Grotesk\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3BmWBnlCJ3U42vbbfdwMjZpFjm.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Host Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hostgrotesk/v5/co3fmWBnlCJ3U42vbbfdwMjZoWjkyUk.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Host Grotesk"
+		}
+	]
+}

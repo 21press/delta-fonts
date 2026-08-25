@@ -1,0 +1,16 @@
+{
+	"slug": "margarine",
+	"name": "Margarine",
+	"fontFamily": "Margarine, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/margarine/v27/qkBXXvoE6trLT9Y7YLyu455K.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Margarine"
+		}
+	]
+}

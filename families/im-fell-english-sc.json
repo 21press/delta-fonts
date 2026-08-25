@@ -1,0 +1,16 @@
+{
+	"slug": "im-fell-english-sc",
+	"name": "IM Fell English SC",
+	"fontFamily": "\"IM Fell English SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IM Fell English SC"
+		}
+	]
+}

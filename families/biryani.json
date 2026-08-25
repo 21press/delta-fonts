@@ -1,0 +1,52 @@
+{
+	"slug": "biryani",
+	"name": "Biryani",
+	"fontFamily": "Biryani, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddYQyKTdYUg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddeAxKTdYUg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-WlzNxIFoO84YdfUsTPA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddZQ3KTdYUg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddfA2KTdYUg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84Yddew1KTdYUg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84Yddcg0KTdYUg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Biryani"
+		}
+	]
+}

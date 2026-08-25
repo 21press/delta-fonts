@@ -1,0 +1,16 @@
+{
+	"slug": "protest-revolution",
+	"name": "Protest Revolution",
+	"fontFamily": "\"Protest Revolution\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/protestrevolution/v2/11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2c9_gy.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Protest Revolution"
+		}
+	]
+}

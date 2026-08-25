@@ -1,0 +1,16 @@
+{
+	"slug": "just-me-again-down-here",
+	"name": "Just Me Again Down Here",
+	"fontFamily": "\"Just Me Again Down Here\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/justmeagaindownhere/v25/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwAtKE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Just Me Again Down Here"
+		}
+	]
+}

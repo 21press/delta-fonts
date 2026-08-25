@@ -1,0 +1,52 @@
+{
+	"slug": "biorhyme",
+	"name": "BioRhyme",
+	"fontFamily": "BioRhyme, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhyme/v21/1cXtaULHBpDMsHYW_GZNh7loEHurwOIGadIc37Oa.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme"
+		}
+	]
+}

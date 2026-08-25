@@ -1,0 +1,16 @@
+{
+	"slug": "mr-bedfort",
+	"name": "Mr Bedfort",
+	"fontFamily": "\"Mr Bedfort\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mrbedfort/v23/MQpR-WCtNZSWAdTMwBicpi2-XA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mr Bedfort"
+		}
+	]
+}

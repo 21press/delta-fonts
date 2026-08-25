@@ -1,0 +1,34 @@
+{
+	"slug": "cambay",
+	"name": "Cambay",
+	"fontFamily": "Cambay, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXJc1rY6H0_ZDs2ab6J.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cambay"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0pucwPNx.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cambay"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXLc1rY6H0_ZDs2bI6L59Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Cambay"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cambay/v14/SLXMc1rY6H0_ZDs2bIYwwsNzSXs.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Cambay"
+		}
+	]
+}

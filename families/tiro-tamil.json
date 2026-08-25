@@ -1,0 +1,22 @@
+{
+	"slug": "tiro-tamil",
+	"name": "Tiro Tamil",
+	"fontFamily": "\"Tiro Tamil\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tirotamil/v11/m8JXjfVIf7OT22n3M-S_YLNlaw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tiro Tamil"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirotamil/v11/m8JVjfVIf7OT22n3M-S_YLZVaUuH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tiro Tamil"
+		}
+	]
+}

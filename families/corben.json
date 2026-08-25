@@ -1,0 +1,22 @@
+{
+	"slug": "corben",
+	"name": "Corben",
+	"fontFamily": "Corben, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/corben/v23/LYjDdGzzklQtCMpNpwNF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Corben"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/corben/v23/LYjAdGzzklQtCMpFHCZQqnoq.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Corben"
+		}
+	]
+}

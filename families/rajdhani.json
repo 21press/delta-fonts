@@ -1,0 +1,40 @@
+{
+	"slug": "rajdhani",
+	"name": "Rajdhani",
+	"fontFamily": "Rajdhani, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pasEfOreec.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Rajdhani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rajdhani/v17/LDIxapCSOBg7S-QT7p4HM-Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rajdhani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreec.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Rajdhani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Rajdhani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FvOreec.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Rajdhani"
+		}
+	]
+}

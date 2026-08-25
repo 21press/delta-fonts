@@ -1,0 +1,40 @@
+{
+	"slug": "space-grotesk",
+	"name": "Space Grotesk",
+	"fontFamily": "\"Space Grotesk\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Space Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Space Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Space Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Space Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Space Grotesk"
+		}
+	]
+}

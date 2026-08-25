@@ -1,0 +1,22 @@
+{
+	"slug": "zilla-slab-highlight",
+	"name": "Zilla Slab Highlight",
+	"fontFamily": "\"Zilla Slab Highlight\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab Highlight"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab Highlight"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "ponomar",
+	"name": "Ponomar",
+	"fontFamily": "Ponomar, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ponomar/v5/or3iQ6zp3fKD2wImXJPXAw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ponomar"
+		}
+	]
+}

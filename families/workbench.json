@@ -1,0 +1,16 @@
+{
+	"slug": "workbench",
+	"name": "Workbench",
+	"fontFamily": "Workbench, monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/workbench/v3/FeV8S05Gp6Et7FcfbPFK1rynGd_MxtkvNFmoUDFhgF2VKTGQk6vapeOM2mM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Workbench"
+		}
+	]
+}

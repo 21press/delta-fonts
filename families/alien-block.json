@@ -1,0 +1,16 @@
+{
+	"slug": "alien-block",
+	"name": "Alien Block",
+	"fontFamily": "\"Alien Block\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alienblock/v2/JIA3UVFjdXpFsgA7S8BAOyOlNTQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alien Block"
+		}
+	]
+}

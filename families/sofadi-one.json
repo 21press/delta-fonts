@@ -1,0 +1,16 @@
+{
+	"slug": "sofadi-one",
+	"name": "Sofadi One",
+	"fontFamily": "\"Sofadi One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sofadione/v22/JIA2UVBxdnVBuElZaMFGQDSCEA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sofadi One"
+		}
+	]
+}

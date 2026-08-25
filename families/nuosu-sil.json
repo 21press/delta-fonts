@@ -1,0 +1,16 @@
+{
+	"slug": "nuosu-sil",
+	"name": "Nuosu SIL",
+	"fontFamily": "\"Nuosu SIL\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nuosusil/v12/8vIK7wM3wmRn_kc4uAjuE2Za.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nuosu SIL"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "arbutus-slab",
+	"name": "Arbutus Slab",
+	"fontFamily": "\"Arbutus Slab\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/arbutusslab/v17/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Arbutus Slab"
+		}
+	]
+}

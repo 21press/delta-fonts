@@ -1,0 +1,16 @@
+{
+	"slug": "snowburst-one",
+	"name": "Snowburst One",
+	"fontFamily": "\"Snowburst One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/snowburstone/v21/MQpS-WezKdujBsXY3B7I-UT7SZiePg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Snowburst One"
+		}
+	]
+}

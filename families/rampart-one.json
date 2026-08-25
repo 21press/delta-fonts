@@ -1,0 +1,16 @@
+{
+	"slug": "rampart-one",
+	"name": "Rampart One",
+	"fontFamily": "\"Rampart One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rampartone/v13/K2F1fZFGl_JSR1tAWNG9R5qnJy8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rampart One"
+		}
+	]
+}

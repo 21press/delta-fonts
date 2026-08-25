@@ -1,0 +1,16 @@
+{
+	"slug": "text-me-one",
+	"name": "Text Me One",
+	"fontFamily": "\"Text Me One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/textmeone/v26/i7dOIFdlayuLUvgoFvHQFVZbYFc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Text Me One"
+		}
+	]
+}

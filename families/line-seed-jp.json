@@ -1,0 +1,34 @@
+{
+	"slug": "line-seed-jp",
+	"name": "LINE Seed JP",
+	"fontFamily": "\"LINE Seed JP\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lineseedjp/v3/MwQvbh7r89it6QsEXfZb-jMn6aFJjX8.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "LINE Seed JP"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lineseedjp/v3/MwQxbh7r89it6QsEXfZb-jMvipFL.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "LINE Seed JP"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lineseedjp/v3/MwQubh7r89it6QsEXfZb-jMnMbReqlq4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "LINE Seed JP"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lineseedjp/v3/MwQubh7r89it6QsEXfZb-jMnLbdeqlq4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "LINE Seed JP"
+		}
+	]
+}

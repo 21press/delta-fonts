@@ -1,0 +1,94 @@
+{
+	"slug": "ibm-plex-mono",
+	"name": "IBM Plex Mono",
+	"fontFamily": "\"IBM Plex Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6pfjptAgt5VM-kVkqdyU8n3kwa1Xdg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3uALwlBFgg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3oQIwlBFgg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwlBFgg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlBFgg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlBFgg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6rfjptAgt5VM-kVkqdyU8n1ioStkdip-8.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZ1gMoQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSflV1gMoQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6pfjptAgt5VM-kVkqdyU8n1ioa1Xdg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlR1gMoQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSClN1gMoQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJ1gMoQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "IBM Plex Mono"
+		}
+	]
+}

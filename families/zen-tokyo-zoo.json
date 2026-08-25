@@ -1,0 +1,16 @@
+{
+	"slug": "zen-tokyo-zoo",
+	"name": "Zen Tokyo Zoo",
+	"fontFamily": "\"Zen Tokyo Zoo\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zentokyozoo/v8/NGSyv5ffC0J_BK6aFNtr6sRvwapkRA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Tokyo Zoo"
+		}
+	]
+}

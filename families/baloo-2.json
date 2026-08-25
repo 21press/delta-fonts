@@ -1,0 +1,40 @@
+{
+	"slug": "baloo-2",
+	"name": "Baloo 2",
+	"fontFamily": "\"Baloo 2\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baloo2/v23/wXKrE3kTposypRyd51jcAA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloo2/v23/wXKrE3kTposypRyd51jcAA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloo2/v23/wXKrE3kTposypRyd51jcAA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloo2/v23/wXKrE3kTposypRyd51jcAA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloo2/v23/wXKrE3kTposypRyd51jcAA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo 2"
+		}
+	]
+}

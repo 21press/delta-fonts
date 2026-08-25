@@ -1,0 +1,94 @@
+{
+	"slug": "newsreader",
+	"name": "Newsreader",
+	"fontFamily": "Newsreader, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9VfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBAbNJYQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/newsreader/v26/cY9XfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLFYYzbA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Newsreader"
+		}
+	]
+}

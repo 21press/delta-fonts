@@ -1,0 +1,22 @@
+{
+	"slug": "jaldi",
+	"name": "Jaldi",
+	"fontFamily": "Jaldi, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jaldi/v14/or3sQ67z0_CI33NTbJE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jaldi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/jaldi/v14/or3hQ67z0_CI33voSYTwJrU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Jaldi"
+		}
+	]
+}

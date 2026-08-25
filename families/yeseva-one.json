@@ -1,0 +1,16 @@
+{
+	"slug": "yeseva-one",
+	"name": "Yeseva One",
+	"fontFamily": "\"Yeseva One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yesevaone/v24/OpNJno4ck8vc-xYpwWWxli1VWw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yeseva One"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"slug": "noto-serif-tibetan",
+	"name": "Noto Serif Tibetan",
+	"fontFamily": "\"Noto Serif Tibetan\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftibetan/v24/gokzH7nwAEdtF9N45n0Vaz7O-pk0wsvbEcgm.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tibetan"
+		}
+	]
+}

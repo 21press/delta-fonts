@@ -1,0 +1,58 @@
+{
+	"slug": "ubuntu",
+	"name": "Ubuntu",
+	"fontFamily": "Ubuntu, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoC1CzjsGyN.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCs6KVjbNBYlgoKfw72.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCjC3jsGyN.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCxCvjsGyN.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCp6KVjbNBYlgoKejZftVyPN4E.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCu6KVjbNBYlgoKej70l0k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCp6KVjbNBYlgoKejYHtFyPN4E.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntu/v21/4iCp6KVjbNBYlgoKejZPslyPN4E.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu"
+		}
+	]
+}

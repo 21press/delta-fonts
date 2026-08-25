@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-cl-guides",
+	"name": "Playwrite CL Guides",
+	"fontFamily": "\"Playwrite CL Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hrN8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CL Guides"
+		}
+	]
+}

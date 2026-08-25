@@ -1,0 +1,16 @@
+{
+	"slug": "tenali-ramakrishna",
+	"name": "Tenali Ramakrishna",
+	"fontFamily": "\"Tenali Ramakrishna\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tenaliramakrishna/v14/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-ML5_r.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tenali Ramakrishna"
+		}
+	]
+}

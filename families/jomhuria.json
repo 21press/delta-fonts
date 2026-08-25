@@ -1,0 +1,16 @@
+{
+	"slug": "jomhuria",
+	"name": "Jomhuria",
+	"fontFamily": "Jomhuria, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jomhuria/v23/Dxxp8j-TMXf-llKur1byOuA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jomhuria"
+		}
+	]
+}

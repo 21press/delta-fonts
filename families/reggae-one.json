@@ -1,0 +1,16 @@
+{
+	"slug": "reggae-one",
+	"name": "Reggae One",
+	"fontFamily": "\"Reggae One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/reggaeone/v19/7r3DqX5msMIkeuwJwOJtzalB5w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Reggae One"
+		}
+	]
+}

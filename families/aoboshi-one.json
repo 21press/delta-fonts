@@ -1,0 +1,16 @@
+{
+	"slug": "aoboshi-one",
+	"name": "Aoboshi One",
+	"fontFamily": "\"Aoboshi One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/aoboshione/v13/Gg8xN5kXaAXtHQrFxwl10xsMDGc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aoboshi One"
+		}
+	]
+}

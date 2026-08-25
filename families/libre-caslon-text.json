@@ -1,0 +1,28 @@
+{
+	"slug": "libre-caslon-text",
+	"name": "Libre Caslon Text",
+	"fontFamily": "\"Libre Caslon Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Caslon Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdkPx4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Caslon Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDGg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Libre Caslon Text"
+		}
+	]
+}

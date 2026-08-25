@@ -1,0 +1,16 @@
+{
+	"slug": "yuji-syuku",
+	"name": "Yuji Syuku",
+	"fontFamily": "\"Yuji Syuku\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yujisyuku/v8/BngNUXdTV3vO6Lw5ApOPmPDqww.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yuji Syuku"
+		}
+	]
+}

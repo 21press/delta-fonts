@@ -1,0 +1,16 @@
+{
+	"slug": "coming-soon",
+	"name": "Coming Soon",
+	"fontFamily": "\"Coming Soon\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/comingsoon/v20/qWcuB6mzpYL7AJ2VfdQR1t-VWDk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Coming Soon"
+		}
+	]
+}

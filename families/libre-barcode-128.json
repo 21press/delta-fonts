@@ -1,0 +1,16 @@
+{
+	"slug": "libre-barcode-128",
+	"name": "Libre Barcode 128",
+	"fontFamily": "\"Libre Barcode 128\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/librebarcode128/v31/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_H9AI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Barcode 128"
+		}
+	]
+}

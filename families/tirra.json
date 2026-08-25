@@ -1,0 +1,46 @@
+{
+	"slug": "tirra",
+	"name": "Tirra",
+	"fontFamily": "Tirra, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tirra/v2/WBLrrEnNakREGoPC1gA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tirra"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirra/v2/WBLmrEnNakREGosx9RXSe2A.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Tirra"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirra/v2/WBLmrEnNakREGosd8hXSe2A.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Tirra"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirra/v2/WBLmrEnNakREGot58xXSe2A.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tirra"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirra/v2/WBLmrEnNakREGotl8BXSe2A.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Tirra"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirra/v2/WBLmrEnNakREGotB8RXSe2A.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Tirra"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "macondo",
+	"name": "Macondo",
+	"fontFamily": "Macondo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOe2LE0Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Macondo"
+		}
+	]
+}

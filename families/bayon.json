@@ -1,0 +1,16 @@
+{
+	"slug": "bayon",
+	"name": "Bayon",
+	"fontFamily": "Bayon, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bayon/v36/9XUrlJNmn0LPFm-uMBc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bayon"
+		}
+	]
+}

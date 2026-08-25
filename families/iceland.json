@@ -1,0 +1,16 @@
+{
+	"slug": "iceland",
+	"name": "Iceland",
+	"fontFamily": "Iceland, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/iceland/v22/rax9HiuFsdMNOnWPaKtMAQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Iceland"
+		}
+	]
+}

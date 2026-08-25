@@ -1,0 +1,16 @@
+{
+	"slug": "pt-mono",
+	"name": "PT Mono",
+	"fontFamily": "\"PT Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ptmono/v14/9oRONYoBnWILk-9AnC8zMw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "PT Mono"
+		}
+	]
+}

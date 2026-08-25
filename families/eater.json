@@ -1,0 +1,16 @@
+{
+	"slug": "eater",
+	"name": "Eater",
+	"fontFamily": "Eater, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/eater/v27/mtG04_FCK7bOvquxsXA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Eater"
+		}
+	]
+}

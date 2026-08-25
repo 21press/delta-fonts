@@ -1,0 +1,34 @@
+{
+	"slug": "palanquin-dark",
+	"name": "Palanquin Dark",
+	"fontFamily": "\"Palanquin Dark\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/palanquindark/v17/xn75YHgl1nqmANMB-26xC7yuF86JRks.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin Dark"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd8o.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin Dark"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd8o.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin Dark"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd8o.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin Dark"
+		}
+	]
+}

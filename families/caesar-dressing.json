@@ -1,0 +1,16 @@
+{
+	"slug": "caesar-dressing",
+	"name": "Caesar Dressing",
+	"fontFamily": "\"Caesar Dressing\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/caesardressing/v22/yYLx0hLa3vawqtwdswbotmK4vrRHdrz7.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Caesar Dressing"
+		}
+	]
+}

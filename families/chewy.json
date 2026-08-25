@@ -1,0 +1,16 @@
+{
+	"slug": "chewy",
+	"name": "Chewy",
+	"fontFamily": "Chewy, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52KjI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chewy"
+		}
+	]
+}

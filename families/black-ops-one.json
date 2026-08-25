@@ -1,0 +1,16 @@
+{
+	"slug": "black-ops-one",
+	"name": "Black Ops One",
+	"fontFamily": "\"Black Ops One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3aDvbtw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Black Ops One"
+		}
+	]
+}

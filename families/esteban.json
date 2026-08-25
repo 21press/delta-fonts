@@ -1,0 +1,16 @@
+{
+	"slug": "esteban",
+	"name": "Esteban",
+	"fontFamily": "Esteban, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/esteban/v16/r05bGLZE-bdGdN-GROyJ5w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Esteban"
+		}
+	]
+}

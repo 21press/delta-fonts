@@ -1,0 +1,28 @@
+{
+	"slug": "sunflower",
+	"name": "Sunflower",
+	"fontFamily": "Sunflower, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sunflower/v19/RWmPoKeF8fUjqIj7Vc-06MfSroEH.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Sunflower"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sunflower/v19/RWmPoKeF8fUjqIj7Vc-0sMbSroEH.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Sunflower"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sunflower/v19/RWmPoKeF8fUjqIj7Vc-0-MDSroEH.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sunflower"
+		}
+	]
+}

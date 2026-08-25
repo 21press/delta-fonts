@@ -1,0 +1,16 @@
+{
+	"slug": "hi-melody",
+	"name": "Hi Melody",
+	"fontFamily": "\"Hi Melody\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/himelody/v19/46ktlbP8Vnz0pJcqCTb0eGVF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hi Melody"
+		}
+	]
+}

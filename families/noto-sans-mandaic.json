@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-mandaic",
+	"name": "Noto Sans Mandaic",
+	"fontFamily": "\"Noto Sans Mandaic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmandaic/v18/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_H9AI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Mandaic"
+		}
+	]
+}

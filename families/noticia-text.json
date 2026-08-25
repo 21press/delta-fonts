@@ -1,0 +1,34 @@
+{
+	"slug": "noticia-text",
+	"name": "Noticia Text",
+	"fontFamily": "\"Noticia Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/noticiatext/v16/VuJ2dNDF2Yv9qppOePKYRP12ZjtY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noticia Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/noticiatext/v16/VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noticia Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/noticiatext/v16/VuJodNDF2Yv9qppOePKYRP12Ywtan04.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Noticia Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/noticiatext/v16/VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Noticia Text"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "sanchez",
+	"name": "Sanchez",
+	"fontFamily": "Sanchez, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sanchez/v17/Ycm2sZJORluHnXbIfmlR_Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sanchez"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sanchez/v17/Ycm0sZJORluHnXbIfmxh_zQA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Sanchez"
+		}
+	]
+}

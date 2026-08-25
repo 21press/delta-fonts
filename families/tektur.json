@@ -1,0 +1,46 @@
+{
+	"slug": "tektur",
+	"name": "Tektur",
+	"fontFamily": "Tektur, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tektur/v6/XoH62YHtS7q969kXCjzlV0aSkS_o8OacszucvA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tektur"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tektur/v6/XoH62YHtS7q969kXCjzlV0aSkS_o8OacszucvA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Tektur"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tektur/v6/XoH62YHtS7q969kXCjzlV0aSkS_o8OacszucvA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Tektur"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tektur/v6/XoH62YHtS7q969kXCjzlV0aSkS_o8OacszucvA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tektur"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tektur/v6/XoH62YHtS7q969kXCjzlV0aSkS_o8OacszucvA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Tektur"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tektur/v6/XoH62YHtS7q969kXCjzlV0aSkS_o8OacszucvA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Tektur"
+		}
+	]
+}

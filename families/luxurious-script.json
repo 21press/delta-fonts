@@ -1,0 +1,16 @@
+{
+	"slug": "luxurious-script",
+	"name": "Luxurious Script",
+	"fontFamily": "\"Luxurious Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/luxuriousscript/v9/ahcCv9e7yydulT32KZ0rBIoD7DzMs03Ebg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Luxurious Script"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"slug": "libertinus-serif",
+	"name": "Libertinus Serif",
+	"fontFamily": "\"Libertinus Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserif/v1/RLpkK4bw7KinajYBg0RTTwCLF5Ber64PUQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libertinus Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserif/v1/RLpjK4bw7KinajYBg0RTTwCLF5Bep3ErRHzpCA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Libertinus Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserif/v1/RLpjK4bw7KinajYBg0RTTwCLF5BepxUqRHzpCA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Libertinus Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserif/v1/RLpiK4bw7KinajYBg0RTTwCLF5Ber6s_U1vM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Libertinus Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserif/v1/RLphK4bw7KinajYBg0RTTwCLF5Ber6s3jH_ZCoRV.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Libertinus Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserif/v1/RLphK4bw7KinajYBg0RTTwCLF5Ber6s36H7ZCoRV.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Libertinus Serif"
+		}
+	]
+}

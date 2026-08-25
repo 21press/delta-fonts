@@ -1,0 +1,16 @@
+{
+	"slug": "neonderthaw",
+	"name": "Neonderthaw",
+	"fontFamily": "Neonderthaw, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/neonderthaw/v8/Iure6Yx5-oWVZI0r-17AeaZOrLQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Neonderthaw"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"slug": "stack-sans-notch",
+	"name": "Stack Sans Notch",
+	"fontFamily": "\"Stack Sans Notch\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stacksansnotch/v5/TwMV-JcVXlQd3ooGEx9EbUzgioTrzhoRZQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Notch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksansnotch/v5/TwMV-JcVXlQd3ooGEx9EbUzgioTrzhoRZQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Notch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksansnotch/v5/TwMV-JcVXlQd3ooGEx9EbUzgioTrzhoRZQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Notch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksansnotch/v5/TwMV-JcVXlQd3ooGEx9EbUzgioTrzhoRZQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Notch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksansnotch/v5/TwMV-JcVXlQd3ooGEx9EbUzgioTrzhoRZQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Notch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksansnotch/v5/TwMV-JcVXlQd3ooGEx9EbUzgioTrzhoRZQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Notch"
+		}
+	]
+}

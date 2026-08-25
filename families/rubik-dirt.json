@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-dirt",
+	"name": "Rubik Dirt",
+	"fontFamily": "\"Rubik Dirt\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikdirt/v2/DtVmJxC7WLEj1uIXEWAdilss6w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Dirt"
+		}
+	]
+}

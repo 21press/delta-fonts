@@ -1,0 +1,52 @@
+{
+	"slug": "ibm-plex-sans-devanagari",
+	"name": "IBM Plex Sans Devanagari",
+	"fontFamily": "\"IBM Plex Sans Devanagari\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXB3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_HMXj3W8k.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXA3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_HnWngfOz9.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXA3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_H-WrgfOz9.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXH3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_PUkj1.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXA3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_HoWvgfOz9.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXA3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_HjWzgfOz9.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXA3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_H6W3gfOz9.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Devanagari"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"slug": "david-libre",
+	"name": "David Libre",
+	"fontFamily": "\"David Libre\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/davidlibre/v17/snfus0W_99N64iuYSvp4W8l74J8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "David Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8GIw4qcQDI.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "David Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8HAxYqcQDI.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "David Libre"
+		}
+	]
+}

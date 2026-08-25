@@ -1,0 +1,16 @@
+{
+	"slug": "aldrich",
+	"name": "Aldrich",
+	"fontFamily": "Aldrich, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/aldrich/v22/MCoTzAn-1s3IGyJMVacY3w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aldrich"
+		}
+	]
+}

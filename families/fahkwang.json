@@ -1,0 +1,82 @@
+{
+	"slug": "fahkwang",
+	"name": "Fahkwang",
+	"fontFamily": "Fahkwang, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa26Uj3zpmBOgbNpOJHmalWHCs.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa26Uj3zpmBOgbNpOIjmqlWHCs.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noax6Uj3zpmBOgbNpOqIuLw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa26Uj3zpmBOgbNpOJ7m6lWHCs.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa26Uj3zpmBOgbNpOJXnKlWHCs.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa26Uj3zpmBOgbNpOIznalWHCs.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa06Uj3zpmBOgbNpOqNgHFQLClZlw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa06Uj3zpmBOgbNpOqNgBVTLClZlw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa36Uj3zpmBOgbNpOqNiL5xOQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa06Uj3zpmBOgbNpOqNgE1SLClZlw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa06Uj3zpmBOgbNpOqNgGFVLClZlw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Fahkwang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fahkwang/v18/Noa06Uj3zpmBOgbNpOqNgAVULClZlw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Fahkwang"
+		}
+	]
+}

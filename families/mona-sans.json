@@ -1,0 +1,106 @@
+{
+	"slug": "mona-sans",
+	"name": "Mona Sans",
+	"fontFamily": "\"Mona Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0bIpQmx24alC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monasans/v4/o-0ZIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Mona Sans"
+		}
+	]
+}

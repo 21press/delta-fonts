@@ -1,0 +1,16 @@
+{
+	"slug": "square-peg",
+	"name": "Square Peg",
+	"fontFamily": "\"Square Peg\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/squarepeg/v7/y83eW48Nzw6ZlUHc-phrNDbhHQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Square Peg"
+		}
+	]
+}

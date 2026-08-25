@@ -1,0 +1,40 @@
+{
+	"slug": "tsukimi-rounded",
+	"name": "Tsukimi Rounded",
+	"fontFamily": "\"Tsukimi Rounded\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsaMLkS.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Tsukimi Rounded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7dOnkP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tsukimi Rounded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoaMLkS.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Tsukimi Rounded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0aMLkS.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Tsukimi Rounded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwaMLkS.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tsukimi Rounded"
+		}
+	]
+}

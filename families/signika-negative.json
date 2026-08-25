@@ -1,0 +1,40 @@
+{
+	"slug": "signika-negative",
+	"name": "Signika Negative",
+	"fontFamily": "\"Signika Negative\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/signikanegative/v26/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhrw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Signika Negative"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/signikanegative/v26/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhrw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Signika Negative"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/signikanegative/v26/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhrw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Signika Negative"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/signikanegative/v26/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhrw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Signika Negative"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/signikanegative/v26/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhrw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Signika Negative"
+		}
+	]
+}

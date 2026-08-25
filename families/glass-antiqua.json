@@ -1,0 +1,16 @@
+{
+	"slug": "glass-antiqua",
+	"name": "Glass Antiqua",
+	"fontFamily": "\"Glass Antiqua\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/glassantiqua/v26/xfu30Wr0Wn3NOQM2piC0uXOjrLj6Ng.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Glass Antiqua"
+		}
+	]
+}

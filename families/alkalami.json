@@ -1,0 +1,16 @@
+{
+	"slug": "alkalami",
+	"name": "Alkalami",
+	"fontFamily": "Alkalami, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alkalami/v8/zOL_4pfDmqRL95WXi6eMycE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alkalami"
+		}
+	]
+}

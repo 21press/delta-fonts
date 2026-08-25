@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-carian",
+	"name": "Noto Sans Carian",
+	"fontFamily": "\"Noto Sans Carian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanscarian/v17/LDIpaoiONgYwA9Yc6f0gUILeMIOgg70R9g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Carian"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "jockey-one",
+	"name": "Jockey One",
+	"fontFamily": "\"Jockey One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jockeyone/v23/HTxpL2g2KjCFj4x8WI6AnIHxHA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jockey One"
+		}
+	]
+}

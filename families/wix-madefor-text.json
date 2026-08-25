@@ -1,0 +1,70 @@
+{
+	"slug": "wix-madefor-text",
+	"name": "Wix Madefor Text",
+	"fontFamily": "\"Wix Madefor Text\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_oXI_oSymQ8Qj-Apx3HGN_Hu1RTCk5FtSDETgf0cK_NNeCiJU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_oXI_oSymQ8Qj-Apx3HGN_Hu1RTCk5FtSDETgf0cKNNNeCiJU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_oXI_oSymQ8Qj-Apx3HGN_Hu1RTCk5FtSDETgf0cJhM9eCiJU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_oXI_oSymQ8Qj-Apx3HGN_Hu1RTCk5FtSDETgf0cJYM9eCiJU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_oXI_oSymQ8Qj-Apx3HGN_Hu1RTCk5FtSDETgf0cI_M9eCiJU.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_WXI_oSymQ8Qj-Apx3HGN_Hu1RZiAL6QzqeqKx1td3dw_GuJdF8g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_WXI_oSymQ8Qj-Apx3HGN_Hu1RZiAL6QzqeqKx1td3dz3GuJdF8g.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_WXI_oSymQ8Qj-Apx3HGN_Hu1RZiAL6QzqeqKx1td3d9HBuJdF8g.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_WXI_oSymQ8Qj-Apx3HGN_Hu1RZiAL6QzqeqKx1td3d-jBuJdF8g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Wix Madefor Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefortext/v17/-W_WXI_oSymQ8Qj-Apx3HGN_Hu1RZiAL6QzqeqKx1td3d4_BuJdF8g.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Wix Madefor Text"
+		}
+	]
+}

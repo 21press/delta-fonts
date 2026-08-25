@@ -1,0 +1,70 @@
+{
+	"slug": "alegreya-sc",
+	"name": "Alegreya SC",
+	"fontFamily": "\"Alegreya SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiOGmRtCJ62-O0HhNEa-Z6v2ZA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiTGmRtCJ62-O0HhNEa-ZZc-oU2SKo.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiTGmRtCJ62-O0HhNEa-ZYU_IU2SKo.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiTGmRtCJ62-O0HhNEa-ZYI_4U2SKo.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiTGmRtCJ62-O0HhNEa-ZYs_oU2SKo.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiMGmRtCJ62-O0HhNEa-Z6q6ZIRbQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiRGmRtCJ62-O0HhNEa-Z6q4WEyeKieEQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKieEQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiRGmRtCJ62-O0HhNEa-Z6q4TU3eKieEQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasc/v28/taiRGmRtCJ62-O0HhNEa-Z6q4RE2eKieEQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya SC"
+		}
+	]
+}

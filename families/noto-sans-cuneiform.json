@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-cuneiform",
+	"name": "Noto Sans Cuneiform",
+	"fontFamily": "\"Noto Sans Cuneiform\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanscuneiform/v18/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsbhDlA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Cuneiform"
+		}
+	]
+}

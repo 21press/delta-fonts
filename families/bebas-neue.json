@@ -1,0 +1,16 @@
+{
+	"slug": "bebas-neue",
+	"name": "Bebas Neue",
+	"fontFamily": "\"Bebas Neue\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bebas Neue"
+		}
+	]
+}

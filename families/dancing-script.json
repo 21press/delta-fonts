@@ -1,0 +1,34 @@
+{
+	"slug": "dancing-script",
+	"name": "Dancing Script",
+	"fontFamily": "\"Dancing Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dancingscript/v29/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dancing Script"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/dancingscript/v29/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Dancing Script"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/dancingscript/v29/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Dancing Script"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/dancingscript/v29/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Dancing Script"
+		}
+	]
+}

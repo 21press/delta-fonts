@@ -1,0 +1,16 @@
+{
+	"slug": "slackside-one",
+	"name": "Slackside One",
+	"fontFamily": "\"Slackside One\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/slacksideone/v14/EJRQQgMrXdcGsiBuvnRxodTwZynfoA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Slackside One"
+		}
+	]
+}

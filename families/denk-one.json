@@ -1,0 +1,16 @@
+{
+	"slug": "denk-one",
+	"name": "Denk One",
+	"fontFamily": "\"Denk One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/denkone/v21/dg4m_pzhrqcFb2IzRNtAr7k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Denk One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "bungee-outline",
+	"name": "Bungee Outline",
+	"fontFamily": "\"Bungee Outline\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bungeeoutline/v24/_6_mEDvmVP24UvU2MyiGDslL3TgwaBM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bungee Outline"
+		}
+	]
+}

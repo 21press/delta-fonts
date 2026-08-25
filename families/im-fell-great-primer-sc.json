@@ -1,0 +1,16 @@
+{
+	"slug": "im-fell-great-primer-sc",
+	"name": "IM Fell Great Primer SC",
+	"fontFamily": "\"IM Fell Great Primer SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/imfellgreatprimersc/v21/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf6D30.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IM Fell Great Primer SC"
+		}
+	]
+}

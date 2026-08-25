@@ -1,0 +1,16 @@
+{
+	"slug": "croissant-one",
+	"name": "Croissant One",
+	"fontFamily": "\"Croissant One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/croissantone/v28/3y9n6bU9bTPg4m8NDy3Kq24UA31gng.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Croissant One"
+		}
+	]
+}

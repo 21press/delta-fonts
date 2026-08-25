@@ -1,0 +1,16 @@
+{
+	"slug": "gabriela",
+	"name": "Gabriela",
+	"fontFamily": "Gabriela, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gabriela/v23/qkBWXvsO6sreR8E-b8m5xLs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gabriela"
+		}
+	]
+}

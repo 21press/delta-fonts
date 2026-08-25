@@ -1,0 +1,22 @@
+{
+	"slug": "alef",
+	"name": "Alef",
+	"fontFamily": "Alef, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alef/v24/FeVfS0NQpLYgnjVRCg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alef/v24/FeVQS0NQpLYglo50H55Q2A.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Alef"
+		}
+	]
+}

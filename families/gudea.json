@@ -1,0 +1,28 @@
+{
+	"slug": "gudea",
+	"name": "Gudea",
+	"fontFamily": "Gudea, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gudea/v16/neIFzCqgsI0mp9CI_oA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gudea"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gudea/v16/neIIzCqgsI0mp9gz25WBFqw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gudea"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gudea/v16/neILzCqgsI0mp9CNzoKmMw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Gudea"
+		}
+	]
+}

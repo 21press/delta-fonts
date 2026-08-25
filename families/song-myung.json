@@ -1,0 +1,16 @@
+{
+	"slug": "song-myung",
+	"name": "Song Myung",
+	"fontFamily": "\"Song Myung\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/songmyung/v23/1cX2aUDWAJH5-EIC7DIhn1aghA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Song Myung"
+		}
+	]
+}

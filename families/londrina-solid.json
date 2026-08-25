@@ -1,0 +1,34 @@
+{
+	"slug": "londrina-solid",
+	"name": "Londrina Solid",
+	"fontFamily": "\"Londrina Solid\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/londrinasolid/v19/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUsA.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Solid"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Solid"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/londrinasolid/v19/flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Solid"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Solid"
+		}
+	]
+}

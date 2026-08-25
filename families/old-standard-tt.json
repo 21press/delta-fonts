@@ -1,0 +1,28 @@
+{
+	"slug": "old-standard-tt",
+	"name": "Old Standard TT",
+	"fontFamily": "\"Old Standard TT\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVeqlq4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Old Standard TT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tS1Zf.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Old Standard TT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer2q6bHM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Old Standard TT"
+		}
+	]
+}

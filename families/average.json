@@ -1,0 +1,16 @@
+{
+	"slug": "average",
+	"name": "Average",
+	"fontFamily": "Average, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/average/v19/fC1hPYBHe23MxA7rEeV6VA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Average"
+		}
+	]
+}

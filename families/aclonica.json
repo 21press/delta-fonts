@@ -1,0 +1,16 @@
+{
+	"slug": "aclonica",
+	"name": "Aclonica",
+	"fontFamily": "Aclonica, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/aclonica/v25/K2FyfZJVlfNNSEBXGY7UAo8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aclonica"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"slug": "wix-madefor-display",
+	"name": "Wix Madefor Display",
+	"fontFamily": "\"Wix Madefor Display\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefordisplay/v12/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefordisplay/v12/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefordisplay/v12/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefordisplay/v12/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/wixmadefordisplay/v12/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Wix Madefor Display"
+		}
+	]
+}

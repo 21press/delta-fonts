@@ -1,0 +1,52 @@
+{
+	"slug": "m-plus-code-latin",
+	"name": "M PLUS Code Latin",
+	"fontFamily": "\"M PLUS Code Latin\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-_lyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_i1ICOa.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS Code Latin"
+		}
+	]
+}

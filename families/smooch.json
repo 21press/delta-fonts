@@ -1,0 +1,16 @@
+{
+	"slug": "smooch",
+	"name": "Smooch",
+	"fontFamily": "Smooch, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUxiaB-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Smooch"
+		}
+	]
+}

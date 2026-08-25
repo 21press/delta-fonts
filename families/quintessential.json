@@ -1,0 +1,16 @@
+{
+	"slug": "quintessential",
+	"name": "Quintessential",
+	"fontFamily": "Quintessential, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/quintessential/v24/fdNn9sOGq31Yjnh3qWU14Ddtjb53Qbg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Quintessential"
+		}
+	]
+}

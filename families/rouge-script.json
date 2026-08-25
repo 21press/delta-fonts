@@ -1,0 +1,16 @@
+{
+	"slug": "rouge-script",
+	"name": "Rouge Script",
+	"fontFamily": "\"Rouge Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rougescript/v20/LYjFdGbiklMoCIQOw1Ep3S4_U__a.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rouge Script"
+		}
+	]
+}

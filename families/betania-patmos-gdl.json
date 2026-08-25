@@ -1,0 +1,16 @@
+{
+	"slug": "betania-patmos-gdl",
+	"name": "Betania Patmos GDL",
+	"fontFamily": "\"Betania Patmos GDL\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/betaniapatmosgdl/v2/-nFhOHE6_uoR4VYoynWSh_bKTCFIT7tB0PD2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Betania Patmos GDL"
+		}
+	]
+}

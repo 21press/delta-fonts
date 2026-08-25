@@ -1,0 +1,16 @@
+{
+	"slug": "libre-barcode-39-extended-text",
+	"name": "Libre Barcode 39 Extended Text",
+	"fontFamily": "\"Libre Barcode 39 Extended Text\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/librebarcode39extendedtext/v30/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP6Me7gj.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Barcode 39 Extended Text"
+		}
+	]
+}

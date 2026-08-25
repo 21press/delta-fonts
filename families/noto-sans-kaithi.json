@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-kaithi",
+	"name": "Noto Sans Kaithi",
+	"fontFamily": "\"Noto Sans Kaithi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjcioAdw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Kaithi"
+		}
+	]
+}

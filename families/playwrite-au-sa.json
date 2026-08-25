@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-au-sa",
+	"name": "Playwrite AU SA",
+	"fontFamily": "\"Playwrite AU SA\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteausa/v11/YcmusZpNS1SdgmHbGgtRuUElnR3Ylw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU SA"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteausa/v11/YcmusZpNS1SdgmHbGgtRuUElnR3Ylw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU SA"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteausa/v11/YcmusZpNS1SdgmHbGgtRuUElnR3Ylw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU SA"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteausa/v11/YcmusZpNS1SdgmHbGgtRuUElnR3Ylw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU SA"
+		}
+	]
+}

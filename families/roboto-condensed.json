@@ -1,0 +1,118 @@
+{
+	"slug": "roboto-condensed",
+	"name": "Roboto Condensed",
+	"fontFamily": "\"Roboto Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM9.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Condensed"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-moonrocks",
+	"name": "Rubik Moonrocks",
+	"fontFamily": "\"Rubik Moonrocks\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikmoonrocks/v7/845ANMAmAI2VUZMLu_W0M7HqlDHXWsr6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Moonrocks"
+		}
+	]
+}

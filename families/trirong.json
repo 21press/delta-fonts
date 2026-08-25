@@ -1,0 +1,118 @@
+{
+	"slug": "trirong",
+	"name": "Trirong",
+	"fontFamily": "Trirong, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3EqXNgp8wxdOdOl-gY2o5k.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOl0QJzalB5w.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOlyAKzalB5w.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3GqXNgp8wxdOdOn4so2A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOl3gLzalB5w.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOl1QMzalB5w.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOlzANzalB5w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOlywOzalB5w.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3DqXNgp8wxdOdOlwgPzalB5w.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3CqXNgp8wxdOdOn44Qub5mwuw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44QFa9x5cn6.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44Qcaxx5cn6.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3EqXNgp8wxdOdOn44Y2o5k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44QKa1x5cn6.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44QBapx5cn6.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44QYatx5cn6.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44Qfahx5cn6.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trirong/v17/7r3BqXNgp8wxdOdOn44QWalx5cn6.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Trirong"
+		}
+	]
+}

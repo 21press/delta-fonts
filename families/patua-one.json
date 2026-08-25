@@ -1,0 +1,16 @@
+{
+	"slug": "patua-one",
+	"name": "Patua One",
+	"fontFamily": "\"Patua One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/patuaone/v22/ZXuke1cDvLCKLDcimxB44_lu.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Patua One"
+		}
+	]
+}

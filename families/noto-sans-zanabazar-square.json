@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-zanabazar-square",
+	"name": "Noto Sans Zanabazar Square",
+	"fontFamily": "\"Noto Sans Zanabazar Square\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanszanabazarsquare/v20/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJ2MiA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Zanabazar Square"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "the-girl-next-door",
+	"name": "The Girl Next Door",
+	"fontFamily": "\"The Girl Next Door\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/thegirlnextdoor/v25/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4ULF6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "The Girl Next Door"
+		}
+	]
+}

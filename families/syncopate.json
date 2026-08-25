@@ -1,0 +1,22 @@
+{
+	"slug": "syncopate",
+	"name": "Syncopate",
+	"fontFamily": "Syncopate, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/syncopate/v24/pe0sMIuPIYBCpEV5eFdCBfe_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Syncopate"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/syncopate/v24/pe0pMIuPIYBCpEV5eFdKvtKqBP5v.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Syncopate"
+		}
+	]
+}

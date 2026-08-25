@@ -1,0 +1,22 @@
+{
+	"slug": "sumana",
+	"name": "Sumana",
+	"fontFamily": "Sumana, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-29xLj.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sumana"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sumana/v12/4UaArE5TqRBjGj--TDf24I3M.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sumana"
+		}
+	]
+}

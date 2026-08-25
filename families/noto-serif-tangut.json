@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-tangut",
+	"name": "Noto Serif Tangut",
+	"fontFamily": "\"Noto Serif Tangut\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftangut/v19/xn76YGc72GKoTvER4Gn3b4m9Ern7El4yd8o.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Tangut"
+		}
+	]
+}

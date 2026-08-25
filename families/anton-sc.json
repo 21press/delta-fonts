@@ -1,0 +1,16 @@
+{
+	"slug": "anton-sc",
+	"name": "Anton SC",
+	"fontFamily": "\"Anton SC\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71syLhx6g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Anton SC"
+		}
+	]
+}

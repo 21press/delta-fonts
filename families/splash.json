@@ -1,0 +1,16 @@
+{
+	"slug": "splash",
+	"name": "Splash",
+	"fontFamily": "Splash, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/splash/v8/KtksAL2RZoDkbU6Ro_nH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Splash"
+		}
+	]
+}

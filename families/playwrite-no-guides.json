@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-no-guides",
+	"name": "Playwrite NO Guides",
+	"fontFamily": "\"Playwrite NO Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2o.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite NO Guides"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "quattrocento",
+	"name": "Quattrocento",
+	"fontFamily": "Quattrocento, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/quattrocento/v24/OZpEg_xvsDZQL_LKIF7q4jP3w2j6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Quattrocento"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/quattrocento/v24/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Quattrocento"
+		}
+	]
+}

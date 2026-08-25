@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-rejang",
+	"name": "Noto Sans Rejang",
+	"fontFamily": "\"Noto Sans Rejang\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansrejang/v23/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4S9WA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Rejang"
+		}
+	]
+}

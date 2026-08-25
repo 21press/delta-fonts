@@ -1,0 +1,58 @@
+{
+	"slug": "playwrite-at",
+	"name": "Playwrite AT",
+	"fontFamily": "\"Playwrite AT\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite AT"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite AT"
+		}
+	]
+}

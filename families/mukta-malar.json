@@ -1,0 +1,52 @@
+{
+	"slug": "mukta-malar",
+	"name": "Mukta Malar",
+	"fontFamily": "\"Mukta Malar\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoKzAXyz8LOE2FpJMxZqIMwBuAG4Ws.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoKzAXyz8LOE2FpJMxZqINUBeAG4Ws.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoXzAXyz8LOE2FpJMxZqIv_J_U.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoKzAXyz8LOE2FpJMxZqIMMBOAG4Ws.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoKzAXyz8LOE2FpJMxZqIMgA-AG4Ws.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoKzAXyz8LOE2FpJMxZqINEAuAG4Ws.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktamalar/v14/MCoKzAXyz8LOE2FpJMxZqINYAeAG4Ws.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Malar"
+		}
+	]
+}

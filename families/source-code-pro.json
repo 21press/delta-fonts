@@ -1,0 +1,106 @@
+{
+	"slug": "source-code-pro",
+	"name": "Source Code Pro",
+	"fontFamily": "\"Source Code Pro\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sourcecodepro/v31/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMI.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Source Code Pro"
+		}
+	]
+}

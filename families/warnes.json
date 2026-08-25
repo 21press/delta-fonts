@@ -1,0 +1,16 @@
+{
+	"slug": "warnes",
+	"name": "Warnes",
+	"fontFamily": "Warnes, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/warnes/v29/pONn1hc0GsW6sW5-oSq3.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Warnes"
+		}
+	]
+}

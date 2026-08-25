@@ -1,0 +1,22 @@
+{
+	"slug": "unkempt",
+	"name": "Unkempt",
+	"fontFamily": "Unkempt, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/unkempt/v22/2EbnL-Z2DFZue0DSeYEV8g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Unkempt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/unkempt/v22/2EbiL-Z2DFZue0DScTow5zK5qg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Unkempt"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-cz-guides",
+	"name": "Playwrite CZ Guides",
+	"fontFamily": "\"Playwrite CZ Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZQk4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CZ Guides"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "oregano",
+	"name": "Oregano",
+	"fontFamily": "Oregano, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oregano/v17/If2IXTPxciS3H4S2oZDVPg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oregano"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oregano/v17/If2KXTPxciS3H4S2oZXlPBHK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Oregano"
+		}
+	]
+}

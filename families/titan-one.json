@@ -1,0 +1,16 @@
+{
+	"slug": "titan-one",
+	"name": "Titan One",
+	"fontFamily": "\"Titan One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjClDgm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Titan One"
+		}
+	]
+}

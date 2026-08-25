@@ -1,0 +1,70 @@
+{
+	"slug": "spline-sans-mono",
+	"name": "Spline Sans Mono",
+	"fontFamily": "\"Spline Sans Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70BjzAei_CDNLfgZxrW6wrZOF2WX5KZmA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70BjzAei_CDNLfgZxrW6wrZOF2WX5KZmA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70BjzAei_CDNLfgZxrW6wrZOF2WX5KZmA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70BjzAei_CDNLfgZxrW6wrZOF2WX5KZmA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70BjzAei_CDNLfgZxrW6wrZOF2WX5KZmA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70HjzAei_CDNLfgZxrW6wrZOF2WX5epmkWe.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70HjzAei_CDNLfgZxrW6wrZOF2WX5epmkWe.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70HjzAei_CDNLfgZxrW6wrZOF2WX5epmkWe.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70HjzAei_CDNLfgZxrW6wrZOF2WX5epmkWe.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Spline Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/splinesansmono/v13/R70HjzAei_CDNLfgZxrW6wrZOF2WX5epmkWe.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Spline Sans Mono"
+		}
+	]
+}

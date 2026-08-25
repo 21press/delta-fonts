@@ -1,0 +1,16 @@
+{
+	"slug": "basic",
+	"name": "Basic",
+	"fontFamily": "Basic, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/basic/v18/xfu_0WLxV2_XKTNw6FE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Basic"
+		}
+	]
+}

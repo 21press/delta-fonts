@@ -1,0 +1,16 @@
+{
+	"slug": "viga",
+	"name": "Viga",
+	"fontFamily": "Viga, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/viga/v15/xMQbuFFdSaiXzQUpDg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Viga"
+		}
+	]
+}

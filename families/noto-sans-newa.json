@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-newa",
+	"name": "Noto Sans Newa",
+	"fontFamily": "\"Noto Sans Newa\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnewa/v18/7r3fqXp6utEsO9pI4f8ok8sWg_n4ot8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Newa"
+		}
+	]
+}

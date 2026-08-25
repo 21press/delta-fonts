@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-sk",
+	"name": "Playwrite SK",
+	"fontFamily": "\"Playwrite SK\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritesk/v10/9XUilJp0klrZDw3AZHcsJTBowQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite SK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritesk/v10/9XUilJp0klrZDw3AZHcsJTBowQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite SK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritesk/v10/9XUilJp0klrZDw3AZHcsJTBowQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite SK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritesk/v10/9XUilJp0klrZDw3AZHcsJTBowQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite SK"
+		}
+	]
+}

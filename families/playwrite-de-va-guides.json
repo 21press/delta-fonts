@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-de-va-guides",
+	"name": "Playwrite DE VA Guides",
+	"fontFamily": "\"Playwrite DE VA Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UBo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE VA Guides"
+		}
+	]
+}

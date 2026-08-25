@@ -1,0 +1,16 @@
+{
+	"slug": "almendra-sc",
+	"name": "Almendra SC",
+	"fontFamily": "\"Almendra SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/almendrasc/v31/Iure6Yx284eebowr7hbyTaZOrLQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Almendra SC"
+		}
+	]
+}

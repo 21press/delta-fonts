@@ -1,0 +1,16 @@
+{
+	"slug": "tilt-prism",
+	"name": "Tilt Prism",
+	"fontFamily": "\"Tilt Prism\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tiltprism/v16/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbApj6q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tilt Prism"
+		}
+	]
+}

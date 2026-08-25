@@ -1,0 +1,16 @@
+{
+	"slug": "blaka",
+	"name": "Blaka",
+	"fontFamily": "Blaka, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/blaka/v8/8vIG7w8722p_6nds0UE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Blaka"
+		}
+	]
+}

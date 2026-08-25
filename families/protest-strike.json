@@ -1,0 +1,16 @@
+{
+	"slug": "protest-strike",
+	"name": "Protest Strike",
+	"fontFamily": "\"Protest Strike\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlqzR2Ac.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Protest Strike"
+		}
+	]
+}

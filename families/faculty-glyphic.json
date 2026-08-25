@@ -1,0 +1,16 @@
+{
+	"slug": "faculty-glyphic",
+	"name": "Faculty Glyphic",
+	"fontFamily": "\"Faculty Glyphic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQ4HO2E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Faculty Glyphic"
+		}
+	]
+}

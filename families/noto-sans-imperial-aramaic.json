@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-imperial-aramaic",
+	"name": "Noto Sans Imperial Aramaic",
+	"fontFamily": "\"Noto Sans Imperial Aramaic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansimperialaramaic/v18/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudhnXc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Imperial Aramaic"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "condiment",
+	"name": "Condiment",
+	"fontFamily": "Condiment, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6irIP5.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Condiment"
+		}
+	]
+}

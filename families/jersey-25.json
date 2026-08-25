@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-25",
+	"name": "Jersey 25",
+	"fontFamily": "\"Jersey 25\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey25/v4/ll8-K2eeXj2tAs6F9BX4IIoN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 25"
+		}
+	]
+}

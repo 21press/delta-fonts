@@ -1,0 +1,22 @@
+{
+	"slug": "cossette-texte",
+	"name": "Cossette Texte",
+	"fontFamily": "\"Cossette Texte\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cossettetexte/v3/S6ukw4pDXzTb-m1kPi_7eV-ciM0yzvE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cossette Texte"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cossettetexte/v3/S6unw4pDXzTb-m1kPi_7eV-ciMWJ6-Rf9ss.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cossette Texte"
+		}
+	]
+}

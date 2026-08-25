@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-elymaic",
+	"name": "Noto Sans Elymaic",
+	"fontFamily": "\"Noto Sans Elymaic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanselymaic/v18/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AkUuU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Elymaic"
+		}
+	]
+}

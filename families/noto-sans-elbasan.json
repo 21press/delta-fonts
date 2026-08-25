@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-elbasan",
+	"name": "Noto Sans Elbasan",
+	"fontFamily": "\"Noto Sans Elbasan\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanselbasan/v17/-F6rfiZqLzI2JPCgQBnw400qp1trvEdip-8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Elbasan"
+		}
+	]
+}

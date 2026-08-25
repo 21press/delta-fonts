@@ -1,0 +1,16 @@
+{
+	"slug": "akaya-kanadaka",
+	"name": "Akaya Kanadaka",
+	"fontFamily": "\"Akaya Kanadaka\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/akayakanadaka/v18/N0bM2S5CPO5oOQqvazoRRb-8-MfWQZQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Akaya Kanadaka"
+		}
+	]
+}

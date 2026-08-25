@@ -1,0 +1,16 @@
+{
+	"slug": "give-you-glory",
+	"name": "Give You Glory",
+	"fontFamily": "\"Give You Glory\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/giveyouglory/v17/8QIQdiHOgt3vv4LR7ahjw9-XYf10DYc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Give You Glory"
+		}
+	]
+}

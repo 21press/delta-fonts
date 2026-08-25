@@ -1,0 +1,16 @@
+{
+	"slug": "tac-one",
+	"name": "Tac One",
+	"fontFamily": "\"Tac One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tacone/v5/ahcZv8Cj3zw7qDr8TOkrUg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tac One"
+		}
+	]
+}

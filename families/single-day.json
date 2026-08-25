@@ -1,0 +1,16 @@
+{
+	"slug": "single-day",
+	"name": "Single Day",
+	"fontFamily": "\"Single Day\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/singleday/v20/LYjHdGDjlEgoAcF95EI5vV0PUQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Single Day"
+		}
+	]
+}

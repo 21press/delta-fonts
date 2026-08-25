@@ -1,0 +1,40 @@
+{
+	"slug": "marhey",
+	"name": "Marhey",
+	"fontFamily": "Marhey, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/marhey/v8/x3dhck7Laq-T7wlRlo8k.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Marhey"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/marhey/v8/x3dhck7Laq-T7wlRlo8k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Marhey"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/marhey/v8/x3dhck7Laq-T7wlRlo8k.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Marhey"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/marhey/v8/x3dhck7Laq-T7wlRlo8k.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Marhey"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/marhey/v8/x3dhck7Laq-T7wlRlo8k.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Marhey"
+		}
+	]
+}

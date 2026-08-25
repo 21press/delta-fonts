@@ -1,0 +1,16 @@
+{
+	"slug": "bangers",
+	"name": "Bangers",
+	"fontFamily": "Bangers, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACH55Q2A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bangers"
+		}
+	]
+}

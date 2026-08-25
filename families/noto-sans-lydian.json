@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-lydian",
+	"name": "Noto Sans Lydian",
+	"fontFamily": "\"Noto Sans Lydian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSUTdMw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lydian"
+		}
+	]
+}

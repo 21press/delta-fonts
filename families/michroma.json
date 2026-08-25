@@ -1,0 +1,16 @@
+{
+	"slug": "michroma",
+	"name": "Michroma",
+	"fontFamily": "Michroma, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/michroma/v21/PN_zRfy9qWD8fEagAPg9pTk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Michroma"
+		}
+	]
+}

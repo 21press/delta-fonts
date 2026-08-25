@@ -1,0 +1,40 @@
+{
+	"slug": "eczar",
+	"name": "Eczar",
+	"fontFamily": "Eczar, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/eczar/v27/BXRlvF3Pi-DLmz0lDO4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Eczar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eczar/v27/BXRlvF3Pi-DLmz0lDO4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Eczar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eczar/v27/BXRlvF3Pi-DLmz0lDO4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Eczar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eczar/v27/BXRlvF3Pi-DLmz0lDO4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Eczar"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eczar/v27/BXRlvF3Pi-DLmz0lDO4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Eczar"
+		}
+	]
+}

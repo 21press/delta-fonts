@@ -1,0 +1,16 @@
+{
+	"slug": "whisper",
+	"name": "Whisper",
+	"fontFamily": "Whisper, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/whisper/v7/q5uHsoqtKftx74K9qi5IBg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Whisper"
+		}
+	]
+}

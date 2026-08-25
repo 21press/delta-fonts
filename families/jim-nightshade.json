@@ -1,0 +1,16 @@
+{
+	"slug": "jim-nightshade",
+	"name": "Jim Nightshade",
+	"fontFamily": "\"Jim Nightshade\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jimnightshade/v21/PlIkFlu9Pb08Q8HLM1PxmB0g-NS_XXs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jim Nightshade"
+		}
+	]
+}

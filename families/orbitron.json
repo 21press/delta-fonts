@@ -1,0 +1,46 @@
+{
+	"slug": "orbitron",
+	"name": "Orbitron",
+	"fontFamily": "Orbitron, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Orbitron"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Orbitron"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Orbitron"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Orbitron"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Orbitron"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Orbitron"
+		}
+	]
+}

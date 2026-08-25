@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-20-charted",
+	"name": "Jersey 20 Charted",
+	"fontFamily": "\"Jersey 20 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey20charted/v4/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8ZyhC4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 20 Charted"
+		}
+	]
+}

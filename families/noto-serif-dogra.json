@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-dogra",
+	"name": "Noto Serif Dogra",
+	"fontFamily": "\"Noto Serif Dogra\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdogra/v24/MQpP-XquKMC7ROPP3QOOlm7xPu3fKym9IA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Dogra"
+		}
+	]
+}

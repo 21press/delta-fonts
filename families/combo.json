@@ -1,0 +1,16 @@
+{
+	"slug": "combo",
+	"name": "Combo",
+	"fontFamily": "Combo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/combo/v22/BXRlvF3Jh_fIhj0lDO4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Combo"
+		}
+	]
+}

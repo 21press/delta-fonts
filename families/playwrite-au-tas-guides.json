@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-au-tas-guides",
+	"name": "Playwrite AU TAS Guides",
+	"fontFamily": "\"Playwrite AU TAS Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU TAS Guides"
+		}
+	]
+}

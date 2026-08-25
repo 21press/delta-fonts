@@ -1,0 +1,34 @@
+{
+	"slug": "b612-mono",
+	"name": "B612 Mono",
+	"fontFamily": "\"B612 Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmK_Zq85QVWbN1eW6lJV0A7d.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "B612 Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayvIpcVO.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "B612 Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmK5Zq85QVWbN1eW6lJV1T7fguA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "B612 Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/b612mono/v16/kmKkZq85QVWbN1eW6lJV1TZkp_VMl7Y.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "B612 Mono"
+		}
+	]
+}

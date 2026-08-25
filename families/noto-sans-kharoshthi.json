@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-kharoshthi",
+	"name": "Noto Sans Kharoshthi",
+	"fontFamily": "\"Noto Sans Kharoshthi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskharoshthi/v17/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z_pl0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Kharoshthi"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "londrina-outline",
+	"name": "Londrina Outline",
+	"fontFamily": "\"Londrina Outline\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/londrinaoutline/v29/C8c44dM8vmb14dfsZxhetg3pDH-STu07rA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Outline"
+		}
+	]
+}

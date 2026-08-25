@@ -1,0 +1,16 @@
+{
+	"slug": "marck-script",
+	"name": "Marck Script",
+	"fontFamily": "\"Marck Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/marckscript/v22/nwpTtK2oNgBA3Or78gapdwuyyCg_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Marck Script"
+		}
+	]
+}

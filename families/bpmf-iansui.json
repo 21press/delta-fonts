@@ -1,0 +1,16 @@
+{
+	"slug": "bpmf-iansui",
+	"name": "Bpmf Iansui",
+	"fontFamily": "\"Bpmf Iansui\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bpmfiansui/v6/yMJWMIp-dJTO0T8F_WnJPjh2qtA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bpmf Iansui"
+		}
+	]
+}

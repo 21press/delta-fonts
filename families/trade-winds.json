@@ -1,0 +1,16 @@
+{
+	"slug": "trade-winds",
+	"name": "Trade Winds",
+	"fontFamily": "\"Trade Winds\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tradewinds/v18/AYCPpXPpYNIIT7h8-QenM0Jt5vM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Trade Winds"
+		}
+	]
+}

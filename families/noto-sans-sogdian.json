@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-sogdian",
+	"name": "Noto Sans Sogdian",
+	"fontFamily": "\"Noto Sans Sogdian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssogdian/v17/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-5NG8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sogdian"
+		}
+	]
+}

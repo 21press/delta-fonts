@@ -1,0 +1,70 @@
+{
+	"slug": "eb-garamond",
+	"name": "EB Garamond",
+	"fontFamily": "\"EB Garamond\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDs1Zw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDs1Zw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDs1Zw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDs1Zw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "EB Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDs1Zw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "EB Garamond"
+		}
+	]
+}

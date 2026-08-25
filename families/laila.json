@@ -1,0 +1,40 @@
+{
+	"slug": "laila",
+	"name": "Laila",
+	"fontFamily": "Laila, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzxojNHjV8.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Laila"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/laila/v20/LYjMdG_8nE8jDLRagCY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Laila"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLypozNHjV8.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Laila"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLyFpDNHjV8.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Laila"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzhpTNHjV8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Laila"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "uncial-antiqua",
+	"name": "Uncial Antiqua",
+	"fontFamily": "\"Uncial Antiqua\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/uncialantiqua/v22/N0bM2S5WOex4OUbESzoESK-i-MfWQZQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Uncial Antiqua"
+		}
+	]
+}

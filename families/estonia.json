@@ -1,0 +1,16 @@
+{
+	"slug": "estonia",
+	"name": "Estonia",
+	"fontFamily": "Estonia, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/estonia/v13/7Au_p_4ijSecA1yHOCX2zw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Estonia"
+		}
+	]
+}

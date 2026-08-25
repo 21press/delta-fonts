@@ -1,0 +1,16 @@
+{
+	"slug": "protest-riot",
+	"name": "Protest Riot",
+	"fontFamily": "\"Protest Riot\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkr80Phh.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Protest Riot"
+		}
+	]
+}

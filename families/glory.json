@@ -1,0 +1,106 @@
+{
+	"slug": "glory",
+	"name": "Glory",
+	"fontFamily": "Glory, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uJsoi9Lf1w5vfImiw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glory/v18/q5uHsoi9Lf1w5vfNqi5IBg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Glory"
+		}
+	]
+}

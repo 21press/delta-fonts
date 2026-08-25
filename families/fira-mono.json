@@ -1,0 +1,28 @@
+{
+	"slug": "fira-mono",
+	"name": "Fira Mono",
+	"fontFamily": "\"Fira Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/firamono/v16/N0bX2SlFPv1weGeLZDtgJv7S.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firamono/v16/N0bS2SlFPv1weGeLZDto1d3HnvfU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firamono/v16/N0bS2SlFPv1weGeLZDtondvHnvfU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Mono"
+		}
+	]
+}

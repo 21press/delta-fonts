@@ -1,0 +1,16 @@
+{
+	"slug": "ephesis",
+	"name": "Ephesis",
+	"fontFamily": "Ephesis, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ephesis/v11/uU9PCBUS8IerL2VG3xTR3w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ephesis"
+		}
+	]
+}

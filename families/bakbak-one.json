@@ -1,0 +1,16 @@
+{
+	"slug": "bakbak-one",
+	"name": "Bakbak One",
+	"fontFamily": "\"Bakbak One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bakbakone/v11/zOL54pXAl6RI-p_ardnu-cNkvg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bakbak One"
+		}
+	]
+}

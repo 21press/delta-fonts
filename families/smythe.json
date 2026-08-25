@@ -1,0 +1,16 @@
+{
+	"slug": "smythe",
+	"name": "Smythe",
+	"fontFamily": "Smythe, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/smythe/v24/MwQ3bhT01--coT1xP7J-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Smythe"
+		}
+	]
+}

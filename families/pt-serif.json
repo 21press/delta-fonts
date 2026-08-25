@@ -1,0 +1,34 @@
+{
+	"slug": "pt-serif",
+	"name": "PT Serif",
+	"fontFamily": "\"PT Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRVQgYoZZY2vCFuvAFWzr8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "PT Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRSQgYoZZY2vCFuvAnt66qSVys.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "PT Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRTQgYoZZY2vCFuvAFT_r21cg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "PT Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptserif/v19/EJRQQgYoZZY2vCFuvAFT9gaQZynfoA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "PT Serif"
+		}
+	]
+}

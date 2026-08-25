@@ -1,0 +1,28 @@
+{
+	"slug": "judson",
+	"name": "Judson",
+	"fontFamily": "Judson, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/judson/v20/FeVRS0Fbvbc14VxhCLl1.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Judson"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/judson/v20/FeVSS0Fbvbc14Vxps5xg2pRm.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Judson"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/judson/v20/FeVTS0Fbvbc14VxhDYl3_bE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Judson"
+		}
+	]
+}

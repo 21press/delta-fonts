@@ -1,0 +1,64 @@
+{
+	"slug": "noto-serif-hebrew",
+	"name": "Noto Serif Hebrew",
+	"fontFamily": "\"Noto Serif Hebrew\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k5o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbD-1BM.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Hebrew"
+		}
+	]
+}

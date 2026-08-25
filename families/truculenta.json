@@ -1,0 +1,64 @@
+{
+	"slug": "truculenta",
+	"name": "Truculenta",
+	"fontFamily": "Truculenta, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/truculenta/v27/LhWKMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6Xth22p.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Truculenta"
+		}
+	]
+}

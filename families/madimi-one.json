@@ -1,0 +1,16 @@
+{
+	"slug": "madimi-one",
+	"name": "Madimi One",
+	"fontFamily": "\"Madimi One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/madimione/v1/2V0YKIEADpA8U6RygDnZVFMiBw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Madimi One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "tenor-sans",
+	"name": "Tenor Sans",
+	"fontFamily": "\"Tenor Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISn3V4Cg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tenor Sans"
+		}
+	]
+}

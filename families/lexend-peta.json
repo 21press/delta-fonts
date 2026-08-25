@@ -1,0 +1,64 @@
+{
+	"slug": "lexend-peta",
+	"name": "Lexend Peta",
+	"fontFamily": "\"Lexend Peta\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lexendpeta/v30/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Lexend Peta"
+		}
+	]
+}

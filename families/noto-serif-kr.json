@@ -1,0 +1,58 @@
+{
+	"slug": "noto-serif-kr",
+	"name": "Noto Serif KR",
+	"fontFamily": "\"Noto Serif KR\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkr/v31/3Jn7SDn90Gmq2mr3blnHaTZXRudj1Q.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif KR"
+		}
+	]
+}

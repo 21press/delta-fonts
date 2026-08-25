@@ -1,0 +1,22 @@
+{
+	"slug": "cherry-swash",
+	"name": "Cherry Swash",
+	"fontFamily": "\"Cherry Swash\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy5MR3K_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cherry Swash"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeqHCSR.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cherry Swash"
+		}
+	]
+}

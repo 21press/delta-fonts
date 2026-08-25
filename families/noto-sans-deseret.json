@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-deseret",
+	"name": "Noto Sans Deseret",
+	"fontFamily": "\"Noto Sans Deseret\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansdeseret/v18/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Wq6bHM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Deseret"
+		}
+	]
+}

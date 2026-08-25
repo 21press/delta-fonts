@@ -1,0 +1,22 @@
+{
+	"slug": "ropa-sans",
+	"name": "Ropa Sans",
+	"fontFamily": "\"Ropa Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ropasans/v16/EYqxmaNOzLlWtsZSScy6XTNp.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ropa Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ropasans/v16/EYq3maNOzLlWtsZSScy6WANre5Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Ropa Sans"
+		}
+	]
+}

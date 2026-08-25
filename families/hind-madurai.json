@@ -1,0 +1,40 @@
+{
+	"slug": "hind-madurai",
+	"name": "Hind Madurai",
+	"fontFamily": "\"Hind Madurai\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEp.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Madurai"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xx0e2p98ZvDXdZQIOcpqjX9ocC.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Madurai"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEp.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Madurai"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXfsEp.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Madurai"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEp.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Hind Madurai"
+		}
+	]
+}

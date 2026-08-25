@@ -1,0 +1,16 @@
+{
+	"slug": "new-tegomin",
+	"name": "New Tegomin",
+	"fontFamily": "\"New Tegomin\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqcNzSXs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "New Tegomin"
+		}
+	]
+}

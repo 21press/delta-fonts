@@ -1,0 +1,22 @@
+{
+	"slug": "lunasima",
+	"name": "Lunasima",
+	"fontFamily": "Lunasima, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFDwicd8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lunasima"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lunasima/v1/wEO5EBvPh9RSOj7JFDSZVMoI9E8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lunasima"
+		}
+	]
+}

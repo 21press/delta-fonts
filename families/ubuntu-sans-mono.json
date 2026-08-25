@@ -1,0 +1,58 @@
+{
+	"slug": "ubuntu-sans-mono",
+	"name": "Ubuntu Sans Mono",
+	"fontFamily": "\"Ubuntu Sans Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyR7mzgBHrR5yE7ZyRg0QRJMKI45grIfA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyR7mzgBHrR5yE7ZyRg0QRJMKI45grIfA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyR7mzgBHrR5yE7ZyRg0QRJMKI45grIfA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyR7mzgBHrR5yE7ZyRg0QRJMKI45grIfA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyX7mzgBHrR5yE7ZyRg0QRJMKI45g_4fj31.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyX7mzgBHrR5yE7ZyRg0QRJMKI45g_4fj31.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyX7mzgBHrR5yE7ZyRg0QRJMKI45g_4fj31.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu Sans Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyX7mzgBHrR5yE7ZyRg0QRJMKI45g_4fj31.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Ubuntu Sans Mono"
+		}
+	]
+}

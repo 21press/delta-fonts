@@ -1,0 +1,16 @@
+{
+	"slug": "east-sea-dokdo",
+	"name": "East Sea Dokdo",
+	"fontFamily": "\"East Sea Dokdo\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m06_dE6o.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "East Sea Dokdo"
+		}
+	]
+}

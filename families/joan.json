@@ -1,0 +1,16 @@
+{
+	"slug": "joan",
+	"name": "Joan",
+	"fontFamily": "Joan, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/joan/v12/ZXupe1oZsqWRXRBN8A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Joan"
+		}
+	]
+}

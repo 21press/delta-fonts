@@ -1,0 +1,16 @@
+{
+	"slug": "manufacturing-consent",
+	"name": "Manufacturing Consent",
+	"fontFamily": "\"Manufacturing Consent\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/manufacturingconsent/v1/N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakiUQK4u.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Manufacturing Consent"
+		}
+	]
+}

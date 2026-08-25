@@ -1,0 +1,64 @@
+{
+	"slug": "big-shoulders",
+	"name": "Big Shoulders",
+	"fontFamily": "\"Big Shoulders\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdR35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_Nahg9U.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Big Shoulders"
+		}
+	]
+}

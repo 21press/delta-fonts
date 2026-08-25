@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-batak",
+	"name": "Noto Sans Batak",
+	"fontFamily": "\"Noto Sans Batak\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansbatak/v23/gok2H6TwAEdtF9N8-mdTCQvT-ZdQpIXO.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Batak"
+		}
+	]
+}

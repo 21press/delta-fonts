@@ -1,0 +1,40 @@
+{
+	"slug": "baloo-chettan-2",
+	"name": "Baloo Chettan 2",
+	"fontFamily": "\"Baloo Chettan 2\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baloochettan2/v23/vm8udRbmXEva26PK-NtuX4ynWEzv5_d6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Chettan 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloochettan2/v23/vm8udRbmXEva26PK-NtuX4ynWEzv5_d6.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Chettan 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloochettan2/v23/vm8udRbmXEva26PK-NtuX4ynWEzv5_d6.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Chettan 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloochettan2/v23/vm8udRbmXEva26PK-NtuX4ynWEzv5_d6.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Chettan 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloochettan2/v23/vm8udRbmXEva26PK-NtuX4ynWEzv5_d6.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Chettan 2"
+		}
+	]
+}

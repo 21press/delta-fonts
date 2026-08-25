@@ -1,0 +1,22 @@
+{
+	"slug": "instrument-serif",
+	"name": "Instrument Serif",
+	"fontFamily": "\"Instrument Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Instrument Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Instrument Serif"
+		}
+	]
+}

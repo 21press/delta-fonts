@@ -1,0 +1,16 @@
+{
+	"slug": "fontdiner-swanky",
+	"name": "Fontdiner Swanky",
+	"fontFamily": "\"Fontdiner Swanky\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fontdinerswanky/v24/ijwOs4XgRNsiaI5-hcVb4hQgMvCD0uYVKw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fontdiner Swanky"
+		}
+	]
+}

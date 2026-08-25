@@ -1,0 +1,16 @@
+{
+	"slug": "nova-flat",
+	"name": "Nova Flat",
+	"fontFamily": "\"Nova Flat\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novaflat/v26/QdVUSTc-JgqpytEbVeb0viFl.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Flat"
+		}
+	]
+}

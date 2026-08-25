@@ -1,0 +1,22 @@
+{
+	"slug": "im-fell-english",
+	"name": "IM Fell English",
+	"fontFamily": "\"IM Fell English\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/imfellenglish/v14/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IM Fell English"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/imfellenglish/v14/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "IM Fell English"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "ramsina",
+	"name": "Ramsina",
+	"fontFamily": "Ramsina, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ramsina/v3/daaYSTE-LGmCbhP9yLk_Qg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ramsina"
+		}
+	]
+}

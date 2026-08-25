@@ -1,0 +1,16 @@
+{
+	"slug": "lakki-reddy",
+	"name": "Lakki Reddy",
+	"fontFamily": "\"Lakki Reddy\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZTfvzdg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lakki Reddy"
+		}
+	]
+}

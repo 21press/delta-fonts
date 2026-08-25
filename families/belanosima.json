@@ -1,0 +1,28 @@
+{
+	"slug": "belanosima",
+	"name": "Belanosima",
+	"fontFamily": "Belanosima, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/belanosima/v4/3y9k6bI8ejDo_3MfCDSL9AdRFg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Belanosima"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Nh1A31gng.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Belanosima"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Lx0A31gng.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Belanosima"
+		}
+	]
+}

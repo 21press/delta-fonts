@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-vn-guides",
+	"name": "Playwrite VN Guides",
+	"fontFamily": "\"Playwrite VN Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritevnguides/v1/JIAvUUlydXJZq1IQU8oDBn2CUkROHFEAfXY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite VN Guides"
+		}
+	]
+}

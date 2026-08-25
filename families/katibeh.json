@@ -1,0 +1,16 @@
+{
+	"slug": "katibeh",
+	"name": "Katibeh",
+	"fontFamily": "Katibeh, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/katibeh/v22/ZGjXol5MQJog4bxDWCpbVQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Katibeh"
+		}
+	]
+}

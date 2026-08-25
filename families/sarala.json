@@ -1,0 +1,22 @@
+{
+	"slug": "sarala",
+	"name": "Sarala",
+	"fontFamily": "Sarala, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sarala/v16/uK_y4riEZv4o1w9hDRcS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sarala"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sarala/v16/uK_x4riEZv4o1w9ptjIHPd-Z.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sarala"
+		}
+	]
+}

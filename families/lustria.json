@@ -1,0 +1,16 @@
+{
+	"slug": "lustria",
+	"name": "Lustria",
+	"fontFamily": "Lustria, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lustria/v14/9oRONYodvDEyjuhOnC8zMw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lustria"
+		}
+	]
+}

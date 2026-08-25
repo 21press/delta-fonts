@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-permic",
+	"name": "Noto Sans Old Permic",
+	"fontFamily": "\"Noto Sans Old Permic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansoldpermic/v18/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdQiP4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old Permic"
+		}
+	]
+}

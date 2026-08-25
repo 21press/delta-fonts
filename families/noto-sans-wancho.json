@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-wancho",
+	"name": "Noto Sans Wancho",
+	"fontFamily": "\"Noto Sans Wancho\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanswancho/v19/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmATipw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Wancho"
+		}
+	]
+}

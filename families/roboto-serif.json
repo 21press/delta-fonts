@@ -1,0 +1,118 @@
+{
+	"slug": "roboto-serif",
+	"name": "Roboto Serif",
+	"fontFamily": "\"Roboto Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70mjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEX5KSh0.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/robotoserif/v17/R70kjywflP6FLr3gZx7K8UyEVQnyR1E7VN-f51xYuGCQepOvB0KLc2v0wKKB0Q4MSZxyqf2CgAchbBh23OY.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Roboto Serif"
+		}
+	]
+}

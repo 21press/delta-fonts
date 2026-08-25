@@ -1,0 +1,22 @@
+{
+	"slug": "skranji",
+	"name": "Skranji",
+	"fontFamily": "Skranji, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/skranji/v14/OZpDg_dtriVFNerMUzykkw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Skranji"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/skranji/v14/OZpGg_dtriVFNerMW4eBhlvHwQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Skranji"
+		}
+	]
+}

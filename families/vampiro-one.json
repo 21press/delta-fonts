@@ -1,0 +1,16 @@
+{
+	"slug": "vampiro-one",
+	"name": "Vampiro One",
+	"fontFamily": "\"Vampiro One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vampiroone/v19/gokqH6DoDl5yXvJytFsdLnqguPk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Vampiro One"
+		}
+	]
+}

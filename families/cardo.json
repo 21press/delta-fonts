@@ -1,0 +1,28 @@
+{
+	"slug": "cardo",
+	"name": "Cardo",
+	"fontFamily": "Cardo, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqhv43IE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cardo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cardo/v21/wlpygwjKBV1pqhND-ZQW-WM.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cardo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cardo/v21/wlpxgwjKBV1pqhv97IMx3A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Cardo"
+		}
+	]
+}

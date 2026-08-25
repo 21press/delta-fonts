@@ -1,0 +1,70 @@
+{
+	"slug": "vend-sans",
+	"name": "Vend Sans",
+	"fontFamily": "\"Vend Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21l_d7ijufNwCJPEUscVA9V.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21l_d7ijufNwCJPEUscVA9V.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21l_d7ijufNwCJPEUscVA9V.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21l_d7ijufNwCJPEUscVA9V.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21l_d7ijufNwCJPEUscVA9V.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21j_d7ijufNwCJPEUscUT9XKu8.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21j_d7ijufNwCJPEUscUT9XKu8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21j_d7ijufNwCJPEUscUT9XKu8.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21j_d7ijufNwCJPEUscUT9XKu8.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Vend Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/vendsans/v1/E21j_d7ijufNwCJPEUscUT9XKu8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Vend Sans"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "zen-antique-soft",
+	"name": "Zen Antique Soft",
+	"fontFamily": "\"Zen Antique Soft\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zenantiquesoft/v14/DtV4JwqzSL1q_KwnEWMc_3xfgW6itwdskw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Antique Soft"
+		}
+	]
+}

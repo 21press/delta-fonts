@@ -1,0 +1,16 @@
+{
+	"slug": "luckiest-guy",
+	"name": "Luckiest Guy",
+	"fontFamily": "\"Luckiest Guy\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/luckiestguy/v25/_gP_1RrxsjcxVyin9l9n_j2hTd52.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Luckiest Guy"
+		}
+	]
+}

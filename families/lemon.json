@@ -1,0 +1,16 @@
+{
+	"slug": "lemon",
+	"name": "Lemon",
+	"fontFamily": "Lemon, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lemon/v19/HI_EiYEVKqRMq3jGQ5Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lemon"
+		}
+	]
+}

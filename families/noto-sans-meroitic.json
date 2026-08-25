@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-meroitic",
+	"name": "Noto Sans Meroitic",
+	"fontFamily": "\"Noto Sans Meroitic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmeroitic/v19/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzhzJS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Meroitic"
+		}
+	]
+}

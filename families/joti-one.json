@@ -1,0 +1,16 @@
+{
+	"slug": "joti-one",
+	"name": "Joti One",
+	"fontFamily": "\"Joti One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jotione/v28/Z9XVDmdJQAmWm9TwabTZ6Ow.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Joti One"
+		}
+	]
+}

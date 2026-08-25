@@ -1,0 +1,16 @@
+{
+	"slug": "diplomata-sc",
+	"name": "Diplomata SC",
+	"fontFamily": "\"Diplomata SC\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/diplomatasc/v30/buExpoi3ecvs3kidKgBJo2kv__RP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Diplomata SC"
+		}
+	]
+}

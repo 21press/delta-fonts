@@ -1,0 +1,16 @@
+{
+	"slug": "six-caps",
+	"name": "Six Caps",
+	"fontFamily": "\"Six Caps\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmaYcV_3Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Six Caps"
+		}
+	]
+}

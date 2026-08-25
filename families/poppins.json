@@ -1,0 +1,118 @@
+{
+	"slug": "poppins",
+	"name": "Poppins",
+	"fontFamily": "Poppins, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtA.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Poppins"
+		}
+	]
+}

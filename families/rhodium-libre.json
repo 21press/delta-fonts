@@ -1,0 +1,16 @@
+{
+	"slug": "rhodium-libre",
+	"name": "Rhodium Libre",
+	"fontFamily": "\"Rhodium Libre\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rhodiumlibre/v21/1q2AY5adA0tn_ukeHcQHqpx6lEPBew.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rhodium Libre"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "dhurjati",
+	"name": "Dhurjati",
+	"fontFamily": "Dhurjati, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dhurjati/v27/_6_8ED3gSeatXfFiFU31QqU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dhurjati"
+		}
+	]
+}

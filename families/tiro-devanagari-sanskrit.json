@@ -1,0 +1,22 @@
+{
+	"slug": "tiro-devanagari-sanskrit",
+	"name": "Tiro Devanagari Sanskrit",
+	"fontFamily": "\"Tiro Devanagari Sanskrit\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v7/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZFYsr.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tiro Devanagari Sanskrit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v7/MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZELspqtc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tiro Devanagari Sanskrit"
+		}
+	]
+}

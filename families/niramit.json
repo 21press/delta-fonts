@@ -1,0 +1,82 @@
+{
+	"slug": "niramit",
+	"name": "Niramit",
+	"fontFamily": "Niramit, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_urMpWdvgLdNxVLVXx7hi-Org.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_urMpWdvgLdNxVLVRh4hi-Org.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_uuMpWdvgLdNxVLXbNakw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_urMpWdvgLdNxVLVUB5hi-Org.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_urMpWdvgLdNxVLVWx-hi-Org.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_urMpWdvgLdNxVLVQh_hi-Org.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_upMpWdvgLdNxVLXbZiXim-rLfF.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_upMpWdvgLdNxVLXbZiOiq-rLfF.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_usMpWdvgLdNxVLXbZqkQir.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_upMpWdvgLdNxVLXbZiYiu-rLfF.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_upMpWdvgLdNxVLXbZiTiy-rLfF.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Niramit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/niramit/v12/I_upMpWdvgLdNxVLXbZiKi2-rLfF.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Niramit"
+		}
+	]
+}

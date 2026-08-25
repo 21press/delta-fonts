@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-it-trad-guides",
+	"name": "Playwrite IT Trad Guides",
+	"fontFamily": "\"Playwrite IT Trad Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUBg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite IT Trad Guides"
+		}
+	]
+}

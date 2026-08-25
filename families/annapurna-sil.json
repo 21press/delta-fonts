@@ -1,0 +1,22 @@
+{
+	"slug": "annapurna-sil",
+	"name": "Annapurna SIL",
+	"fontFamily": "\"Annapurna SIL\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllidwNR3dA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Annapurna SIL"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/annapurnasil/v2/yYLy0hDY0f2iu9tPmRWtllidyG9SYZveIA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Annapurna SIL"
+		}
+	]
+}

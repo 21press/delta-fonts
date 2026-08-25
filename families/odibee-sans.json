@@ -1,0 +1,16 @@
+{
+	"slug": "odibee-sans",
+	"name": "Odibee Sans",
+	"fontFamily": "\"Odibee Sans\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/odibeesans/v20/neIPzCSooYAho6WvjeToRbk1cJA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Odibee Sans"
+		}
+	]
+}

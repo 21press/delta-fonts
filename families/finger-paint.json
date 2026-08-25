@@ -1,0 +1,16 @@
+{
+	"slug": "finger-paint",
+	"name": "Finger Paint",
+	"fontFamily": "\"Finger Paint\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fingerpaint/v21/0QInMXVJ-o-oRn_7dron8YW-9JzT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Finger Paint"
+		}
+	]
+}

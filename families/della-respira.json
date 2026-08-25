@@ -1,0 +1,16 @@
+{
+	"slug": "della-respira",
+	"name": "Della Respira",
+	"fontFamily": "\"Della Respira\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dellarespira/v24/RLp5K5v44KaueWI6iEJQBiGPdf4Yug.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Della Respira"
+		}
+	]
+}

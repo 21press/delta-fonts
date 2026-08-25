@@ -1,0 +1,16 @@
+{
+	"slug": "jacquarda-bastarda-9",
+	"name": "Jacquarda Bastarda 9",
+	"fontFamily": "\"Jacquarda Bastarda 9\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquardabastarda9/v6/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwE3zE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacquarda Bastarda 9"
+		}
+	]
+}

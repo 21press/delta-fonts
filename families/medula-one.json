@@ -1,0 +1,16 @@
+{
+	"slug": "medula-one",
+	"name": "Medula One",
+	"fontFamily": "\"Medula One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/medulaone/v20/YA9Wr0qb5kjJM6l2V0yuoiYgsg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Medula One"
+		}
+	]
+}

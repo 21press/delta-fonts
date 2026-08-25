@@ -1,0 +1,34 @@
+{
+	"slug": "monda",
+	"name": "Monda",
+	"fontFamily": "Monda, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/monda/v19/TK3tWkYFABsmjsphPho.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Monda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monda/v19/TK3tWkYFABsmjsphPho.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Monda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monda/v19/TK3tWkYFABsmjsphPho.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Monda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/monda/v19/TK3tWkYFABsmjsphPho.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Monda"
+		}
+	]
+}

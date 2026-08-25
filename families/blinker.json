@@ -1,0 +1,58 @@
+{
+	"slug": "blinker",
+	"name": "Blinker",
+	"fontFamily": "Blinker, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf_MaFatEE-VTaP_E2RY0ED.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf4MaFatEE-VTaP_OGAdGYmnQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf4MaFatEE-VTaP_IWDdGYmnQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf9MaFatEE-VTaP9C6hYQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf4MaFatEE-VTaP_PGFdGYmnQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf4MaFatEE-VTaP_JWEdGYmnQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf4MaFatEE-VTaP_ImHdGYmnQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/blinker/v14/cIf4MaFatEE-VTaP_K2GdGYmnQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Blinker"
+		}
+	]
+}

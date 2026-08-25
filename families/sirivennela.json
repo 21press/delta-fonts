@@ -1,0 +1,16 @@
+{
+	"slug": "sirivennela",
+	"name": "Sirivennela",
+	"fontFamily": "Sirivennela, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sirivennela/v2/kmK5Zq0oHhbAYX-X6lgptj7fguA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sirivennela"
+		}
+	]
+}

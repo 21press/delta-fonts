@@ -1,0 +1,16 @@
+{
+	"slug": "antic",
+	"name": "Antic",
+	"fontFamily": "Antic, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/antic/v20/TuGfUVB8XY5DRZZMq9k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Antic"
+		}
+	]
+}

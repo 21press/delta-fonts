@@ -1,0 +1,16 @@
+{
+	"slug": "galdeano",
+	"name": "Galdeano",
+	"fontFamily": "Galdeano, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/galdeano/v23/uU9MCBoQ4YOqOW1boAP2-vE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Galdeano"
+		}
+	]
+}

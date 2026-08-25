@@ -1,0 +1,16 @@
+{
+	"slug": "bruno-ace-sc",
+	"name": "Bruno Ace SC",
+	"fontFamily": "\"Bruno Ace SC\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/brunoacesc/v7/ptROTiycffFLBuiHjdJDl63IKitq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bruno Ace SC"
+		}
+	]
+}

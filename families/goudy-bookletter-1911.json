@@ -1,0 +1,16 @@
+{
+	"slug": "goudy-bookletter-1911",
+	"name": "Goudy Bookletter 1911",
+	"fontFamily": "\"Goudy Bookletter 1911\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/goudybookletter1911/v21/sykt-z54laciWfKv-kX8krex0jDiD2HbY6IJshzW.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Goudy Bookletter 1911"
+		}
+	]
+}

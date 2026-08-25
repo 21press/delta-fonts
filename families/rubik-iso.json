@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-iso",
+	"name": "Rubik Iso",
+	"fontFamily": "\"Rubik Iso\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikiso/v2/x3dickHUfr-S4VAI4sAxe_oD.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Iso"
+		}
+	]
+}

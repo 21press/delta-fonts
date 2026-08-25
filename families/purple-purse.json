@@ -1,0 +1,16 @@
+{
+	"slug": "purple-purse",
+	"name": "Purple Purse",
+	"fontFamily": "\"Purple Purse\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qCfxz-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Purple Purse"
+		}
+	]
+}

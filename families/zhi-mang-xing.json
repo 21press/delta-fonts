@@ -1,0 +1,16 @@
+{
+	"slug": "zhi-mang-xing",
+	"name": "Zhi Mang Xing",
+	"fontFamily": "\"Zhi Mang Xing\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zhimangxing/v19/f0Xw0ey79sErYFtWQ9a2rq-g4aAnfA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zhi Mang Xing"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "asul",
+	"name": "Asul",
+	"fontFamily": "Asul, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/asul/v22/VuJ-dNjKxYr42fQPXQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Asul"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asul/v22/VuJxdNjKxYr40U8qSKHdOQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Asul"
+		}
+	]
+}

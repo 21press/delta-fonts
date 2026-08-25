@@ -1,0 +1,22 @@
+{
+	"slug": "changa-one",
+	"name": "Changa One",
+	"fontFamily": "\"Changa One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/changaone/v22/xfu00W3wXn3QLUJXhzq42AHiuQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Changa One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/changaone/v22/xfu20W3wXn3QLUJXhzq42ATSu5_f.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Changa One"
+		}
+	]
+}

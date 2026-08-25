@@ -1,0 +1,16 @@
+{
+	"slug": "cedarville-cursive",
+	"name": "Cedarville Cursive",
+	"fontFamily": "\"Cedarville Cursive\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cedarvillecursive/v18/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuIrpw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cedarville Cursive"
+		}
+	]
+}

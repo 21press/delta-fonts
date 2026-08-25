@@ -1,0 +1,16 @@
+{
+	"slug": "libertinus-math",
+	"name": "Libertinus Math",
+	"fontFamily": "\"Libertinus Math\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusmath/v2/Gw6iwc3770TVMoHVurPejWtfenRLug.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libertinus Math"
+		}
+	]
+}

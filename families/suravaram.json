@@ -1,0 +1,16 @@
+{
+	"slug": "suravaram",
+	"name": "Suravaram",
+	"fontFamily": "Suravaram, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/suravaram/v23/_gP61R_usiY7SCym4xIwjGS0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Suravaram"
+		}
+	]
+}

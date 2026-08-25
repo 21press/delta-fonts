@@ -1,0 +1,16 @@
+{
+	"slug": "eagle-lake",
+	"name": "Eagle Lake",
+	"fontFamily": "\"Eagle Lake\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/eaglelake/v26/ptRMTiqbbuNJDOiKj9wG1On4KA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Eagle Lake"
+		}
+	]
+}

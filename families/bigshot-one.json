@@ -1,0 +1,16 @@
+{
+	"slug": "bigshot-one",
+	"name": "Bigshot One",
+	"fontFamily": "\"Bigshot One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bigshotone/v31/u-470qukhRkkO6BD_7cM_jxpWwM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bigshot One"
+		}
+	]
+}

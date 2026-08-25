@@ -1,0 +1,64 @@
+{
+	"slug": "noto-serif-ethiopic",
+	"name": "Noto Serif Ethiopic",
+	"fontFamily": "\"Noto Serif Ethiopic\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifethiopic/v32/V8muoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDzpMq2U.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ethiopic"
+		}
+	]
+}

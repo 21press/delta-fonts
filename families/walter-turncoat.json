@@ -1,0 +1,16 @@
+{
+	"slug": "walter-turncoat",
+	"name": "Walter Turncoat",
+	"fontFamily": "\"Walter Turncoat\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/walterturncoat/v24/snfys0Gs98ln43n0d-14ULoToe6LZxec.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Walter Turncoat"
+		}
+	]
+}

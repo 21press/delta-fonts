@@ -1,0 +1,16 @@
+{
+	"slug": "jolly-lodger",
+	"name": "Jolly Lodger",
+	"fontFamily": "\"Jolly Lodger\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jollylodger/v21/BXRsvFTAh_bGkA1uQ48dlB3lXuDS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jolly Lodger"
+		}
+	]
+}

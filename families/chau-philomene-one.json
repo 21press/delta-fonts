@@ -1,0 +1,22 @@
+{
+	"slug": "chau-philomene-one",
+	"name": "Chau Philomene One",
+	"fontFamily": "\"Chau Philomene One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chauphilomeneone/v16/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chau Philomene One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/chauphilomeneone/v16/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Chau Philomene One"
+		}
+	]
+}

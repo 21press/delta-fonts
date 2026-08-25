@@ -1,0 +1,16 @@
+{
+	"slug": "hina-mincho",
+	"name": "Hina Mincho",
+	"fontFamily": "\"Hina Mincho\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hinamincho/v16/2sDaZGBRhpXa2Jjz5w5LAFW7I7g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hina Mincho"
+		}
+	]
+}

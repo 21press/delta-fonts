@@ -1,0 +1,16 @@
+{
+	"slug": "paytone-one",
+	"name": "Paytone One",
+	"fontFamily": "\"Paytone One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2ChTtgPs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Paytone One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "rocknroll-one",
+	"name": "RocknRoll One",
+	"fontFamily": "\"RocknRoll One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rocknrollone/v16/kmK7ZqspGAfCeUiW6FFlmEC9suJrsg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "RocknRoll One"
+		}
+	]
+}

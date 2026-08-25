@@ -1,0 +1,16 @@
+{
+	"slug": "kotta-one",
+	"name": "Kotta One",
+	"fontFamily": "\"Kotta One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kottaone/v21/S6u_w41LXzPc_jlfNWq_Gwft.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kotta One"
+		}
+	]
+}

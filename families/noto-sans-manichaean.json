@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-manichaean",
+	"name": "Noto Sans Manichaean",
+	"fontFamily": "\"Noto Sans Manichaean\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmanichaean/v19/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqFPzo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Manichaean"
+		}
+	]
+}

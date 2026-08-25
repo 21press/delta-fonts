@@ -1,0 +1,118 @@
+{
+	"slug": "hanken-grotesk",
+	"name": "Hanken Grotesk",
+	"fontFamily": "\"Hanken Grotesk\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59A.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVl2YZDLWuGJpnzaiwFXS9tYtpY19K7DQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Hanken Grotesk"
+		}
+	]
+}

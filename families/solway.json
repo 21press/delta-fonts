@@ -1,0 +1,40 @@
+{
+	"slug": "solway",
+	"name": "Solway",
+	"fontFamily": "Solway, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuLlgpnccR.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Solway"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/solway/v19/AMOQz46Cs2uTAOCmhXo8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Solway"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCudlkpnccR.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Solway"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuPl8pnccR.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Solway"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuIlwpnccR.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Solway"
+		}
+	]
+}

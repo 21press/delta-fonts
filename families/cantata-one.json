@@ -1,0 +1,16 @@
+{
+	"slug": "cantata-one",
+	"name": "Cantata One",
+	"fontFamily": "\"Cantata One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cantataone/v16/PlI5Fl60Nb5obNzNe2jslWxDvcE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cantata One"
+		}
+	]
+}

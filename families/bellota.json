@@ -1,0 +1,46 @@
+{
+	"slug": "bellota",
+	"name": "Bellota",
+	"fontFamily": "Bellota, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bellota/v17/MwQzbhXl3_qEpiwAID55oGQfiA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bellota"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bellota/v17/MwQ2bhXl3_qEpiwAKJVbtQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bellota"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bellota/v17/MwQzbhXl3_qEpiwAIC5-oGQfiA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bellota"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bellota/v17/MwQxbhXl3_qEpiwAKJBjHGEvipFL.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Bellota"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bellota/v17/MwQ0bhXl3_qEpiwAKJBrt0M6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Bellota"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bellota/v17/MwQxbhXl3_qEpiwAKJBjDGYvipFL.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Bellota"
+		}
+	]
+}

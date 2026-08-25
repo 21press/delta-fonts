@@ -1,0 +1,16 @@
+{
+	"slug": "yarndings-20",
+	"name": "Yarndings 20",
+	"fontFamily": "\"Yarndings 20\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yarndings20/v4/TuGWUVlkUohEQu8l7K8b-vN1AHU1.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yarndings 20"
+		}
+	]
+}

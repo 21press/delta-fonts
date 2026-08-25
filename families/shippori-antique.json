@@ -1,0 +1,16 @@
+{
+	"slug": "shippori-antique",
+	"name": "Shippori Antique",
+	"fontFamily": "\"Shippori Antique\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shipporiantique/v11/-F6qfid3KC8pdMyzR0qRyFUht11vwlBFgg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Antique"
+		}
+	]
+}

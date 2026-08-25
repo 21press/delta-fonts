@@ -1,0 +1,16 @@
+{
+	"slug": "cherish",
+	"name": "Cherish",
+	"fontFamily": "Cherish, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN1ifIIg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cherish"
+		}
+	]
+}

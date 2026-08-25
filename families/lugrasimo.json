@@ -1,0 +1,16 @@
+{
+	"slug": "lugrasimo",
+	"name": "Lugrasimo",
+	"fontFamily": "Lugrasimo, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7au455K.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lugrasimo"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "pinyon-script",
+	"name": "Pinyon Script",
+	"fontFamily": "\"Pinyon Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pinyon Script"
+		}
+	]
+}

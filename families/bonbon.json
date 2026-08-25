@@ -1,0 +1,16 @@
+{
+	"slug": "bonbon",
+	"name": "Bonbon",
+	"fontFamily": "Bonbon, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bonbon/v32/0FlVVPeVlFec4eePdzsB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bonbon"
+		}
+	]
+}

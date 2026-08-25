@@ -1,0 +1,22 @@
+{
+	"slug": "biz-udpmincho",
+	"name": "BIZ UDPMincho",
+	"fontFamily": "\"BIZ UDPMincho\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bizudpmincho/v11/ypvfbXOBrmYppy7oWWTg1_58rh9StA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BIZ UDPMincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bizudpmincho/v11/ypvCbXOBrmYppy7oWWTg1_58pqR3oUnVnA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "BIZ UDPMincho"
+		}
+	]
+}

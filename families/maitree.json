@@ -1,0 +1,46 @@
+{
+	"slug": "maitree",
+	"name": "Maitree",
+	"fontFamily": "Maitree, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklhGNaJaivQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Maitree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklnWOaJaivQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Maitree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/maitree/v11/MjQGmil5tffhpBrknt6sfQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Maitree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrkli2PaJaivQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Maitree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklgGIaJaivQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Maitree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklmWJaJaivQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Maitree"
+		}
+	]
+}

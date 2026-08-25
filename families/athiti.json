@@ -1,0 +1,46 @@
+{
+	"slug": "athiti",
+	"name": "Athiti",
+	"fontFamily": "Athiti, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/athiti/v14/pe0sMISdLIZIv1wAxDNCBfe_.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Athiti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/athiti/v14/pe0sMISdLIZIv1wAoDBCBfe_.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Athiti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/athiti/v14/pe0vMISdLIZIv1wICxJX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Athiti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/athiti/v14/pe0sMISdLIZIv1wA-DFCBfe_.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Athiti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/athiti/v14/pe0sMISdLIZIv1wA1DZCBfe_.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Athiti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/athiti/v14/pe0sMISdLIZIv1wAsDdCBfe_.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Athiti"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-buhid",
+	"name": "Noto Sans Buhid",
+	"fontFamily": "\"Noto Sans Buhid\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansbuhid/v23/Dxxy8jiXMW75w3OmoDXVWJD7YwzwfKFh.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Buhid"
+		}
+	]
+}

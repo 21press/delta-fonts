@@ -1,0 +1,28 @@
+{
+	"slug": "redacted-script",
+	"name": "Redacted Script",
+	"fontFamily": "\"Redacted Script\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzlnrg2.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Redacted Script"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redactedscript/v12/ypvBbXGRglhokR7dcC3d1-R6zmxitm7w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Redacted Script"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvlnrg2.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Redacted Script"
+		}
+	]
+}

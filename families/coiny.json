@@ -1,0 +1,16 @@
+{
+	"slug": "coiny",
+	"name": "Coiny",
+	"fontFamily": "Coiny, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/coiny/v17/gyByhwU1K989PUwcGFU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Coiny"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "oleo-script",
+	"name": "Oleo Script",
+	"fontFamily": "\"Oleo Script\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oleoscript/v15/rax5HieDvtMOe0iICsUccChdu08.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oleo Script"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oleoscript/v15/raxkHieDvtMOe0iICsUccCDmnlrf0Ts.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Oleo Script"
+		}
+	]
+}

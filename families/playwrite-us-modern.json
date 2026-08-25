@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-us-modern",
+	"name": "Playwrite US Modern",
+	"fontFamily": "\"Playwrite US Modern\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite US Modern"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite US Modern"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite US Modern"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite US Modern"
+		}
+	]
+}

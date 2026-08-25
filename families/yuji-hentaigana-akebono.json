@@ -1,0 +1,16 @@
+{
+	"slug": "yuji-hentaigana-akebono",
+	"name": "Yuji Hentaigana Akebono",
+	"fontFamily": "\"Yuji Hentaigana Akebono\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy6PqQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yuji Hentaigana Akebono"
+		}
+	]
+}

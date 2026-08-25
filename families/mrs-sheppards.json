@@ -1,0 +1,16 @@
+{
+	"slug": "mrs-sheppards",
+	"name": "Mrs Sheppards",
+	"fontFamily": "\"Mrs Sheppards\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mrssheppards/v25/PN_2Rfm9snC0XUGoEZhb91ig7v_7yw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mrs Sheppards"
+		}
+	]
+}

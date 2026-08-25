@@ -1,0 +1,16 @@
+{
+	"slug": "young-serif",
+	"name": "Young Serif",
+	"fontFamily": "\"Young Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/youngserif/v2/3qTpojO2nS2VtkB3KtkQZ1t93kY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Young Serif"
+		}
+	]
+}

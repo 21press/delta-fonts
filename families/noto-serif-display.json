@@ -1,0 +1,118 @@
+{
+	"slug": "noto-serif-display",
+	"name": "Noto Serif Display",
+	"fontFamily": "\"Noto Serif Display\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEeppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgL4NHKhA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdisplay/v29/buEcppa9f8_vkXaZLAgP0G5Wi6QmA1QwcLRCOrN8uo7t6FBJOJT6hvd8.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Noto Serif Display"
+		}
+	]
+}

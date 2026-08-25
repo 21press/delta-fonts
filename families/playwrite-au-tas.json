@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-au-tas",
+	"name": "Playwrite AU TAS",
+	"fontFamily": "\"Playwrite AU TAS\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU TAS"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU TAS"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU TAS"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU TAS"
+		}
+	]
+}

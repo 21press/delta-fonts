@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-tifinagh",
+	"name": "Noto Sans Tifinagh",
+	"fontFamily": "\"Noto Sans Tifinagh\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanstifinagh/v21/I_uzMoCduATTei9eI8dawkHIwvmhCvbX7bPF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Tifinagh"
+		}
+	]
+}

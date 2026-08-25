@@ -1,0 +1,40 @@
+{
+	"slug": "battambang",
+	"name": "Battambang",
+	"fontFamily": "Battambang, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/battambang/v26/uk-kEGe7raEw-HjkzZabNhGZ4AR1.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Battambang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNtmL9yNQ8w.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Battambang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/battambang/v26/uk-mEGe7raEw-HjkzZabPnKp4g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Battambang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNsmM9yNQ8w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Battambang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNvGO9yNQ8w.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Battambang"
+		}
+	]
+}

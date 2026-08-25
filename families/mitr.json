@@ -1,0 +1,46 @@
+{
+	"slug": "mitr",
+	"name": "Mitr",
+	"fontFamily": "Mitr, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mitr/v13/pxiEypw5ucZF8fMZJJfecg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Mitr"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mitr/v13/pxiEypw5ucZF8ZcaJJfecg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Mitr"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mitr/v13/pxiLypw5ucZF-Tw4MQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mitr"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mitr/v13/pxiEypw5ucZF8c8bJJfecg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Mitr"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mitr/v13/pxiEypw5ucZF8eMcJJfecg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Mitr"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mitr/v13/pxiEypw5ucZF8YcdJJfecg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Mitr"
+		}
+	]
+}

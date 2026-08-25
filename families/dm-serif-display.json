@@ -1,0 +1,22 @@
+{
+	"slug": "dm-serif-display",
+	"name": "DM Serif Display",
+	"fontFamily": "\"DM Serif Display\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "DM Serif Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "DM Serif Display"
+		}
+	]
+}

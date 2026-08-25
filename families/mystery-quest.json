@@ -1,0 +1,16 @@
+{
+	"slug": "mystery-quest",
+	"name": "Mystery Quest",
+	"fontFamily": "\"Mystery Quest\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mysteryquest/v21/-nF6OG414u0E6k0wynSGlujRLwYvDg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mystery Quest"
+		}
+	]
+}

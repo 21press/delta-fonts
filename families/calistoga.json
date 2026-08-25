@@ -1,0 +1,16 @@
+{
+	"slug": "calistoga",
+	"name": "Calistoga",
+	"fontFamily": "Calistoga, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/calistoga/v18/6NUU8F2OJg6MeR7l4e0fs8wB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Calistoga"
+		}
+	]
+}

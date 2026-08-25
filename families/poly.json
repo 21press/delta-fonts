@@ -1,0 +1,22 @@
+{
+	"slug": "poly",
+	"name": "Poly",
+	"fontFamily": "Poly, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/poly/v18/MQpb-W6wKNitdLeKqg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Poly"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/poly/v18/MQpV-W6wKNitdLK6qErt.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Poly"
+		}
+	]
+}

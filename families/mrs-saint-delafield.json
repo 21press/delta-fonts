@@ -1,0 +1,16 @@
+{
+	"slug": "mrs-saint-delafield",
+	"name": "Mrs Saint Delafield",
+	"fontFamily": "\"Mrs Saint Delafield\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mrssaintdelafield/v14/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKknLw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mrs Saint Delafield"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "suranna",
+	"name": "Suranna",
+	"fontFamily": "Suranna, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/suranna/v15/gokuH6ztGkFjWe58hBNTTg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Suranna"
+		}
+	]
+}

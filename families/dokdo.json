@@ -1,0 +1,16 @@
+{
+	"slug": "dokdo",
+	"name": "Dokdo",
+	"fontFamily": "Dokdo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dokdo/v23/esDf315XNuCBLyLv6tc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dokdo"
+		}
+	]
+}

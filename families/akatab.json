@@ -1,0 +1,46 @@
+{
+	"slug": "akatab",
+	"name": "Akatab",
+	"fontFamily": "Akatab, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/akatab/v9/VuJwdNrK3Z7gqJE_X4b4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Akatab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/akatab/v9/VuJzdNrK3Z7gqJE3rKXtO6lj.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Akatab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/akatab/v9/VuJzdNrK3Z7gqJE3gKLtO6lj.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Akatab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/akatab/v9/VuJzdNrK3Z7gqJE35KPtO6lj.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Akatab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/akatab/v9/VuJzdNrK3Z7gqJE3-KDtO6lj.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Akatab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/akatab/v9/VuJzdNrK3Z7gqJE33KHtO6lj.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Akatab"
+		}
+	]
+}

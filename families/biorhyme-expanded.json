@@ -1,0 +1,40 @@
+{
+	"slug": "biorhyme-expanded",
+	"name": "BioRhyme Expanded",
+	"fontFamily": "\"BioRhyme Expanded\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSAQ9U.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSAQ9U.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dQIE1zZzytGswgU577CDY9LjbffxSTT3E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxwoamSAQ9U.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSAQ9U.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "BioRhyme Expanded"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "wallpoet",
+	"name": "Wallpoet",
+	"fontFamily": "Wallpoet, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/wallpoet/v21/f0X10em2_8RnXVVdUObp58Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Wallpoet"
+		}
+	]
+}

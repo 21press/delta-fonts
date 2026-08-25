@@ -1,0 +1,16 @@
+{
+	"slug": "libre-barcode-ean13-text",
+	"name": "Libre Barcode EAN13 Text",
+	"fontFamily": "\"Libre Barcode EAN13 Text\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/librebarcodeean13text/v25/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_B2sl.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Barcode EAN13 Text"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "electrolize",
+	"name": "Electrolize",
+	"fontFamily": "Electrolize, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/electrolize/v20/cIf5Ma1dtE0zSiGSiED7AXEBuI8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Electrolize"
+		}
+	]
+}

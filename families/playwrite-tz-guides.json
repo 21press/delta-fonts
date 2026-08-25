@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-tz-guides",
+	"name": "Playwrite TZ Guides",
+	"fontFamily": "\"Playwrite TZ Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_YQk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite TZ Guides"
+		}
+	]
+}

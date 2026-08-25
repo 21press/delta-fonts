@@ -1,0 +1,94 @@
+{
+	"slug": "winky-sans",
+	"name": "Winky Sans",
+	"fontFamily": "\"Winky Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll85K2SDUiG1Hpf2p06bN60okw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/winkysans/v3/ll87K2SDUiG1Hpf2p06bN6gYkS4f.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Winky Sans"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "modern-antiqua",
+	"name": "Modern Antiqua",
+	"fontFamily": "\"Modern Antiqua\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/modernantiqua/v26/NGStv5TIAUg6Iq_RLNo_2dp1sL1DYWo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Modern Antiqua"
+		}
+	]
+}

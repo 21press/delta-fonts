@@ -1,0 +1,16 @@
+{
+	"slug": "monomakh",
+	"name": "Monomakh",
+	"fontFamily": "Monomakh, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/monomakh/v1/Wnz4HAk3Yh_SC3FACQYaggs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Monomakh"
+		}
+	]
+}

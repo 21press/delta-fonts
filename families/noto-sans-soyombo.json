@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-soyombo",
+	"name": "Noto Sans Soyombo",
+	"fontFamily": "\"Noto Sans Soyombo\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssoyombo/v18/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FsKlI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Soyombo"
+		}
+	]
+}

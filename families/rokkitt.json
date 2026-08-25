@@ -1,0 +1,118 @@
+{
+	"slug": "rokkitt",
+	"name": "Rokkitt",
+	"fontFamily": "Rokkitt, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdE35qfgYFjGy5hkEaCdg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rokkitt/v39/qFdG35qfgYFjGy5hkEOydP7P.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Rokkitt"
+		}
+	]
+}

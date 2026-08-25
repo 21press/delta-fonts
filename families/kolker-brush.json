@@ -1,0 +1,16 @@
+{
+	"slug": "kolker-brush",
+	"name": "Kolker Brush",
+	"fontFamily": "\"Kolker Brush\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kolkerbrush/v8/iJWDBXWRZjfKWdvmzwvvog3O66h7.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kolker Brush"
+		}
+	]
+}

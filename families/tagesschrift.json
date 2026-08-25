@@ -1,0 +1,16 @@
+{
+	"slug": "tagesschrift",
+	"name": "Tagesschrift",
+	"fontFamily": "Tagesschrift, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tagesschrift/v2/pe0pMI6IOYlEuEZ7ZEA7ZKOqBP5v.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tagesschrift"
+		}
+	]
+}

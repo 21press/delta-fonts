@@ -1,0 +1,16 @@
+{
+	"slug": "meera-inimai",
+	"name": "Meera Inimai",
+	"fontFamily": "\"Meera Inimai\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/meerainimai/v14/845fNMM5EIqOW5MPuvO3ILeZ-GLC.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Meera Inimai"
+		}
+	]
+}

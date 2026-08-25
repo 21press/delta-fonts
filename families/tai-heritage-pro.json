@@ -1,0 +1,22 @@
+{
+	"slug": "tai-heritage-pro",
+	"name": "Tai Heritage Pro",
+	"fontFamily": "\"Tai Heritage Pro\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/taiheritagepro/v9/sZlfdQid-zgaNiNIYcUzJMU3IYyNkHtYEQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tai Heritage Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taiheritagepro/v9/sZlYdQid-zgaNiNIYcUzJMU3IYyNmMB9BNNPMw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tai Heritage Pro"
+		}
+	]
+}

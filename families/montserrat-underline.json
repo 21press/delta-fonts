@@ -1,0 +1,118 @@
+{
+	"slug": "montserrat-underline",
+	"name": "Montserrat Underline",
+	"fontFamily": "\"Montserrat Underline\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTuWaYfw6zH4dthXcyms01NtC8I_7U5uS4uzII.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/montserratunderline/v3/mFTgWaYfw6zH4dthXcyms01NtC8I_7U5uS4r_ID1BQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Montserrat Underline"
+		}
+	]
+}

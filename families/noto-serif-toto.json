@@ -1,0 +1,34 @@
+{
+	"slug": "noto-serif-toto",
+	"name": "Noto Serif Toto",
+	"fontFamily": "\"Noto Serif Toto\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftoto/v7/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHEKOY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Toto"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftoto/v7/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHEKOY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Toto"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftoto/v7/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHEKOY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Toto"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftoto/v7/Ktk1ALSMeZjqPnXk1rCkHYHNtwvHEKOY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Toto"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "flavors",
+	"name": "Flavors",
+	"fontFamily": "Flavors, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/flavors/v28/FBV2dDrhxqmveJTpXkvvNw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Flavors"
+		}
+	]
+}

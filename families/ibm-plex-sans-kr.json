@@ -1,0 +1,52 @@
+{
+	"slug": "ibm-plex-sans-kr",
+	"name": "IBM Plex Sans KR",
+	"fontFamily": "\"IBM Plex Sans KR\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFM2-VJISZe3O_rc3ZVYh4aTwNOyraPWJbD.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFN2-VJISZe3O_rc3ZVYh4aTwNOyhqeT7HmqQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFN2-VJISZe3O_rc3ZVYh4aTwNOyn6dT7HmqQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFK2-VJISZe3O_rc3ZVYh4aTwNOwtW_Wg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFN2-VJISZe3O_rc3ZVYh4aTwNOyiacT7HmqQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFN2-VJISZe3O_rc3ZVYh4aTwNOygqbT7HmqQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFN2-VJISZe3O_rc3ZVYh4aTwNOym6aT7HmqQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans KR"
+		}
+	]
+}

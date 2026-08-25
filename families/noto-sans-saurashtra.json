@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-saurashtra",
+	"name": "Noto Sans Saurashtra",
+	"fontFamily": "\"Noto Sans Saurashtra\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nahBI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Saurashtra"
+		}
+	]
+}

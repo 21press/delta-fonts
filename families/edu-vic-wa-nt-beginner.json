@@ -1,0 +1,34 @@
+{
+	"slug": "edu-vic-wa-nt-beginner",
+	"name": "Edu VIC WA NT Beginner",
+	"fontFamily": "\"Edu VIC WA NT Beginner\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/eduvicwantbeginner/v6/jizLRF1BuW9OwcnNPxLl4KfZCHd9nFtd5Tu7mNyB4w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Edu VIC WA NT Beginner"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eduvicwantbeginner/v6/jizLRF1BuW9OwcnNPxLl4KfZCHd9nFtd5Tu7mNyB4w.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Edu VIC WA NT Beginner"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eduvicwantbeginner/v6/jizLRF1BuW9OwcnNPxLl4KfZCHd9nFtd5Tu7mNyB4w.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Edu VIC WA NT Beginner"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/eduvicwantbeginner/v6/jizLRF1BuW9OwcnNPxLl4KfZCHd9nFtd5Tu7mNyB4w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Edu VIC WA NT Beginner"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "sriracha",
+	"name": "Sriracha",
+	"fontFamily": "Sriracha, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sriracha/v16/0nkrC9D4IuYBgWcI9NbfTwE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sriracha"
+		}
+	]
+}

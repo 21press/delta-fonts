@@ -1,0 +1,16 @@
+{
+	"slug": "fascinate-inline",
+	"name": "Fascinate Inline",
+	"fontFamily": "\"Fascinate Inline\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fascinateinline/v24/jVyR7mzzB3zc-jp6QCAu60poNqIy5grIfA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fascinate Inline"
+		}
+	]
+}

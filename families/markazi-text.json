@@ -1,0 +1,34 @@
+{
+	"slug": "markazi-text",
+	"name": "Markazi Text",
+	"fontFamily": "\"Markazi Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/markazitext/v28/syk0-ydym6AtQaiEtX7yhqbVoXWV.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Markazi Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/markazitext/v28/syk0-ydym6AtQaiEtX7yhqbVoXWV.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Markazi Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/markazitext/v28/syk0-ydym6AtQaiEtX7yhqbVoXWV.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Markazi Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/markazitext/v28/syk0-ydym6AtQaiEtX7yhqbVoXWV.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Markazi Text"
+		}
+	]
+}

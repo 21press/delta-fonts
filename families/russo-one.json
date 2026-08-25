@@ -1,0 +1,16 @@
+{
+	"slug": "russo-one",
+	"name": "Russo One",
+	"fontFamily": "\"Russo One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/russoone/v18/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Russo One"
+		}
+	]
+}

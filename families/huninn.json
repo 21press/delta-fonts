@@ -1,0 +1,16 @@
+{
+	"slug": "huninn",
+	"name": "Huninn",
+	"fontFamily": "Huninn, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/huninn/v8/OpNNnoINg9bQ4xkZiSvR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Huninn"
+		}
+	]
+}

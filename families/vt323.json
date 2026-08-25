@@ -1,0 +1,16 @@
+{
+	"slug": "vt323",
+	"name": "VT323",
+	"fontFamily": "\"VT323\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vt323/v18/pxiKyp0ihIEF2isfFJU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "VT323"
+		}
+	]
+}

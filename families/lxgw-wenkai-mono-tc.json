@@ -1,0 +1,28 @@
+{
+	"slug": "lxgw-wenkai-mono-tc",
+	"name": "LXGW WenKai Mono TC",
+	"fontFamily": "\"LXGW WenKai Mono TC\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v10/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HssKqtvVvjA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW WenKai Mono TC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v10/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0HummIow.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW WenKai Mono TC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v10/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HstKttvVvjA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW WenKai Mono TC"
+		}
+	]
+}

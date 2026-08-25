@@ -1,0 +1,16 @@
+{
+	"slug": "braah-one",
+	"name": "Braah One",
+	"fontFamily": "\"Braah One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/braahone/v8/KFOlCnWUpt6LsxxxiylfBBc4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Braah One"
+		}
+	]
+}

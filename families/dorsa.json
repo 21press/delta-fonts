@@ -1,0 +1,16 @@
+{
+	"slug": "dorsa",
+	"name": "Dorsa",
+	"fontFamily": "Dorsa, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dorsa/v29/yYLn0hjd0OGwqr4613E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dorsa"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "jacques-francois-shadow",
+	"name": "Jacques Francois Shadow",
+	"fontFamily": "\"Jacques Francois Shadow\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v27/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Suno.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacques Francois Shadow"
+		}
+	]
+}

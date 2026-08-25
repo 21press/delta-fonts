@@ -1,0 +1,22 @@
+{
+	"slug": "oleo-script-swash-caps",
+	"name": "Oleo Script Swash Caps",
+	"fontFamily": "\"Oleo Script Swash Caps\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAX2kSA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oleo Script Swash Caps"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBXYImng.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Oleo Script Swash Caps"
+		}
+	]
+}

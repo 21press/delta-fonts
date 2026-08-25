@@ -1,0 +1,16 @@
+{
+	"slug": "kranky",
+	"name": "Kranky",
+	"fontFamily": "Kranky, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kranky/v29/hESw6XVgJzlPsFn8oR2F.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kranky"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "ovo",
+	"name": "Ovo",
+	"fontFamily": "Ovo, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ovo/v18/yYLl0h7WyfzTzI44.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ovo"
+		}
+	]
+}

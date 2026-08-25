@@ -1,0 +1,16 @@
+{
+	"slug": "yomogi",
+	"name": "Yomogi",
+	"fontFamily": "Yomogi, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yomogi/v13/VuJwdNrS2ZL7rpo_X4b4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yomogi"
+		}
+	]
+}

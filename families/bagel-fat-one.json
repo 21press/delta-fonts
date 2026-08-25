@@ -1,0 +1,16 @@
+{
+	"slug": "bagel-fat-one",
+	"name": "Bagel Fat One",
+	"fontFamily": "\"Bagel Fat One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd4Blsvw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bagel Fat One"
+		}
+	]
+}

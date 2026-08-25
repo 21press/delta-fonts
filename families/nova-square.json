@@ -1,0 +1,16 @@
+{
+	"slug": "nova-square",
+	"name": "Nova Square",
+	"fontFamily": "\"Nova Square\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novasquare/v27/RrQUbo9-9DV7b06QHgSWsahHT4I.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Square"
+		}
+	]
+}

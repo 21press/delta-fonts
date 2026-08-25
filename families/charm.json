@@ -1,0 +1,22 @@
+{
+	"slug": "charm",
+	"name": "Charm",
+	"fontFamily": "Charm, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/charm/v14/7cHmv4oii5K0MdYoK-4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Charm"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/charm/v14/7cHrv4oii5K0Md6TDvs7wH8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Charm"
+		}
+	]
+}

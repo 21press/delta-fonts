@@ -1,0 +1,16 @@
+{
+	"slug": "irish-grover",
+	"name": "Irish Grover",
+	"fontFamily": "\"Irish Grover\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv__RP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Irish Grover"
+		}
+	]
+}

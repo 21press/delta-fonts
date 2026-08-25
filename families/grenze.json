@@ -1,0 +1,118 @@
+{
+	"slug": "grenze",
+	"name": "Grenze",
+	"fontFamily": "Grenze, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZTFGb7hR12BxqH-GIm.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/grenze/v18/O4ZRFGb7hR12BxqH_VIksgg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Grenze"
+		}
+	]
+}

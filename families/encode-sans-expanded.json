@@ -1,0 +1,64 @@
+{
+	"slug": "encode-sans-expanded",
+	"name": "Encode Sans Expanded",
+	"fontFamily": "\"Encode Sans Expanded\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mx1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpJGGQRocw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpLqCBNPVo0.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKOCxNPVo0.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpolKQY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpLWChNPVo0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpL6DRNPVo0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKeDBNPVo0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKCDxNPVo0.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesansexpanded/v15/c4mw1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpKmDhNPVo0.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Expanded"
+		}
+	]
+}

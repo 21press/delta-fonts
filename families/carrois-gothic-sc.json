@@ -1,0 +1,16 @@
+{
+	"slug": "carrois-gothic-sc",
+	"name": "Carrois Gothic SC",
+	"fontFamily": "\"Carrois Gothic SC\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/carroisgothicsc/v16/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-18gPnc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Carrois Gothic SC"
+		}
+	]
+}

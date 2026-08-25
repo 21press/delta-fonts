@@ -1,0 +1,16 @@
+{
+	"slug": "cookie",
+	"name": "Cookie",
+	"fontFamily": "Cookie, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbf9kgqS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cookie"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"slug": "encode-sans-condensed",
+	"name": "Encode Sans Condensed",
+	"fontFamily": "\"Encode Sans Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_76_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-5Z-OJws.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-SY6ZAC4I.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-LY2ZAC4I.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_16_LD37rqfuwxyIuaZhE6cRXOLtm2gfT2hq-M.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-dYyZAC4I.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-WYuZAC4I.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-PYqZAC4I.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-IYmZAC4I.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_46_LD37rqfuwxyIuaZhE6cRXOLtm2gfT-BYiZAC4I.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans Condensed"
+		}
+	]
+}

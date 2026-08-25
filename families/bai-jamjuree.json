@@ -1,0 +1,82 @@
+{
+	"slug": "bai-jamjuree",
+	"name": "Bai Jamjuree",
+	"fontFamily": "\"Bai Jamjuree\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIqapSCOBt_aeQQ7ftydoa0kePelJo0.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIqapSCOBt_aeQQ7ftydoa09eDelJo0.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDI1apSCOBt_aeQQ7ftydoa8XsLL.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIqapSCOBt_aeQQ7ftydoa0reHelJo0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIqapSCOBt_aeQQ7ftydoa0gebelJo0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIqapSCOBt_aeQQ7ftydoa05efelJo0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo20yw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIoapSCOBt_aeQQ7ftydoa8W_pikao20yw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIrapSCOBt_aeQQ7ftydoa8W_LJs78.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo20yw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o20yw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Bai Jamjuree"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baijamjuree/v13/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo20yw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Bai Jamjuree"
+		}
+	]
+}

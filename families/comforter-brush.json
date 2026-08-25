@@ -1,0 +1,16 @@
+{
+	"slug": "comforter-brush",
+	"name": "Comforter Brush",
+	"fontFamily": "\"Comforter Brush\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/comforterbrush/v9/Y4GTYa1xVSggrfzZI5WMjxRaOz0Tx7j8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Comforter Brush"
+		}
+	]
+}

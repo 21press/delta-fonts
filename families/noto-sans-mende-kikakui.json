@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-mende-kikakui",
+	"name": "Noto Sans Mende Kikakui",
+	"fontFamily": "\"Noto Sans Mende Kikakui\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmendekikakui/v30/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx4YjM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Mende Kikakui"
+		}
+	]
+}

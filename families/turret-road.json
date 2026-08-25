@@ -1,0 +1,46 @@
+{
+	"slug": "turret-road",
+	"name": "Turret Road",
+	"fontFamily": "\"Turret Road\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0ONEeeMaEw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Turret Road"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PpEueMaEw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Turret Road"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/turretroad/v11/pxiAypMgpcBFjE84Zv-fE0tCMPI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Turret Road"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0OxE-eMaEw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Turret Road"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0P5FeeMaEw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Turret Road"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PlFueMaEw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Turret Road"
+		}
+	]
+}

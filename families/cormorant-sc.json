@@ -1,0 +1,40 @@
+{
+	"slug": "cormorant-sc",
+	"name": "Cormorant SC",
+	"fontFamily": "\"Cormorant SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmABIk-hfz.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantsc/v19/0yb5GD4kxqXBmOVLG30OGwsuqzAx.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmWBMk-hfz.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmdBQk-hfz.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmEBUk-hfz.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant SC"
+		}
+	]
+}

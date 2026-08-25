@@ -1,0 +1,16 @@
+{
+	"slug": "vujahday-script",
+	"name": "Vujahday Script",
+	"fontFamily": "\"Vujahday Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vujahdayscript/v10/RWmQoKGA8fEkrIPtSZ3_J7er2dUSC0Fu.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Vujahday Script"
+		}
+	]
+}

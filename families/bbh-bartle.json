@@ -1,0 +1,16 @@
+{
+	"slug": "bbh-bartle",
+	"name": "BBH Bartle",
+	"fontFamily": "\"BBH Bartle\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bbhbartle/v1/zYXjKVYuMYMaN-IMqP3RemmZkA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BBH Bartle"
+		}
+	]
+}

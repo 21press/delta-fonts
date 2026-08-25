@@ -1,0 +1,16 @@
+{
+	"slug": "yatra-one",
+	"name": "Yatra One",
+	"fontFamily": "\"Yatra One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yatraone/v16/C8ch4copsHzj8p7NaF0BxFmA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yatra One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-au-vic-guides",
+	"name": "Playwrite AU VIC Guides",
+	"fontFamily": "\"Playwrite AU VIC Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteauvicguides/v1/ll8sK3mEVy6nEMXMskXIZv8owEdZpVIWaQEnuD6A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU VIC Guides"
+		}
+	]
+}

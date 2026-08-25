@@ -1,0 +1,40 @@
+{
+	"slug": "khand",
+	"name": "Khand",
+	"fontFamily": "Khand, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bL5cGEwbQc.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Khand"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/khand/v22/TwMA-IINQlQQ0bpSUnQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Khand"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKhcWEwbQc.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Khand"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKNdmEwbQc.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Khand"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bLpd2EwbQc.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Khand"
+		}
+	]
+}

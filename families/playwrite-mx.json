@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-mx",
+	"name": "Playwrite MX",
+	"fontFamily": "\"Playwrite MX\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite MX"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite MX"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite MX"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite MX"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "anta",
+	"name": "Anta",
+	"fontFamily": "Anta, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyVFs7PQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Anta"
+		}
+	]
+}

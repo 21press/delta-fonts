@@ -1,0 +1,58 @@
+{
+	"slug": "cabin",
+	"name": "Cabin",
+	"fontFamily": "Cabin, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvqdns.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvqdns.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvqdns.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvqdns.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnuHXg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnuHXg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnuHXg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Cabin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabin/v35/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnuHXg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Cabin"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "inder",
+	"name": "Inder",
+	"fontFamily": "Inder, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/inder/v15/w8gUH2YoQe8_4sq9rQ4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Inder"
+		}
+	]
+}

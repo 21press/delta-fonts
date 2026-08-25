@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-es-deco-guides",
+	"name": "Playwrite ES Deco Guides",
+	"fontFamily": "\"Playwrite ES Deco Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwqZQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ES Deco Guides"
+		}
+	]
+}

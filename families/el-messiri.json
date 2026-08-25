@@ -1,0 +1,34 @@
+{
+	"slug": "el-messiri",
+	"name": "El Messiri",
+	"fontFamily": "\"El Messiri\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/elmessiri/v25/K2F0fZBRmr9vQ1pHEey6Mo2AAg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "El Messiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/elmessiri/v25/K2F0fZBRmr9vQ1pHEey6Mo2AAg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "El Messiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/elmessiri/v25/K2F0fZBRmr9vQ1pHEey6Mo2AAg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "El Messiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/elmessiri/v25/K2F0fZBRmr9vQ1pHEey6Mo2AAg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "El Messiri"
+		}
+	]
+}

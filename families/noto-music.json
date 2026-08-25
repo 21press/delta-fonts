@@ -1,0 +1,16 @@
+{
+	"slug": "noto-music",
+	"name": "Noto Music",
+	"fontFamily": "\"Noto Music\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notomusic/v21/pe0rMIiSN5pO63htf1sxEtCaBg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Music"
+		}
+	]
+}

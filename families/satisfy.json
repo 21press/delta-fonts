@@ -1,0 +1,16 @@
+{
+	"slug": "satisfy",
+	"name": "Satisfy",
+	"fontFamily": "Satisfy, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoCZOIHQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Satisfy"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "cantora-one",
+	"name": "Cantora One",
+	"fontFamily": "\"Cantora One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cantoraone/v20/gyB4hws1JdgnKy56GB_JX5zabYo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cantora One"
+		}
+	]
+}

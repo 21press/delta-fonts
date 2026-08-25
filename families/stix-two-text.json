@@ -1,0 +1,58 @@
+{
+	"slug": "stix-two-text",
+	"name": "STIX Two Text",
+	"fontFamily": "\"STIX Two Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Vr02F12Xkf5whdwKf11l0p76Miw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Vr02F12Xkf5whdwKf11l0p76Miw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Vr02F12Xkf5whdwKf11l0p76Miw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Vr02F12Xkf5whdwKf11l0p76Miw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Lr02F12Xkf5whdwKf11l0p7u8idfU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Lr02F12Xkf5whdwKf11l0p7u8idfU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Lr02F12Xkf5whdwKf11l0p7u8idfU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "STIX Two Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Lr02F12Xkf5whdwKf11l0p7u8idfU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "STIX Two Text"
+		}
+	]
+}

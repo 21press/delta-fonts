@@ -1,0 +1,22 @@
+{
+	"slug": "brawler",
+	"name": "Brawler",
+	"fontFamily": "Brawler, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/brawler/v20/xn7gYHE3xXewAscGggexSg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Brawler"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/brawler/v20/xn7lYHE3xXewAscGiryUX9r8eQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Brawler"
+		}
+	]
+}

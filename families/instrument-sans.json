@@ -1,0 +1,58 @@
+{
+	"slug": "instrument-sans",
+	"name": "Instrument Sans",
+	"fontFamily": "\"Instrument Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu15GR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu15GR.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu15GR.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Instrument Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/instrumentsans/v4/pxitypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNu15GR.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Instrument Sans"
+		}
+	]
+}

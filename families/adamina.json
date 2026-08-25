@@ -1,0 +1,16 @@
+{
+	"slug": "adamina",
+	"name": "Adamina",
+	"fontFamily": "Adamina, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/adamina/v22/j8_r6-DH1bjoc-dwi-3UEA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Adamina"
+		}
+	]
+}

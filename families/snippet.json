@@ -1,0 +1,16 @@
+{
+	"slug": "snippet",
+	"name": "Snippet",
+	"fontFamily": "Snippet, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu6vjKfA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Snippet"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"slug": "overlock",
+	"name": "Overlock",
+	"fontFamily": "Overlock, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/overlock/v19/Z9XVDmdMWRiN1_T9Z7TZ6Ow.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Overlock"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xizfmLtrw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Overlock"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xaz_mLtrw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Overlock"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/overlock/v19/Z9XTDmdMWRiN1_T9Z7Tc2O6skw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Overlock"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0FWJhr6j8Q.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Overlock"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0G2Lhr6j8Q.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Overlock"
+		}
+	]
+}

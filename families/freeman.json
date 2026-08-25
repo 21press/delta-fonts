@@ -1,0 +1,16 @@
+{
+	"slug": "freeman",
+	"name": "Freeman",
+	"fontFamily": "Freeman, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-SwiPGQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Freeman"
+		}
+	]
+}

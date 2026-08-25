@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-de-sas-guides",
+	"name": "Playwrite DE SAS Guides",
+	"fontFamily": "\"Playwrite DE SAS Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi15BB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE SAS Guides"
+		}
+	]
+}

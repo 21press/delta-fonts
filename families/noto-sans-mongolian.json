@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-mongolian",
+	"name": "Noto Sans Mongolian",
+	"fontFamily": "\"Noto Sans Mongolian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmongolian/v23/VdGCAYADGIwE0EopZx8xQfHlgEAMsrTo9Lwq6g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Mongolian"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-10",
+	"name": "Jersey 10",
+	"fontFamily": "\"Jersey 10\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey10/v4/GftH7vZKsggXMf9n_J5n_5jh.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 10"
+		}
+	]
+}

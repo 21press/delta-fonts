@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-persian",
+	"name": "Noto Sans Old Persian",
+	"fontFamily": "\"Noto Sans Old Persian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansoldpersian/v17/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dr-NR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old Persian"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-turkic",
+	"name": "Noto Sans Old Turkic",
+	"fontFamily": "\"Noto Sans Old Turkic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansoldturkic/v19/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Whk0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old Turkic"
+		}
+	]
+}

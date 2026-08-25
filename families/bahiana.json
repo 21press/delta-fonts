@@ -1,0 +1,16 @@
+{
+	"slug": "bahiana",
+	"name": "Bahiana",
+	"fontFamily": "Bahiana, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bahiana/v25/uU9PCBUV4YenPWJU3xTR3w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bahiana"
+		}
+	]
+}

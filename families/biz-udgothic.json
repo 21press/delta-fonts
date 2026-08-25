@@ -1,0 +1,22 @@
+{
+	"slug": "biz-udgothic",
+	"name": "BIZ UDGothic",
+	"fontFamily": "\"BIZ UDGothic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bizudgothic/v12/daafSTouBF7RUjnbt8p3LuKdsgl8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BIZ UDGothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bizudgothic/v12/daaASTouBF7RUjnbt8p3LuKVCSxp_B7R.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "BIZ UDGothic"
+		}
+	]
+}

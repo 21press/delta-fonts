@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-shavian",
+	"name": "Noto Sans Shavian",
+	"fontFamily": "\"Noto Sans Shavian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansshavian/v18/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFXQJg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Shavian"
+		}
+	]
+}

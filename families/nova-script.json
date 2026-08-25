@@ -1,0 +1,16 @@
+{
+	"slug": "nova-script",
+	"name": "Nova Script",
+	"fontFamily": "\"Nova Script\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novascript/v27/7Au7p_IpkSWSTWaFWkumvlQKGFw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Script"
+		}
+	]
+}

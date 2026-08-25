@@ -1,0 +1,16 @@
+{
+	"slug": "oranienbaum",
+	"name": "Oranienbaum",
+	"fontFamily": "Oranienbaum, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oranienbaum/v16/OZpHg_txtzZKMuXLIVrx-0zg5E0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oranienbaum"
+		}
+	]
+}

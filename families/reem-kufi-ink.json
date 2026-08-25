@@ -1,0 +1,16 @@
+{
+	"slug": "reem-kufi-ink",
+	"name": "Reem Kufi Ink",
+	"fontFamily": "\"Reem Kufi Ink\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSndjlXQyyU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Reem Kufi Ink"
+		}
+	]
+}

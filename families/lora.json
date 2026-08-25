@@ -1,0 +1,58 @@
+{
+	"slug": "lora",
+	"name": "Lora",
+	"fontFamily": "Lora, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LIftL.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LIftL.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LIftL.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Lora"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LIftL.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Lora"
+		}
+	]
+}

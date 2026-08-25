@@ -1,0 +1,16 @@
+{
+	"slug": "palette-mosaic",
+	"name": "Palette Mosaic",
+	"fontFamily": "\"Palette Mosaic\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/palettemosaic/v13/AMOIz4aBvWuBFe3TohdW6YZ9MGi1690.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Palette Mosaic"
+		}
+	]
+}

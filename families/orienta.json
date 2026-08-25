@@ -1,0 +1,16 @@
+{
+	"slug": "orienta",
+	"name": "Orienta",
+	"fontFamily": "Orienta, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/orienta/v16/PlI9FlK4Jrl5Y9zNSyCi9Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Orienta"
+		}
+	]
+}

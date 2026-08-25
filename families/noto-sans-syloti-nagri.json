@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-syloti-nagri",
+	"name": "Noto Sans Syloti Nagri",
+	"fontFamily": "\"Noto Sans Syloti Nagri\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssylotinagri/v25/uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGJVD7Ng.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Syloti Nagri"
+		}
+	]
+}

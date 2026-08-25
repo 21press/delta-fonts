@@ -1,0 +1,70 @@
+{
+	"slug": "linefont",
+	"name": "Linefont",
+	"fontFamily": "Linefont, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "normal",
+			"fontFamily": "Linefont"
+		}
+	]
+}

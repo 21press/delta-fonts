@@ -1,0 +1,52 @@
+{
+	"slug": "palanquin",
+	"name": "Palanquin",
+	"fontFamily": "Palanquin, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUhlJ90n1fBFg7ceXwUEmtP5LQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUilJ90n1fBFg7ceXwUvnpYw5Gr.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUilJ90n1fBFg7ceXwU2nlYw5Gr.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUnlJ90n1fBFg7ceXwccVtN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUilJ90n1fBFg7ceXwUgnhYw5Gr.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUilJ90n1fBFg7ceXwUrn9Yw5Gr.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/palanquin/v17/9XUilJ90n1fBFg7ceXwUyn5Yw5Gr.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Palanquin"
+		}
+	]
+}

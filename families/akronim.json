@@ -1,0 +1,16 @@
+{
+	"slug": "akronim",
+	"name": "Akronim",
+	"fontFamily": "Akronim, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRpygd7kQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Akronim"
+		}
+	]
+}

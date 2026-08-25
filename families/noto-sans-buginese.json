@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-buginese",
+	"name": "Noto Sans Buginese",
+	"fontFamily": "\"Noto Sans Buginese\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansbuginese/v21/esDM30ldNv-KYGGJpKGk18phe_7Da6_QsvGF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Buginese"
+		}
+	]
+}

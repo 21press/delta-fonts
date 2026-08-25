@@ -1,0 +1,16 @@
+{
+	"slug": "atomic-age",
+	"name": "Atomic Age",
+	"fontFamily": "\"Atomic Age\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/atomicage/v29/f0Xz0eug6sdmRFkYZZGL18bn9A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Atomic Age"
+		}
+	]
+}

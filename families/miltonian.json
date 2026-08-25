@@ -1,0 +1,16 @@
+{
+	"slug": "miltonian",
+	"name": "Miltonian",
+	"fontFamily": "Miltonian, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/miltonian/v32/zOL-4pbPn6Ne9JqTg9mb7uRB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Miltonian"
+		}
+	]
+}

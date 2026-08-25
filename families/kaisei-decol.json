@@ -1,0 +1,28 @@
+{
+	"slug": "kaisei-decol",
+	"name": "Kaisei Decol",
+	"fontFamily": "\"Kaisei Decol\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrwmSqP45sidWf3QmfFW6iCXFsO.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Decol"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iKr3gb1EK-.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Decol"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iK534b1EK-.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Decol"
+		}
+	]
+}

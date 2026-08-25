@@ -1,0 +1,16 @@
+{
+	"slug": "ms-madi",
+	"name": "Ms Madi",
+	"fontFamily": "\"Ms Madi\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/msmadi/v2/HTxsL2UxNnOji5E1B-fFiQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ms Madi"
+		}
+	]
+}

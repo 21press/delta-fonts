@@ -1,0 +1,16 @@
+{
+	"slug": "caramel",
+	"name": "Caramel",
+	"fontFamily": "Caramel, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/caramel/v8/P5sCzZKBbMTf_Shy9CNkiA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Caramel"
+		}
+	]
+}

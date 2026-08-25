@@ -1,0 +1,34 @@
+{
+	"slug": "edu-nsw-act-foundation",
+	"name": "Edu NSW ACT Foundation",
+	"fontFamily": "\"Edu NSW ACT Foundation\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxsHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCASFdXsA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Edu NSW ACT Foundation"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxsHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCASFdXsA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Edu NSW ACT Foundation"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxsHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCASFdXsA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Edu NSW ACT Foundation"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxsHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCASFdXsA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Edu NSW ACT Foundation"
+		}
+	]
+}

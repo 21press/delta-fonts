@@ -1,0 +1,70 @@
+{
+	"slug": "red-hat-mono",
+	"name": "Red Hat Mono",
+	"fontFamily": "\"Red Hat Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUWOxS.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUWOxS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUWOxS.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUWOxS.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyN7nDnA2uf2zVvFAhhzEsUWOxS.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyT7nDnA2uf2zVvFAhhzEsUXdxQ1gg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyT7nDnA2uf2zVvFAhhzEsUXdxQ1gg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyT7nDnA2uf2zVvFAhhzEsUXdxQ1gg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyT7nDnA2uf2zVvFAhhzEsUXdxQ1gg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Red Hat Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redhatmono/v16/jVyT7nDnA2uf2zVvFAhhzEsUXdxQ1gg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Red Hat Mono"
+		}
+	]
+}

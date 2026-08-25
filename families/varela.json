@@ -1,0 +1,16 @@
+{
+	"slug": "varela",
+	"name": "Varela",
+	"fontFamily": "Varela, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/varela/v17/DPEtYwqExx0AWHX5Ax4E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Varela"
+		}
+	]
+}

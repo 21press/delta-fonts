@@ -1,0 +1,82 @@
+{
+	"slug": "kufam",
+	"name": "Kufam",
+	"fontFamily": "Kufam, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8ct4cY7pG7w_q6FJj0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8ct4cY7pG7w_q6FJj0.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8ct4cY7pG7w_q6FJj0.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8ct4cY7pG7w_q6FJj0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8ct4cY7pG7w_q6FJj0.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8ct4cY7pG7w_q6FJj0.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8cj4cY7pG7w_q6AFj8xxg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8cj4cY7pG7w_q6AFj8xxg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8cj4cY7pG7w_q6AFj8xxg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8cj4cY7pG7w_q6AFj8xxg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8cj4cY7pG7w_q6AFj8xxg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Kufam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kufam/v26/C8cj4cY7pG7w_q6AFj8xxg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Kufam"
+		}
+	]
+}

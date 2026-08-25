@@ -1,0 +1,16 @@
+{
+	"slug": "overlock-sc",
+	"name": "Overlock SC",
+	"fontFamily": "\"Overlock SC\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/overlocksc/v25/1cX3aUHKGZrstGAY8nwVzEGHocU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Overlock SC"
+		}
+	]
+}

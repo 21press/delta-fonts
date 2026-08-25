@@ -1,0 +1,16 @@
+{
+	"slug": "babylonica",
+	"name": "Babylonica",
+	"fontFamily": "Babylonica, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/babylonica/v7/5aUw9_i2qxWVCAE2aHjTmDV--A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Babylonica"
+		}
+	]
+}

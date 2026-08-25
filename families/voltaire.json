@@ -1,0 +1,16 @@
+{
+	"slug": "voltaire",
+	"name": "Voltaire",
+	"fontFamily": "Voltaire, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/voltaire/v23/1Pttg8PcRfSblAvGvTovaqQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Voltaire"
+		}
+	]
+}

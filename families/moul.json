@@ -1,0 +1,16 @@
+{
+	"slug": "moul",
+	"name": "Moul",
+	"fontFamily": "Moul, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/moul/v30/nuF2D__FSo_3I-NSiQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Moul"
+		}
+	]
+}

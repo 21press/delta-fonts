@@ -1,0 +1,82 @@
+{
+	"slug": "koho",
+	"name": "KoHo",
+	"fontFamily": "KoHo, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FxfZ5fmddNPuE1aJnzJw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FxfZ5fmddNPoU2aJnzJw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2F-fZ5fmddNNi4UfQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FxfZ5fmddNPt03aJnzJw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FxfZ5fmddNPvEwaJnzJw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FxfZ5fmddNPpUxaJnzJw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FzfZ5fmddNNisssJ_DJaql.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FzfZ5fmddNNiss1JzDJaql.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FwfZ5fmddNNiskf77W.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FzfZ5fmddNNissjJ3DJaql.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FzfZ5fmddNNissoJrDJaql.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "KoHo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/koho/v18/K2FzfZ5fmddNNissxJvDJaql.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "KoHo"
+		}
+	]
+}

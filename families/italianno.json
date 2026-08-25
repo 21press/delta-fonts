@@ -1,0 +1,16 @@
+{
+	"slug": "italianno",
+	"name": "Italianno",
+	"fontFamily": "Italianno, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/italianno/v18/dg4n_p3sv6gCJkwzT6RXiJwo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Italianno"
+		}
+	]
+}

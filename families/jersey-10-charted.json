@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-10-charted",
+	"name": "Jersey 10 Charted",
+	"fontFamily": "\"Jersey 10 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey10charted/v4/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkeaIGY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 10 Charted"
+		}
+	]
+}

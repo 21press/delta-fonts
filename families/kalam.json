@@ -1,0 +1,28 @@
+{
+	"slug": "kalam",
+	"name": "Kalam",
+	"fontFamily": "Kalam, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Kalam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMthROCc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kalam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtDqHTLMkiQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kalam"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-sunuwar",
+	"name": "Noto Sans Sunuwar",
+	"fontFamily": "\"Noto Sans Sunuwar\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfhr_EsWc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sunuwar"
+		}
+	]
+}

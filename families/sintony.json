@@ -1,0 +1,22 @@
+{
+	"slug": "sintony",
+	"name": "Sintony",
+	"fontFamily": "Sintony, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sintony/v17/XoHm2YDqR7-98cVUETMtug.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sintony"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sintony/v17/XoHj2YDqR7-98cVUGYgIr9AJkw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sintony"
+		}
+	]
+}

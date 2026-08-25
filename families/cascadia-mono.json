@@ -1,0 +1,82 @@
+{
+	"slug": "cascadia-mono",
+	"name": "Cascadia Mono",
+	"fontFamily": "\"Cascadia Mono\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZ2zw5pquJF3iuizJDZYqr1aZIn0A.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZ2zw5pquJF3iuizJDZYqr1aZIn0A.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZ2zw5pquJF3iuizJDZYqr1aZIn0A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZ2zw5pquJF3iuizJDZYqr1aZIn0A.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZ2zw5pquJF3iuizJDZYqr1aZIn0A.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZ2zw5pquJF3iuizJDZYqr1aZIn0A.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZozw5pquJF3iuizJDZYqr1aZcX0kXv.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZozw5pquJF3iuizJDZYqr1aZcX0kXv.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZozw5pquJF3iuizJDZYqr1aZcX0kXv.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZozw5pquJF3iuizJDZYqr1aZcX0kXv.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZozw5pquJF3iuizJDZYqr1aZcX0kXv.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiamono/v5/TUZozw5pquJF3iuizJDZYqr1aZcX0kXv.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Mono"
+		}
+	]
+}

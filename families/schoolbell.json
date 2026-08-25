@@ -1,0 +1,16 @@
+{
+	"slug": "schoolbell",
+	"name": "Schoolbell",
+	"fontFamily": "Schoolbell, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa6w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Schoolbell"
+		}
+	]
+}

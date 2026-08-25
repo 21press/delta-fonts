@@ -1,0 +1,16 @@
+{
+	"slug": "protest-guerrilla",
+	"name": "Protest Guerrilla",
+	"fontFamily": "\"Protest Guerrilla\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHW0jqp4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Protest Guerrilla"
+		}
+	]
+}

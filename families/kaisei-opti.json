@@ -1,0 +1,28 @@
+{
+	"slug": "kaisei-opti",
+	"name": "Kaisei Opti",
+	"fontFamily": "\"Kaisei Opti\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseiopti/v11/QldKNThJphYb8_g6c2nlIGlZ5qg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Opti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGGqxb1p5_w.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Opti"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGHiw71p5_w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Opti"
+		}
+	]
+}

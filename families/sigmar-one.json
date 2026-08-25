@@ -1,0 +1,16 @@
+{
+	"slug": "sigmar-one",
+	"name": "Sigmar One",
+	"fontFamily": "\"Sigmar One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sigmarone/v20/co3DmWZ8kjZuErj9Ta3do6Tppg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sigmar One"
+		}
+	]
+}

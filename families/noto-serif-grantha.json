@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-grantha",
+	"name": "Noto Serif Grantha",
+	"fontFamily": "\"Noto Serif Grantha\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifgrantha/v22/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaE0lK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Grantha"
+		}
+	]
+}

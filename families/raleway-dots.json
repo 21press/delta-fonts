@@ -1,0 +1,16 @@
+{
+	"slug": "raleway-dots",
+	"name": "Raleway Dots",
+	"fontFamily": "\"Raleway Dots\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ralewaydots/v19/6NUR8FifJg6AfQvzpshgwJ8UzvVE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Raleway Dots"
+		}
+	]
+}

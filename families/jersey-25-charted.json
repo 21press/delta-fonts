@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-25-charted",
+	"name": "Jersey 25 Charted",
+	"fontFamily": "\"Jersey 25 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey25charted/v3/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2pWmU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 25 Charted"
+		}
+	]
+}

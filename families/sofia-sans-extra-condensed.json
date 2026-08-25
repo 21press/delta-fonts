@@ -1,0 +1,142 @@
+{
+	"slug": "sofia-sans-extra-condensed",
+	"name": "Sofia Sans Extra Condensed",
+	"fontFamily": "\"Sofia Sans Extra Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "1",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxoHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSuJk4.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "normal",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "1",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxqHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0fSrFkx8lw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Sofia Sans Extra Condensed"
+		}
+	]
+}

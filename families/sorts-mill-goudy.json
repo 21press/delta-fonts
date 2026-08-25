@@ -1,0 +1,22 @@
+{
+	"slug": "sorts-mill-goudy",
+	"name": "Sorts Mill Goudy",
+	"fontFamily": "\"Sorts Mill Goudy\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEjw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sorts Mill Goudy"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80jbs_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Sorts Mill Goudy"
+		}
+	]
+}

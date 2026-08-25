@@ -1,0 +1,16 @@
+{
+	"slug": "limelight",
+	"name": "Limelight",
+	"fontFamily": "Limelight, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/limelight/v21/XLYkIZL7aopJVbZJHDuoOulH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Limelight"
+		}
+	]
+}

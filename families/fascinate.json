@@ -1,0 +1,16 @@
+{
+	"slug": "fascinate",
+	"name": "Fascinate",
+	"fontFamily": "Fascinate, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fascinate/v23/z7NWdRrufC8XJK0IIElS07zR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fascinate"
+		}
+	]
+}

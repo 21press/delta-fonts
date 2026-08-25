@@ -1,0 +1,28 @@
+{
+	"slug": "passion-one",
+	"name": "Passion One",
+	"fontFamily": "\"Passion One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JEuR9ls.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Passion One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMq007vyJc.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Passion One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMS0U7vyJc.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Passion One"
+		}
+	]
+}

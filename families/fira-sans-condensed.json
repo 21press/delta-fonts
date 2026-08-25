@@ -1,0 +1,118 @@
+{
+	"slug": "fira-sans-condensed",
+	"name": "Fira Sans Condensed",
+	"fontFamily": "\"Fira Sans Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdr-NR.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWTnMuMR0cg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMR0cg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOhEADFm8hSaQTFG18FErVhsC9x-tarUfbtrQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMR0cg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMR0cg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMR0cg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMR0cg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMR0cg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNTVxs.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEcD5f.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEcD5f.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdr-NR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVXMBEcD5f.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEcD5f.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEcD5f.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEcD5f.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasanscondensed/v11/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVLMREcD5f.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Condensed"
+		}
+	]
+}

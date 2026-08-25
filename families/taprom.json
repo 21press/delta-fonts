@@ -1,0 +1,16 @@
+{
+	"slug": "taprom",
+	"name": "Taprom",
+	"fontFamily": "Taprom, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/taprom/v29/UcCn3F82JHycULb1RCM2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Taprom"
+		}
+	]
+}

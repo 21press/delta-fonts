@@ -1,0 +1,46 @@
+{
+	"slug": "funnel-display",
+	"name": "Funnel Display",
+	"fontFamily": "\"Funnel Display\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/funneldisplay/v3/B50WF7FGv37QNVWgE0ga--4Pbb6dDYs.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Funnel Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/funneldisplay/v3/B50WF7FGv37QNVWgE0ga--4Pbb6dDYs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Funnel Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/funneldisplay/v3/B50WF7FGv37QNVWgE0ga--4Pbb6dDYs.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Funnel Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/funneldisplay/v3/B50WF7FGv37QNVWgE0ga--4Pbb6dDYs.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Funnel Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/funneldisplay/v3/B50WF7FGv37QNVWgE0ga--4Pbb6dDYs.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Funnel Display"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/funneldisplay/v3/B50WF7FGv37QNVWgE0ga--4Pbb6dDYs.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Funnel Display"
+		}
+	]
+}

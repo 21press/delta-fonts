@@ -1,0 +1,16 @@
+{
+	"slug": "special-gothic-condensed-one",
+	"name": "Special Gothic Condensed One",
+	"fontFamily": "\"Special Gothic Condensed One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/specialgothiccondensedone/v2/R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PYZx15A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Special Gothic Condensed One"
+		}
+	]
+}

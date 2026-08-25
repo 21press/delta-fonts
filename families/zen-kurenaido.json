@@ -1,0 +1,16 @@
+{
+	"slug": "zen-kurenaido",
+	"name": "Zen Kurenaido",
+	"fontFamily": "\"Zen Kurenaido\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zenkurenaido/v19/3XFsEr0515BK2u6UUptu_gWJVfv82Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Kurenaido"
+		}
+	]
+}

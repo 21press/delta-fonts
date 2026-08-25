@@ -1,0 +1,16 @@
+{
+	"slug": "festive",
+	"name": "Festive",
+	"fontFamily": "Festive, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/festive/v11/cY9Ffj6KX1xcoDWhJtDqyg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Festive"
+		}
+	]
+}

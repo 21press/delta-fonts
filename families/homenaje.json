@@ -1,0 +1,16 @@
+{
+	"slug": "homenaje",
+	"name": "Homenaje",
+	"fontFamily": "Homenaje, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Homenaje"
+		}
+	]
+}

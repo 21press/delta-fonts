@@ -1,0 +1,16 @@
+{
+	"slug": "port-lligat-sans",
+	"name": "Port Lligat Sans",
+	"fontFamily": "\"Port Lligat Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/portlligatsans/v24/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Tg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Port Lligat Sans"
+		}
+	]
+}

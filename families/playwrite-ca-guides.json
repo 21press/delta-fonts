@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-ca-guides",
+	"name": "Playwrite CA Guides",
+	"fontFamily": "\"Playwrite CA Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritecaguides/v1/MjQamj1kuP_soQ3o-rysO9Ci_8oJlIUUInI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CA Guides"
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"slug": "nunito",
+	"name": "Nunito",
+	"fontFamily": "Nunito, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "normal",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs4.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Nunito"
+		}
+	]
+}

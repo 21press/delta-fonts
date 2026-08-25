@@ -1,0 +1,16 @@
+{
+	"slug": "zeyada",
+	"name": "Zeyada",
+	"fontFamily": "Zeyada, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zeyada/v22/11hAGpPTxVPUbgZzM2ys.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zeyada"
+		}
+	]
+}

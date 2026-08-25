@@ -1,0 +1,40 @@
+{
+	"slug": "namdhinggo",
+	"name": "Namdhinggo",
+	"fontFamily": "Namdhinggo, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-mEGe3rbgg8Xzoy5-TPnKp4g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Namdhinggo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-lEGe3rbgg8Xzoy5-TNoGK9yNQ8w.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Namdhinggo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-lEGe3rbgg8Xzoy5-TNq2N9yNQ8w.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Namdhinggo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-lEGe3rbgg8Xzoy5-TNsmM9yNQ8w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Namdhinggo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/namdhinggo/v2/uk-lEGe3rbgg8Xzoy5-TNtWP9yNQ8w.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Namdhinggo"
+		}
+	]
+}

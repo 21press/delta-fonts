@@ -1,0 +1,16 @@
+{
+	"slug": "crushed",
+	"name": "Crushed",
+	"fontFamily": "Crushed, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/crushed/v32/U9Mc6dym6WXImTlFf14VuQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Crushed"
+		}
+	]
+}

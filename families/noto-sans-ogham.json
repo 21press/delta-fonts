@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-ogham",
+	"name": "Noto Sans Ogham",
+	"fontFamily": "\"Noto Sans Ogham\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansogham/v18/kmKlZqk1GBDGN0mY6k5lmEmww4hbsJNb.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Ogham"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "risque",
+	"name": "Risque",
+	"fontFamily": "Risque, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/risque/v24/VdGfAZUfHosahXxYDkwU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Risque"
+		}
+	]
+}

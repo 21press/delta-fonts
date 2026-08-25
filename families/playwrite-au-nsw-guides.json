@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-au-nsw-guides",
+	"name": "Playwrite AU NSW Guides",
+	"fontFamily": "\"Playwrite AU NSW Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteaunswguides/v1/LDIiao-QNRMmVPcU8-sgUraMF7GZs_1Emk3v8tPe.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU NSW Guides"
+		}
+	]
+}

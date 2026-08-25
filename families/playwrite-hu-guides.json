@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-hu-guides",
+	"name": "Playwrite HU Guides",
+	"fontFamily": "\"Playwrite HU Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0Tqk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite HU Guides"
+		}
+	]
+}

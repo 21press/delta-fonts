@@ -1,0 +1,16 @@
+{
+	"slug": "federant",
+	"name": "Federant",
+	"fontFamily": "Federant, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/federant/v31/2sDdZGNfip_eirT0_X0kT0A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Federant"
+		}
+	]
+}

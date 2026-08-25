@@ -1,0 +1,82 @@
+{
+	"slug": "besley",
+	"name": "Besley",
+	"fontFamily": "Besley, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNG8XAeH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNG8XAeH.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNG8XAeH.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNG8XAeH.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNG8XAeH.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI8FlO1MaNwaNG8XAeH.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WTeF0Hk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WTeF0Hk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WTeF0Hk.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WTeF0Hk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WTeF0Hk.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Besley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/besley/v22/PlI-FlO1MaNwaNG8WTeF0Hk.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Besley"
+		}
+	]
+}

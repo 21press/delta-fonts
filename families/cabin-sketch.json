@@ -1,0 +1,22 @@
+{
+	"slug": "cabin-sketch",
+	"name": "Cabin Sketch",
+	"fontFamily": "\"Cabin Sketch\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cabinsketch/v23/QGYpz_kZZAGCONcK2A4bGOj8mNhN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cabin Sketch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cabinsketch/v23/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tjz.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cabin Sketch"
+		}
+	]
+}

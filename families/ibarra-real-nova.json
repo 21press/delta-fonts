@@ -1,0 +1,58 @@
+{
+	"slug": "ibarra-real-nova",
+	"name": "Ibarra Real Nova",
+	"fontFamily": "\"Ibarra Real Nova\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHtYEQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHtYEQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHtYEQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlfdQiA-DBIDCcaWtQzL4BZHoiDkHtYEQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oE_Rq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oE_Rq.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oE_Rq.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Ibarra Real Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlZdQiA-DBIDCcaWtQzL4BZHoiDkH5oE_Rq.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Ibarra Real Nova"
+		}
+	]
+}

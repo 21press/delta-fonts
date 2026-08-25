@@ -1,0 +1,16 @@
+{
+	"slug": "pochaevsk",
+	"name": "Pochaevsk",
+	"fontFamily": "Pochaevsk, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgVp515.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pochaevsk"
+		}
+	]
+}

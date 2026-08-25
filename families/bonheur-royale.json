@@ -1,0 +1,16 @@
+{
+	"slug": "bonheur-royale",
+	"name": "Bonheur Royale",
+	"fontFamily": "\"Bonheur Royale\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bonheurroyale/v15/c4m51nt_GMTrtX-b9GcG4-YRmbK4eUY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bonheur Royale"
+		}
+	]
+}

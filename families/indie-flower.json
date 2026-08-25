@@ -1,0 +1,16 @@
+{
+	"slug": "indie-flower",
+	"name": "Indie Flower",
+	"fontFamily": "\"Indie Flower\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/indieflower/v24/m8JVjfNVeKWVnh3QMuKkFcZVaUuH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Indie Flower"
+		}
+	]
+}

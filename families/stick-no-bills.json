@@ -1,0 +1,52 @@
+{
+	"slug": "stick-no-bills",
+	"name": "Stick No Bills",
+	"fontFamily": "\"Stick No Bills\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sticknobills/v17/bWth7ffXZwHuAa9Uld-oEK4QKnZv3Q4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Stick No Bills"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "stix-two-math",
+	"name": "STIX Two Math",
+	"fontFamily": "\"STIX Two Math\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stixtwomath/v12/pONg1hwwL_6M9EkZySr_yteUi18.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "STIX Two Math"
+		}
+	]
+}

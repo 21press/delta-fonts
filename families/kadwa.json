@@ -1,0 +1,22 @@
+{
+	"slug": "kadwa",
+	"name": "Kadwa",
+	"fontFamily": "Kadwa, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kadwa/v15/rnCm-x5V0g7ipiTAT8Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kadwa"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kadwa/v15/rnCr-x5V0g7ipix7atM5kng.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kadwa"
+		}
+	]
+}

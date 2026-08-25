@@ -1,0 +1,22 @@
+{
+	"slug": "birthstone-bounce",
+	"name": "Birthstone Bounce",
+	"fontFamily": "\"Birthstone Bounce\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVOEoI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Birthstone Bounce"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MZcXL5I.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Birthstone Bounce"
+		}
+	]
+}

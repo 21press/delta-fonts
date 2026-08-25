@@ -1,0 +1,16 @@
+{
+	"slug": "great-vibes",
+	"name": "Great Vibes",
+	"fontFamily": "\"Great Vibes\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/greatvibes/v21/RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Great Vibes"
+		}
+	]
+}

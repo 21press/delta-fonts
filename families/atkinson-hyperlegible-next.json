@@ -1,0 +1,94 @@
+{
+	"slug": "atkinson-hyperlegible-next",
+	"name": "Atkinson Hyperlegible Next",
+	"fontFamily": "\"Atkinson Hyperlegible Next\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3o.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPPcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiMr3i-oQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Atkinson Hyperlegible Next"
+		}
+	]
+}

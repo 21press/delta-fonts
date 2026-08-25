@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-lepcha",
+	"name": "Noto Sans Lepcha",
+	"fontFamily": "\"Noto Sans Lepcha\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslepcha/v20/0QI7MWlB_JWgA166SKhu05TekNS36AVmtw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lepcha"
+		}
+	]
+}

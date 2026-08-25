@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-mayan-numerals",
+	"name": "Noto Sans Mayan Numerals",
+	"fontFamily": "\"Noto Sans Mayan Numerals\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmayannumerals/v17/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIi07MAp.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Mayan Numerals"
+		}
+	]
+}

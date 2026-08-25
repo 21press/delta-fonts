@@ -1,0 +1,16 @@
+{
+	"slug": "julee",
+	"name": "Julee",
+	"fontFamily": "Julee, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/julee/v26/TuGfUVB3RpZPQ5ZMq9k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Julee"
+		}
+	]
+}

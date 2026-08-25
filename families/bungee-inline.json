@@ -1,0 +1,16 @@
+{
+	"slug": "bungee-inline",
+	"name": "Bungee Inline",
+	"fontFamily": "\"Bungee Inline\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bungeeinline/v19/Gg8zN58UcgnlCweMrih332VuPGV_-Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bungee Inline"
+		}
+	]
+}

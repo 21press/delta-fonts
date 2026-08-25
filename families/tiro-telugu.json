@@ -1,0 +1,22 @@
+{
+	"slug": "tiro-telugu",
+	"name": "Tiro Telugu",
+	"fontFamily": "\"Tiro Telugu\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdJSKSKg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tiro Telugu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPeKrcWw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tiro Telugu"
+		}
+	]
+}

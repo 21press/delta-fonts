@@ -1,0 +1,16 @@
+{
+	"slug": "potta-one",
+	"name": "Potta One",
+	"fontFamily": "\"Potta One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-Yfxg2pRm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Potta One"
+		}
+	]
+}

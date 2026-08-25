@@ -1,0 +1,40 @@
+{
+	"slug": "baloo-bhaina-2",
+	"name": "Baloo Bhaina 2",
+	"fontFamily": "\"Baloo Bhaina 2\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySiz8kjQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Bhaina 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySiz8kjQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Bhaina 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySiz8kjQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Bhaina 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySiz8kjQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Bhaina 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloobhaina2/v29/qWczB6yyq4P9Adr3RtoX1q6ySiz8kjQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Bhaina 2"
+		}
+	]
+}

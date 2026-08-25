@@ -1,0 +1,16 @@
+{
+	"slug": "oooh-baby",
+	"name": "Oooh Baby",
+	"fontFamily": "\"Oooh Baby\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQzaGW5.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oooh Baby"
+		}
+	]
+}

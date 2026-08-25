@@ -1,0 +1,34 @@
+{
+	"slug": "gfs-neohellenic",
+	"name": "GFS Neohellenic",
+	"fontFamily": "\"GFS Neohellenic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gfsneohellenic/v27/8QIRdiDOrfiq0b7R8O1Iw9WLcY5jKqJO.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "GFS Neohellenic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gfsneohellenic/v27/8QIUdiDOrfiq0b7R8O1Iw9WLcY5rkYdb7IQe.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "GFS Neohellenic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gfsneohellenic/v27/8QITdiDOrfiq0b7R8O1Iw9WLcY5jL5JMy6E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "GFS Neohellenic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gfsneohellenic/v27/8QIWdiDOrfiq0b7R8O1Iw9WLcY5jL5r37rQccsA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "GFS Neohellenic"
+		}
+	]
+}

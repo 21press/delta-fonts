@@ -1,0 +1,22 @@
+{
+	"slug": "astloch",
+	"name": "Astloch",
+	"fontFamily": "Astloch, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/astloch/v27/TuGRUVJ8QI5GSeUjm9sbzQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Astloch"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/astloch/v27/TuGUUVJ8QI5GSeUjk2A-2MRFAg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Astloch"
+		}
+	]
+}

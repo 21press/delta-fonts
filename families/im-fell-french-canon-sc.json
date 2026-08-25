@@ -1,0 +1,16 @@
+{
+	"slug": "im-fell-french-canon-sc",
+	"name": "IM Fell French Canon SC",
+	"fontFamily": "\"IM Fell French Canon SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/imfellfrenchcanonsc/v23/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0czWhE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IM Fell French Canon SC"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"slug": "istok-web",
+	"name": "Istok Web",
+	"fontFamily": "\"Istok Web\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qTvojGmgSyUukBzKslpBmt_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Istok Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Istok Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qTpojGmgSyUukBzKslpA1t93kY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Istok Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/istokweb/v26/3qT0ojGmgSyUukBzKslpA1PG-1MXSBM.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Istok Web"
+		}
+	]
+}

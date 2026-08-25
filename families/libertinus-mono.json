@@ -1,0 +1,16 @@
+{
+	"slug": "libertinus-mono",
+	"name": "Libertinus Mono",
+	"fontFamily": "\"Libertinus Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusmono/v1/_gPg1RnxrjY_TDm97ApTqwneJJFjpxt2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libertinus Mono"
+		}
+	]
+}

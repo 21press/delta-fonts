@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-palmyrene",
+	"name": "Noto Sans Palmyrene",
+	"fontFamily": "\"Noto Sans Palmyrene\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanspalmyrene/v17/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnWzZw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Palmyrene"
+		}
+	]
+}

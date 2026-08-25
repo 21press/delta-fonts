@@ -1,0 +1,16 @@
+{
+	"slug": "lumanosimo",
+	"name": "Lumanosimo",
+	"fontFamily": "Lumanosimo, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lumanosimo/v5/K2F0fZBYg_JDSEZHEfO8Mo2AAg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lumanosimo"
+		}
+	]
+}

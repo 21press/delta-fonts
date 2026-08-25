@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-nl-guides",
+	"name": "Playwrite NL Guides",
+	"fontFamily": "\"Playwrite NL Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwsWc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite NL Guides"
+		}
+	]
+}

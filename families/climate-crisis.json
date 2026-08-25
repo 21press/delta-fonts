@@ -1,0 +1,16 @@
+{
+	"slug": "climate-crisis",
+	"name": "Climate Crisis",
+	"fontFamily": "\"Climate Crisis\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/climatecrisis/v15/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFpKiq8q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Climate Crisis"
+		}
+	]
+}

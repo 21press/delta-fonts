@@ -1,0 +1,16 @@
+{
+	"slug": "aubrey",
+	"name": "Aubrey",
+	"fontFamily": "Aubrey, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/aubrey/v29/q5uGsou7NPBw-p7fvQlt.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aubrey"
+		}
+	]
+}

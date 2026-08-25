@@ -1,0 +1,16 @@
+{
+	"slug": "ga-maamli",
+	"name": "Ga Maamli",
+	"fontFamily": "\"Ga Maamli\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gamaamli/v3/uU9NCBsQ4c-DPW1Yo3rh3dSD.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ga Maamli"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "allerta",
+	"name": "Allerta",
+	"fontFamily": "Allerta, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/allerta/v19/TwMO-IAHRlkbx940YnYXSA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Allerta"
+		}
+	]
+}

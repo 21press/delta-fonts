@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-todhri",
+	"name": "Noto Serif Todhri",
+	"fontFamily": "\"Noto Serif Todhri\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0B1Vag.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Todhri"
+		}
+	]
+}

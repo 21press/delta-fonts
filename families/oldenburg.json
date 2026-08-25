@@ -1,0 +1,16 @@
+{
+	"slug": "oldenburg",
+	"name": "Oldenburg",
+	"fontFamily": "Oldenburg, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oldenburg/v24/fC1jPY5JYWzbywv7c4VKVkSp.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oldenburg"
+		}
+	]
+}

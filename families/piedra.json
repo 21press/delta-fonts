@@ -1,0 +1,16 @@
+{
+	"slug": "piedra",
+	"name": "Piedra",
+	"fontFamily": "Piedra, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/piedra/v27/ke8kOg8aN0Bn7hTem0aG.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Piedra"
+		}
+	]
+}

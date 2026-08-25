@@ -1,0 +1,16 @@
+{
+	"slug": "uchen",
+	"name": "Uchen",
+	"fontFamily": "Uchen, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/uchen/v11/nKKZ-GokGZ1baLaVGwA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Uchen"
+		}
+	]
+}

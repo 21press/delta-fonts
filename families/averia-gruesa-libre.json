@@ -1,0 +1,16 @@
+{
+	"slug": "averia-gruesa-libre",
+	"name": "Averia Gruesa Libre",
+	"fontFamily": "\"Averia Gruesa Libre\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYm6Dwg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Averia Gruesa Libre"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"slug": "ruda",
+	"name": "Ruda",
+	"fontFamily": "Ruda, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ruda/v30/k3kfo8YQJOpFqngdaA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ruda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ruda/v30/k3kfo8YQJOpFqngdaA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Ruda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ruda/v30/k3kfo8YQJOpFqngdaA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Ruda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ruda/v30/k3kfo8YQJOpFqngdaA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Ruda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ruda/v30/k3kfo8YQJOpFqngdaA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Ruda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ruda/v30/k3kfo8YQJOpFqngdaA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Ruda"
+		}
+	]
+}

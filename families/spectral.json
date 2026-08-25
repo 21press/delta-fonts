@@ -1,0 +1,94 @@
+{
+	"slug": "spectral",
+	"name": "Spectral",
+	"fontFamily": "Spectral, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9v2s23BafY.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uSsG3BafY.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCr-xNNww_2s0amA9M5kng.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vKsW3BafY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vmtm3BafY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uCt23BafY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uetG3BafY.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qrXHWfSFXQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qtHEWfSFXQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCt-xNNww_2s0amA9M8onrmTA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qonFWfSFXQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qqXCWfSFXQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qsHDWfSFXQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qt3AWfSFXQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Spectral"
+		}
+	]
+}

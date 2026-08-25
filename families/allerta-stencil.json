@@ -1,0 +1,16 @@
+{
+	"slug": "allerta-stencil",
+	"name": "Allerta Stencil",
+	"fontFamily": "\"Allerta Stencil\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/allertastencil/v24/HTx0L209KT-LmIE9N7OR6eiycOe1_Db2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Allerta Stencil"
+		}
+	]
+}

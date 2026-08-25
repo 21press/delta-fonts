@@ -1,0 +1,118 @@
+{
+	"slug": "barlow-semi-condensed",
+	"name": "Barlow Semi Condensed",
+	"fontFamily": "\"Barlow Semi Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfG7qoIE4.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRft6u_B2sl.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf06i_B2sl.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXeIqq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sl.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_B2sl.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfw6-_B2sl.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf36y_B2sl.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRf-62_B2sl.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpjgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbLLEEwAhg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJnAVsno5k.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIDAlsno5k.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlphgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbqoIE4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJbA1sno5k.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbJ3BFsno5k.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbITBVsno5k.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIPBlsno5k.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpkgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfbIrB1sno5k.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Barlow Semi Condensed"
+		}
+	]
+}

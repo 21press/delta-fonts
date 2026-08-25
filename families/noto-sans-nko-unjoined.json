@@ -1,0 +1,34 @@
+{
+	"slug": "noto-sans-nko-unjoined",
+	"name": "Noto Sans NKo Unjoined",
+	"fontFamily": "\"Noto Sans NKo Unjoined\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCoCzBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szFuxpFw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans NKo Unjoined"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCoCzBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szFuxpFw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans NKo Unjoined"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCoCzBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szFuxpFw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans NKo Unjoined"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCoCzBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szFuxpFw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans NKo Unjoined"
+		}
+	]
+}

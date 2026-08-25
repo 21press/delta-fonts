@@ -1,0 +1,52 @@
+{
+	"slug": "ibm-plex-sans-thai-looped",
+	"name": "IBM Plex Sans Thai Looped",
+	"fontFamily": "\"IBM Plex Sans Thai Looped\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6o3ms.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtF6JGQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otF6JGQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BWKoQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptF6JGQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutF6JGQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtF6JGQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "IBM Plex Sans Thai Looped"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "jacquard-12",
+	"name": "Jacquard 12",
+	"fontFamily": "\"Jacquard 12\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquard12/v8/vm8ydRLuXETEweL79J4rGf3OWHs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacquard 12"
+		}
+	]
+}

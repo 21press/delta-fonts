@@ -1,0 +1,16 @@
+{
+	"slug": "hurricane",
+	"name": "Hurricane",
+	"fontFamily": "Hurricane, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hurricane/v9/pe0sMIuULZxTolZ5YldCBfe_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hurricane"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "langar",
+	"name": "Langar",
+	"fontFamily": "Langar, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/langar/v30/kJEyBukW7AIlgjGlqj9Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Langar"
+		}
+	]
+}

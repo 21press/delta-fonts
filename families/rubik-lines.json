@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-lines",
+	"name": "Rubik Lines",
+	"fontFamily": "\"Rubik Lines\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FS2avs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Lines"
+		}
+	]
+}

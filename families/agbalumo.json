@@ -1,0 +1,16 @@
+{
+	"slug": "agbalumo",
+	"name": "Agbalumo",
+	"fontFamily": "Agbalumo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/agbalumo/v6/55xvey5uMdT2N37KZfMCgLg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Agbalumo"
+		}
+	]
+}

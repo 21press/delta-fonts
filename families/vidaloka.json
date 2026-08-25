@@ -1,0 +1,16 @@
+{
+	"slug": "vidaloka",
+	"name": "Vidaloka",
+	"fontFamily": "Vidaloka, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vidaloka/v19/7cHrv4c3ipenMKlEavs7wH8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Vidaloka"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"slug": "league-spartan",
+	"name": "League Spartan",
+	"fontFamily": "\"League Spartan\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/leaguespartan/v15/kJEqBuEW6A0lliaV_m88ja5TwvZwLZk.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "League Spartan"
+		}
+	]
+}

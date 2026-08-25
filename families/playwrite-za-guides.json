@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-za-guides",
+	"name": "Playwrite ZA Guides",
+	"fontFamily": "\"Playwrite ZA Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk2HU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ZA Guides"
+		}
+	]
+}

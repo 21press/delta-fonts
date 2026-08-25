@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-co",
+	"name": "Playwrite CO",
+	"fontFamily": "\"Playwrite CO\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteco/v13/0FlTVP2Hl1iH-fv2BH4kJkgB_A.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CO"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteco/v13/0FlTVP2Hl1iH-fv2BH4kJkgB_A.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CO"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteco/v13/0FlTVP2Hl1iH-fv2BH4kJkgB_A.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CO"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteco/v13/0FlTVP2Hl1iH-fv2BH4kJkgB_A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CO"
+		}
+	]
+}

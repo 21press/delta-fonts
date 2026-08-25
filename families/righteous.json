@@ -1,0 +1,16 @@
+{
+	"slug": "righteous",
+	"name": "Righteous",
+	"fontFamily": "Righteous, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/righteous/v18/1cXxaUPXBpj2rGoU7C9WiHGF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Righteous"
+		}
+	]
+}

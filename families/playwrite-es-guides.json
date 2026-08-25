@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-es-guides",
+	"name": "Playwrite ES Guides",
+	"fontFamily": "\"Playwrite ES Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteesguides/v1/VuJtdM_b2p7tvoFGLMPdedpGJm402y6mhDU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ES Guides"
+		}
+	]
+}

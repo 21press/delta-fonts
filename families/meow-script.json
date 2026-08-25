@@ -1,0 +1,16 @@
+{
+	"slug": "meow-script",
+	"name": "Meow Script",
+	"fontFamily": "\"Meow Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/meowscript/v6/0FlQVPqanlaJrtr8AnJ0ERcm2fw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Meow Script"
+		}
+	]
+}

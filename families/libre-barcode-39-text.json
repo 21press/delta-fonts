@@ -1,0 +1,16 @@
+{
+	"slug": "libre-barcode-39-text",
+	"name": "Libre Barcode 39 Text",
+	"fontFamily": "\"Libre Barcode 39 Text\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/librebarcode39text/v32/sJoa3KhViNKANw_E3LwoDXvs5Un0HQ1vT-0H0h5K.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Barcode 39 Text"
+		}
+	]
+}

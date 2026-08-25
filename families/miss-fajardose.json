@@ -1,0 +1,16 @@
+{
+	"slug": "miss-fajardose",
+	"name": "Miss Fajardose",
+	"fontFamily": "\"Miss Fajardose\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/missfajardose/v23/E21-_dn5gvrawDdPFVl-N0Ajb_qoUvc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Miss Fajardose"
+		}
+	]
+}

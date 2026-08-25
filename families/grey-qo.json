@@ -1,0 +1,16 @@
+{
+	"slug": "grey-qo",
+	"name": "Grey Qo",
+	"fontFamily": "\"Grey Qo\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/greyqo/v11/BXRrvF_Nmv_TyXxNPOxa9A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Grey Qo"
+		}
+	]
+}

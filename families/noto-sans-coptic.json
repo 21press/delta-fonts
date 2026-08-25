@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-coptic",
+	"name": "Noto Sans Coptic",
+	"fontFamily": "\"Noto Sans Coptic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanscoptic/v22/iJWfBWmUZi_OHPqn4wq6kgqumOEd38y1VQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Coptic"
+		}
+	]
+}

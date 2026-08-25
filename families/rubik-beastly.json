@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-beastly",
+	"name": "Rubik Beastly",
+	"fontFamily": "\"Rubik Beastly\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X47v2_Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Beastly"
+		}
+	]
+}

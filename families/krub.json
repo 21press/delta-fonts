@@ -1,0 +1,82 @@
+{
+	"slug": "krub",
+	"name": "Krub",
+	"fontFamily": "Krub, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlEdRyC6CRYZo47GLZyRg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlEdRyC6CRYZuo4GLZyRg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlLdRyC6CRYbkEaDQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlEdRyC6CRYZrI5GLZyRg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlEdRyC6CRYZp4-GLZyRg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlEdRyC6CRYZvo_GLZyRg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlGdRyC6CRYbkQiwLBCRIAS.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlGdRyC6CRYbkQipLNCRIAS.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlFdRyC6CRYbkQqD5FX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlGdRyC6CRYbkQi_LJCRIAS.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlGdRyC6CRYbkQi0LVCRIAS.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Krub"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/krub/v11/sZlGdRyC6CRYbkQitLRCRIAS.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Krub"
+		}
+	]
+}

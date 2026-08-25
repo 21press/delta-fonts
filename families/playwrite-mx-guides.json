@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-mx-guides",
+	"name": "Playwrite MX Guides",
+	"fontFamily": "\"Playwrite MX Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritemxguides/v1/k3kMo9ESPe9dzQ1UGbvoZhnhbtfklWqN0qk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite MX Guides"
+		}
+	]
+}

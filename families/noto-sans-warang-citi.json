@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-warang-citi",
+	"name": "Noto Sans Warang Citi",
+	"fontFamily": "\"Noto Sans Warang Citi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanswarangciti/v19/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKhou9D.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Warang Citi"
+		}
+	]
+}

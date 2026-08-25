@@ -1,0 +1,16 @@
+{
+	"slug": "concert-one",
+	"name": "Concert One",
+	"fontFamily": "\"Concert One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/concertone/v24/VEM1Ro9xs5PjtzCu-srDqSTijP4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Concert One"
+		}
+	]
+}

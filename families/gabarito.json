@@ -1,0 +1,46 @@
+{
+	"slug": "gabarito",
+	"name": "Gabarito",
+	"fontFamily": "Gabarito, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gabarito/v9/QGYtz_0dZAGKJJ4t3HtoW4U.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gabarito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gabarito/v9/QGYtz_0dZAGKJJ4t3HtoW4U.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Gabarito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gabarito/v9/QGYtz_0dZAGKJJ4t3HtoW4U.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Gabarito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gabarito/v9/QGYtz_0dZAGKJJ4t3HtoW4U.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gabarito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gabarito/v9/QGYtz_0dZAGKJJ4t3HtoW4U.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Gabarito"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gabarito/v9/QGYtz_0dZAGKJJ4t3HtoW4U.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Gabarito"
+		}
+	]
+}

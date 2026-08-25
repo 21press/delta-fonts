@@ -1,0 +1,28 @@
+{
+	"slug": "lxgw-wenkai-tc",
+	"name": "LXGW WenKai TC",
+	"fontFamily": "\"LXGW WenKai TC\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwwenkaitc/v10/w8gAH20td8wNsI3f40DmtXZb4_MmBckuRig.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW WenKai TC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwwenkaitc/v10/w8gDH20td8wNsI3f40DmtXZb4_uNJ9w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW WenKai TC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lxgwwenkaitc/v10/w8gAH20td8wNsI3f40DmtXZb4_M2AskuRig.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "LXGW WenKai TC"
+		}
+	]
+}

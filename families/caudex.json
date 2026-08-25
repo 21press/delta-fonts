@@ -1,0 +1,34 @@
+{
+	"slug": "caudex",
+	"name": "Caudex",
+	"fontFamily": "Caudex, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUr4zfKB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Caudex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/caudex/v19/esDT311QOP6BJUrwdteUkp8D.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Caudex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/caudex/v19/esDS311QOP6BJUr4yMKDtbo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Caudex"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/caudex/v19/esDV311QOP6BJUr4yMo4kK8BMpU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Caudex"
+		}
+	]
+}

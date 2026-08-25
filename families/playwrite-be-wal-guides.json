@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-be-wal-guides",
+	"name": "Playwrite BE WAL Guides",
+	"fontFamily": "\"Playwrite BE WAL Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite BE WAL Guides"
+		}
+	]
+}

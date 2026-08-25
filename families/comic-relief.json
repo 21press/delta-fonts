@@ -1,0 +1,22 @@
+{
+	"slug": "comic-relief",
+	"name": "Comic Relief",
+	"fontFamily": "\"Comic Relief\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/comicrelief/v2/BCauqZkHrvL55SZ8uaEhHMYGWxhg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Comic Relief"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/comicrelief/v2/BCaxqZkHrvL55SZ8uaEhHMYO4D11ASoj.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Comic Relief"
+		}
+	]
+}

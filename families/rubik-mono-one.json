@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-mono-one",
+	"name": "Rubik Mono One",
+	"fontFamily": "\"Rubik Mono One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikmonoone/v20/UqyJK8kPP3hjw6ANTdfRk9YSN983TKU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Mono One"
+		}
+	]
+}

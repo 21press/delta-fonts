@@ -1,0 +1,16 @@
+{
+	"slug": "rammetto-one",
+	"name": "Rammetto One",
+	"fontFamily": "\"Rammetto One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rammettoone/v21/LhWiMV3HOfMbMetJG3lQDppNNfGd.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rammetto One"
+		}
+	]
+}

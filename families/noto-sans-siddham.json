@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-siddham",
+	"name": "Noto Sans Siddham",
+	"fontFamily": "\"Noto Sans Siddham\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssiddham/v21/OZpZg-FwqiNLe9PELUikxTWDoCCeGpnamXM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Siddham"
+		}
+	]
+}

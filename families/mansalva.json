@@ -1,0 +1,16 @@
+{
+	"slug": "mansalva",
+	"name": "Mansalva",
+	"fontFamily": "Mansalva, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mansalva/v16/aWB4m0aacbtDfvq5NKliKY8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mansalva"
+		}
+	]
+}

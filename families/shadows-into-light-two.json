@@ -1,0 +1,16 @@
+{
+	"slug": "shadows-into-light-two",
+	"name": "Shadows Into Light Two",
+	"fontFamily": "\"Shadows Into Light Two\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shadowsintolighttwo/v19/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHGQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shadows Into Light Two"
+		}
+	]
+}

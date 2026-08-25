@@ -1,0 +1,16 @@
+{
+	"slug": "alex-brush",
+	"name": "Alex Brush",
+	"fontFamily": "\"Alex Brush\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EhUXz7Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alex Brush"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "kenia",
+	"name": "Kenia",
+	"fontFamily": "Kenia, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kenia/v30/jizURE5PuHQH9pCJP0A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kenia"
+		}
+	]
+}

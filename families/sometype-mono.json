@@ -1,0 +1,58 @@
+{
+	"slug": "sometype-mono",
+	"name": "Sometype Mono",
+	"fontFamily": "\"Sometype Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lVu745KGk_R3uxyq0WrROhKpShQQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lVu745KGk_R3uxyq0WrROhKpShQQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lVu745KGk_R3uxyq0WrROhKpShQQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lVu745KGk_R3uxyq0WrROhKpShQQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lLu745KGk_R3uxyq0WrROhKpGRQ29G.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lLu745KGk_R3uxyq0WrROhKpGRQ29G.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lLu745KGk_R3uxyq0WrROhKpGRQ29G.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Sometype Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sometypemono/v4/70lLu745KGk_R3uxyq0WrROhKpGRQ29G.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Sometype Mono"
+		}
+	]
+}

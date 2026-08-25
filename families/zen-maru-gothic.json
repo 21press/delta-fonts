@@ -1,0 +1,40 @@
+{
+	"slug": "zen-maru-gothic",
+	"name": "Zen Maru Gothic",
+	"fontFamily": "\"Zen Maru Gothic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zenmarugothic/v19/o-0XIpIxzW5b-RxT-6A8jWAtCp-cQWpyO5Cb.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Maru Gothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenmarugothic/v19/o-0SIpIxzW5b-RxT-6A8jWAtCp-U6khn.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Maru Gothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenmarugothic/v19/o-0XIpIxzW5b-RxT-6A8jWAtCp-cGWtyO5Cb.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Maru Gothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenmarugothic/v19/o-0XIpIxzW5b-RxT-6A8jWAtCp-cUW1yO5Cb.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Maru Gothic"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenmarugothic/v19/o-0XIpIxzW5b-RxT-6A8jWAtCp-caW9yO5Cb.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Maru Gothic"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "bokor",
+	"name": "Bokor",
+	"fontFamily": "Bokor, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bokor/v32/m8JcjfpeeaqTiS2Rfog.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bokor"
+		}
+	]
+}

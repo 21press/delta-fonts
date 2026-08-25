@@ -1,0 +1,16 @@
+{
+	"slug": "architects-daughter",
+	"name": "Architects Daughter",
+	"fontFamily": "\"Architects Daughter\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/architectsdaughter/v20/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Architects Daughter"
+		}
+	]
+}

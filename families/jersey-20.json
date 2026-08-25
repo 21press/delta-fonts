@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-20",
+	"name": "Jersey 20",
+	"fontFamily": "\"Jersey 20\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey20/v4/ZgNRjP1ON6jeW4D12z3sq0Xr.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 20"
+		}
+	]
+}

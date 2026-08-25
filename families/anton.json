@@ -1,0 +1,16 @@
+{
+	"slug": "anton",
+	"name": "Anton",
+	"fontFamily": "Anton, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm3Kz-C8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Anton"
+		}
+	]
+}

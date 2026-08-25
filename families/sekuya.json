@@ -1,0 +1,16 @@
+{
+	"slug": "sekuya",
+	"name": "Sekuya",
+	"fontFamily": "Sekuya, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sekuya/v1/fdN_9suEu39Dg3wU3SBe.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sekuya"
+		}
+	]
+}

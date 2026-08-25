@@ -1,0 +1,16 @@
+{
+	"slug": "fleur-de-leah",
+	"name": "Fleur De Leah",
+	"fontFamily": "\"Fleur De Leah\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fleurdeleah/v11/AYCNpXX7ftYZWLhv9UmPJTMC1vGn4Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fleur De Leah"
+		}
+	]
+}

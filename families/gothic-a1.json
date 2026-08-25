@@ -1,0 +1,64 @@
+{
+	"slug": "gothic-a1",
+	"name": "Gothic A1",
+	"fontFamily": "\"Gothic A1\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR74z5ZnPydRjlCCwlCCPctaNY.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCpOY6T_N7.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCwOU6T_N7.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR94z5ZnPydRjlCCwlKa8cv.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCmOQ6T_N7.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCtOM6T_N7.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlC0OI6T_N7.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlCzOE6T_N7.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gothica1/v18/CSR44z5ZnPydRjlCCwlC6OA6T_N7.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Gothic A1"
+		}
+	]
+}

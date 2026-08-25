@@ -1,0 +1,16 @@
+{
+	"slug": "dotgothic16",
+	"name": "DotGothic16",
+	"fontFamily": "\"DotGothic16\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dotgothic16/v21/v6-QGYjBJFKgyw5nSoDAGH7M6X8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "DotGothic16"
+		}
+	]
+}

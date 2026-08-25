@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-nushu",
+	"name": "Noto Sans Nushu",
+	"fontFamily": "\"Noto Sans Nushu\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnushu/v20/rnCw-xRQ3B7652emAbAe_Ai1IYa1X1oN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Nushu"
+		}
+	]
+}

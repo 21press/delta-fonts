@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-es",
+	"name": "Playwrite ES",
+	"fontFamily": "\"Playwrite ES\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritees/v11/kJE0BuMK4Q07lDHc2Xp9uokSqQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ES"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritees/v11/kJE0BuMK4Q07lDHc2Xp9uokSqQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ES"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritees/v11/kJE0BuMK4Q07lDHc2Xp9uokSqQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ES"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritees/v11/kJE0BuMK4Q07lDHc2Xp9uokSqQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ES"
+		}
+	]
+}

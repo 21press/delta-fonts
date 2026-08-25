@@ -1,0 +1,16 @@
+{
+	"slug": "yesteryear",
+	"name": "Yesteryear",
+	"fontFamily": "Yesteryear, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yesteryear/v21/dg4g_p78rroaKl8kRKo1n7sNTg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yesteryear"
+		}
+	]
+}

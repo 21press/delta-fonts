@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-vai",
+	"name": "Noto Sans Vai",
+	"fontFamily": "\"Noto Sans Vai\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansvai/v19/NaPecZTSBuhTirw6IaFn_UrUdMPmDQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Vai"
+		}
+	]
+}

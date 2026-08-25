@@ -1,0 +1,16 @@
+{
+	"slug": "sevillana",
+	"name": "Sevillana",
+	"fontFamily": "Sevillana, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sevillana/v25/KFOlCnWFscmDt1Bfiy1fBBc4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sevillana"
+		}
+	]
+}

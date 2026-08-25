@@ -1,0 +1,28 @@
+{
+	"slug": "karantina",
+	"name": "Karantina",
+	"fontFamily": "Karantina, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/karantina/v13/buExpo24ccnh31GVMABxXCgv__RP.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Karantina"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/karantina/v13/buE0po24ccnh31GVMAB59wo6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Karantina"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/karantina/v13/buExpo24ccnh31GVMABxTC8v__RP.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Karantina"
+		}
+	]
+}

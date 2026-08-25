@@ -1,0 +1,16 @@
+{
+	"slug": "gasoek-one",
+	"name": "Gasoek One",
+	"fontFamily": "\"Gasoek One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gasoekone/v4/EJRTQgQ_UMUKvDgnlX80_r21cg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gasoek One"
+		}
+	]
+}

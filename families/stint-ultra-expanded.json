@@ -1,0 +1,16 @@
+{
+	"slug": "stint-ultra-expanded",
+	"name": "Stint Ultra Expanded",
+	"fontFamily": "\"Stint Ultra Expanded\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stintultraexpanded/v24/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Stint Ultra Expanded"
+		}
+	]
+}

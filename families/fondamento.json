@@ -1,0 +1,22 @@
+{
+	"slug": "fondamento",
+	"name": "Fondamento",
+	"fontFamily": "Fondamento, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fondamento/v22/4UaHrEJGsxNmFTPDnkaJ96rp5w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fondamento"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fondamento/v22/4UaFrEJGsxNmFTPDnkaJ96_Z5btx.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fondamento"
+		}
+	]
+}

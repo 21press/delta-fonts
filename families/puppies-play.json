@@ -1,0 +1,16 @@
+{
+	"slug": "puppies-play",
+	"name": "Puppies Play",
+	"fontFamily": "\"Puppies Play\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/puppiesplay/v11/wlp2gwHZEV99rG6M3NR9uB9fbwhT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Puppies Play"
+		}
+	]
+}

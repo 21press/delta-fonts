@@ -1,0 +1,16 @@
+{
+	"slug": "farsan",
+	"name": "Farsan",
+	"fontFamily": "Farsan, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/farsan/v24/VEMwRoJ0vY_zsyzK3aWo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Farsan"
+		}
+	]
+}

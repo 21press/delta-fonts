@@ -1,0 +1,22 @@
+{
+	"slug": "glegoo",
+	"name": "Glegoo",
+	"fontFamily": "Glegoo, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/glegoo/v17/_Xmt-HQyrTKWaw25jKOY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Glegoo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/glegoo/v17/_Xmu-HQyrTKWaw2xN4aND65o.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Glegoo"
+		}
+	]
+}

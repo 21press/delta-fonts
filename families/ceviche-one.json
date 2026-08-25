@@ -1,0 +1,16 @@
+{
+	"slug": "ceviche-one",
+	"name": "Ceviche One",
+	"fontFamily": "\"Ceviche One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cevicheone/v17/gyB4hws1IcA6JzR-GB_JX5zabYo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ceviche One"
+		}
+	]
+}

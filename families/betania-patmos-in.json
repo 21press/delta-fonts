@@ -1,0 +1,16 @@
+{
+	"slug": "betania-patmos-in",
+	"name": "Betania Patmos In",
+	"fontFamily": "\"Betania Patmos In\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/betaniapatmosin/v2/t5t6IQYdPp6dFAyhcz3W2MuHvhmmxIuBWho.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Betania Patmos In"
+		}
+	]
+}

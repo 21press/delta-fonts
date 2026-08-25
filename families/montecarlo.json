@@ -1,0 +1,16 @@
+{
+	"slug": "montecarlo",
+	"name": "MonteCarlo",
+	"fontFamily": "MonteCarlo, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/montecarlo/v13/buEzpo6-f9X01GadLA0G4C0f_Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "MonteCarlo"
+		}
+	]
+}

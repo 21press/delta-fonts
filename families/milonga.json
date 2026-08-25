@@ -1,0 +1,16 @@
+{
+	"slug": "milonga",
+	"name": "Milonga",
+	"fontFamily": "Milonga, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/milonga/v24/SZc53FHnIaK9W5kfTzrMkA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Milonga"
+		}
+	]
+}

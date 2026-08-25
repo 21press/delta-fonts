@@ -1,0 +1,16 @@
+{
+	"slug": "herr-von-muellerhoff",
+	"name": "Herr Von Muellerhoff",
+	"fontFamily": "\"Herr Von Muellerhoff\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v23/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Herr Von Muellerhoff"
+		}
+	]
+}

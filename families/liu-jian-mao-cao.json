@@ -1,0 +1,16 @@
+{
+	"slug": "liu-jian-mao-cao",
+	"name": "Liu Jian Mao Cao",
+	"fontFamily": "\"Liu Jian Mao Cao\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOoTe3fKQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Liu Jian Mao Cao"
+		}
+	]
+}

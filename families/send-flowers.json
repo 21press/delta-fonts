@@ -1,0 +1,16 @@
+{
+	"slug": "send-flowers",
+	"name": "Send Flowers",
+	"fontFamily": "\"Send Flowers\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sendflowers/v7/If2PXTjtZS-0Xqy13uCQSULfwALi.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Send Flowers"
+		}
+	]
+}

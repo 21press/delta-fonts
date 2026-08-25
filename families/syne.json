@@ -1,0 +1,40 @@
+{
+	"slug": "syne",
+	"name": "Syne",
+	"fontFamily": "Syne, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/syne/v24/8vIH7w4qzmVxm2BL9A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Syne"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/syne/v24/8vIH7w4qzmVxm2BL9A.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Syne"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/syne/v24/8vIH7w4qzmVxm2BL9A.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Syne"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/syne/v24/8vIH7w4qzmVxm2BL9A.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Syne"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/syne/v24/8vIH7w4qzmVxm2BL9A.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Syne"
+		}
+	]
+}

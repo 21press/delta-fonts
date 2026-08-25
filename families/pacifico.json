@@ -1,0 +1,16 @@
+{
+	"slug": "pacifico",
+	"name": "Pacifico",
+	"fontFamily": "Pacifico, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pacifico/v23/FwZY7-Qmy14u9lezJ-6H6Mk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pacifico"
+		}
+	]
+}

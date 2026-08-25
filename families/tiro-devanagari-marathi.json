@@ -1,0 +1,22 @@
+{
+	"slug": "tiro-devanagari-marathi",
+	"name": "Tiro Devanagari Marathi",
+	"fontFamily": "\"Tiro Devanagari Marathi\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tirodevanagarimarathi/v7/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDsBpc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tiro Devanagari Marathi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirodevanagarimarathi/v7/fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpNpUk3g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tiro Devanagari Marathi"
+		}
+	]
+}

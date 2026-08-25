@@ -1,0 +1,28 @@
+{
+	"slug": "life-savers",
+	"name": "Life Savers",
+	"fontFamily": "\"Life Savers\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lifesavers/v23/ZXuie1UftKKabUQMgxAal8lsHAs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Life Savers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lifesavers/v23/ZXu_e1UftKKabUQMgxAal8HXOR5UmcY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Life Savers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lifesavers/v23/ZXu_e1UftKKabUQMgxAal8HLOh5UmcY.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Life Savers"
+		}
+	]
+}

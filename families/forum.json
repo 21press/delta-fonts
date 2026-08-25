@@ -1,0 +1,16 @@
+{
+	"slug": "forum",
+	"name": "Forum",
+	"fontFamily": "Forum, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew8IROpI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Forum"
+		}
+	]
+}

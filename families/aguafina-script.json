@@ -1,0 +1,16 @@
+{
+	"slug": "aguafina-script",
+	"name": "Aguafina Script",
+	"fontFamily": "\"Aguafina Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/aguafinascript/v24/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aguafina Script"
+		}
+	]
+}

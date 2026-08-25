@@ -1,0 +1,16 @@
+{
+	"slug": "patrick-hand",
+	"name": "Patrick Hand",
+	"fontFamily": "\"Patrick Hand\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/patrickhand/v25/LDI1apSQOAYtSuYWp8ZhfYe8XsLL.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Patrick Hand"
+		}
+	]
+}

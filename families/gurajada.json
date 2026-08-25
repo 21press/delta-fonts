@@ -1,0 +1,16 @@
+{
+	"slug": "gurajada",
+	"name": "Gurajada",
+	"fontFamily": "Gurajada, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gurajada/v24/FwZY7-Qx308m-l-0Ke6H6Mk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gurajada"
+		}
+	]
+}

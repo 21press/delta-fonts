@@ -1,0 +1,16 @@
+{
+	"slug": "major-mono-display",
+	"name": "Major Mono Display",
+	"fontFamily": "\"Major Mono Display\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/majormonodisplay/v18/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Major Mono Display"
+		}
+	]
+}

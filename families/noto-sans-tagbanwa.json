@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-tagbanwa",
+	"name": "Noto Sans Tagbanwa",
+	"fontFamily": "\"Noto Sans Tagbanwa\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanstagbanwa/v21/Y4GWYbB8VTEp4t3MKJSMmQdIKjRtt_npQT4F.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Tagbanwa"
+		}
+	]
+}

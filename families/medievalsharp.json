@@ -1,0 +1,16 @@
+{
+	"slug": "medievalsharp",
+	"name": "MedievalSharp",
+	"fontFamily": "MedievalSharp, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/medievalsharp/v28/EvOJzAlL3oU5AQl2mP5KdgptMqhwMg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "MedievalSharp"
+		}
+	]
+}

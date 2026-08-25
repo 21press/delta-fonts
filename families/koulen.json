@@ -1,0 +1,16 @@
+{
+	"slug": "koulen",
+	"name": "Koulen",
+	"fontFamily": "Koulen, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/koulen/v30/AMOQz46as3KIBPemhXo8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Koulen"
+		}
+	]
+}

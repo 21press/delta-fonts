@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-marchen",
+	"name": "Noto Sans Marchen",
+	"fontFamily": "\"Noto Sans Marchen\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmarchen/v21/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhIma8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Marchen"
+		}
+	]
+}

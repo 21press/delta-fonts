@@ -1,0 +1,16 @@
+{
+	"slug": "jacquarda-bastarda-9-charted",
+	"name": "Jacquarda Bastarda 9 Charted",
+	"fontFamily": "\"Jacquarda Bastarda 9 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquardabastarda9charted/v4/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0AFaQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacquarda Bastarda 9 Charted"
+		}
+	]
+}

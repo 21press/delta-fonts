@@ -1,0 +1,34 @@
+{
+	"slug": "kay-pho-du",
+	"name": "Kay Pho Du",
+	"fontFamily": "\"Kay Pho Du\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0O6tLQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kay Pho Du"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2B2OODI4_g.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kay Pho Du"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2DGJODI4_g.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Kay Pho Du"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kayphodu/v2/jizcREFPvGNOx-jhPwHR2FWIODI4_g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kay Pho Du"
+		}
+	]
+}

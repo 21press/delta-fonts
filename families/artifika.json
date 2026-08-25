@@ -1,0 +1,16 @@
+{
+	"slug": "artifika",
+	"name": "Artifika",
+	"fontFamily": "Artifika, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/artifika/v22/VEMyRoxzronptCuxu5Wq7DE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Artifika"
+		}
+	]
+}

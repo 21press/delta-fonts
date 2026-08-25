@@ -1,0 +1,28 @@
+{
+	"slug": "oxygen",
+	"name": "Oxygen",
+	"fontFamily": "Oxygen, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCJW8zaGW5.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Oxygen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4LcnbuKjk0m.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Oxygen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCNWgzaGW5.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Oxygen"
+		}
+	]
+}

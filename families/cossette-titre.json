@@ -1,0 +1,22 @@
+{
+	"slug": "cossette-titre",
+	"name": "Cossette Titre",
+	"fontFamily": "\"Cossette Titre\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cossettetitre/v3/11hYGpvKz1nGbxMXUWz9OdPzuhEepvY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cossette Titre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cossettetitre/v3/11hbGpvKz1nGbxMXUWz9OdPzuhmlg-OL0N0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cossette Titre"
+		}
+	]
+}

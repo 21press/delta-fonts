@@ -1,0 +1,22 @@
+{
+	"slug": "sedan",
+	"name": "Sedan",
+	"fontFamily": "Sedan, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOVgzs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sedan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQszlAuQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Sedan"
+		}
+	]
+}

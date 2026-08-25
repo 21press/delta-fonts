@@ -1,0 +1,22 @@
+{
+	"slug": "kapakana",
+	"name": "Kapakana",
+	"fontFamily": "Kapakana, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kapakana/v19/sykw-yN0m6InS7OD9DqQ3tc.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Kapakana"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kapakana/v19/sykw-yN0m6InS7OD9DqQ3tc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kapakana"
+		}
+	]
+}

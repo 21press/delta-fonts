@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-be-vlg-guides",
+	"name": "Playwrite BE VLG Guides",
+	"fontFamily": "\"Playwrite BE VLG Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1u9D.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite BE VLG Guides"
+		}
+	]
+}

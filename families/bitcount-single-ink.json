@@ -1,0 +1,64 @@
+{
+	"slug": "bitcount-single-ink",
+	"name": "Bitcount Single Ink",
+	"fontFamily": "\"Bitcount Single Ink\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIod7wv.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Single Ink"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "girassol",
+	"name": "Girassol",
+	"fontFamily": "Girassol, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/girassol/v24/JTUUjIo_-DK48laaNB9KxWs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Girassol"
+		}
+	]
+}

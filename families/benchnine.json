@@ -1,0 +1,28 @@
+{
+	"slug": "benchnine",
+	"name": "BenchNine",
+	"fontFamily": "BenchNine, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT--thgmy9.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "BenchNine"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/benchnine/v17/ahcbv8612zF4jxrwMosbUMl0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BenchNine"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT6-xhgmy9.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "BenchNine"
+		}
+	]
+}

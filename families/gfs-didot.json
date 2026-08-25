@@ -1,0 +1,16 @@
+{
+	"slug": "gfs-didot",
+	"name": "GFS Didot",
+	"fontFamily": "\"GFS Didot\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gfsdidot/v18/Jqzh5TybZ9vZMWFssvwSEO3H.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "GFS Didot"
+		}
+	]
+}

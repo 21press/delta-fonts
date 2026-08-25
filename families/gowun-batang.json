@@ -1,0 +1,22 @@
+{
+	"slug": "gowun-batang",
+	"name": "Gowun Batang",
+	"fontFamily": "\"Gowun Batang\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gowunbatang/v12/ijwSs5nhRMIjYsdSgcMa3wRRW7v_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gowun Batang"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gowunbatang/v12/ijwNs5nhRMIjYsdSgcMa3wRZ4J7qxcEw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gowun Batang"
+		}
+	]
+}

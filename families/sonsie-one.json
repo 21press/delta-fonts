@@ -1,0 +1,16 @@
+{
+	"slug": "sonsie-one",
+	"name": "Sonsie One",
+	"fontFamily": "\"Sonsie One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sonsieone/v22/PbymFmP_EAnPqbKaoc18UVy20w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sonsie One"
+		}
+	]
+}

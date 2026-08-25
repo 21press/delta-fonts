@@ -1,0 +1,16 @@
+{
+	"slug": "maname",
+	"name": "Maname",
+	"fontFamily": "Maname, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI31MH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Maname"
+		}
+	]
+}

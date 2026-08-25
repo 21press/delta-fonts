@@ -1,0 +1,16 @@
+{
+	"slug": "mouse-memoirs",
+	"name": "Mouse Memoirs",
+	"fontFamily": "\"Mouse Memoirs\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb3T7Prw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mouse Memoirs"
+		}
+	]
+}

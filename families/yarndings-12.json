@@ -1,0 +1,16 @@
+{
+	"slug": "yarndings-12",
+	"name": "Yarndings 12",
+	"fontFamily": "\"Yarndings 12\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yarndings12/v4/55xreyp2N8T5P2LJbZAlkY9s9pjN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yarndings 12"
+		}
+	]
+}

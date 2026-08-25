@@ -1,0 +1,16 @@
+{
+	"slug": "kumar-one-outline",
+	"name": "Kumar One Outline",
+	"fontFamily": "\"Kumar One Outline\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kumaroneoutline/v20/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD3Two.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kumar One Outline"
+		}
+	]
+}

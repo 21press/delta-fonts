@@ -1,0 +1,22 @@
+{
+	"slug": "coustard",
+	"name": "Coustard",
+	"fontFamily": "Coustard, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/coustard/v19/3XFpErgg3YsZ5fqUU-UIt2Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Coustard"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/coustard/v19/3XFuErgg3YsZ5fqUU-2LkHHhZfk.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Coustard"
+		}
+	]
+}

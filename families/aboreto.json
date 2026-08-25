@@ -1,0 +1,16 @@
+{
+	"slug": "aboreto",
+	"name": "Aboreto",
+	"fontFamily": "Aboreto, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8bpKPUAg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aboreto"
+		}
+	]
+}

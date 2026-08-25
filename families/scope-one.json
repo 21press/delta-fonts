@@ -1,0 +1,16 @@
+{
+	"slug": "scope-one",
+	"name": "Scope One",
+	"fontFamily": "\"Scope One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/scopeone/v15/WBLnrEXKYFlGHrOKmGDFXEXN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Scope One"
+		}
+	]
+}

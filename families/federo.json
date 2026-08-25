@@ -1,0 +1,16 @@
+{
+	"slug": "federo",
+	"name": "Federo",
+	"fontFamily": "Federo, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/federo/v20/iJWFBX-cbD_ETsbWilmf.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Federo"
+		}
+	]
+}

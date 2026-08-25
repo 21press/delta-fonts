@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-hungarian",
+	"name": "Noto Sans Old Hungarian",
+	"fontFamily": "\"Noto Sans Old Hungarian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansoldhungarian/v19/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgSfkZA8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old Hungarian"
+		}
+	]
+}

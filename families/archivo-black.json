@@ -1,0 +1,16 @@
+{
+	"slug": "archivo-black",
+	"name": "Archivo Black",
+	"fontFamily": "\"Archivo Black\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/archivoblack/v23/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Archivo Black"
+		}
+	]
+}

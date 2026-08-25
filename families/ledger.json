@@ -1,0 +1,16 @@
+{
+	"slug": "ledger",
+	"name": "Ledger",
+	"fontFamily": "Ledger, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ledger/v17/j8_q6-HK1L3if_sBnMrx.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ledger"
+		}
+	]
+}

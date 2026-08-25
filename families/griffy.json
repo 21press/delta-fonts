@@ -1,0 +1,16 @@
+{
+	"slug": "griffy",
+	"name": "Griffy",
+	"fontFamily": "Griffy, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/griffy/v23/FwZa7-ox2FQh9kfAT96F.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Griffy"
+		}
+	]
+}

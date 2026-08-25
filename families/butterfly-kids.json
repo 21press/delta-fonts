@@ -1,0 +1,16 @@
+{
+	"slug": "butterfly-kids",
+	"name": "Butterfly Kids",
+	"fontFamily": "\"Butterfly Kids\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/butterflykids/v27/ll8lK2CWTjuqAsXDqlnIbMNs5R4dpRA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Butterfly Kids"
+		}
+	]
+}

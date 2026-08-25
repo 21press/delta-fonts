@@ -1,0 +1,22 @@
+{
+	"slug": "pt-sans-narrow",
+	"name": "PT Sans Narrow",
+	"fontFamily": "\"PT Sans Narrow\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ptsansnarrow/v19/BngRUXNadjH0qYEzV7ab-oWlsbCGwR0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "PT Sans Narrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptsansnarrow/v19/BngSUXNadjH0qYEzV7ab-oWlsbg95AiFW_0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "PT Sans Narrow"
+		}
+	]
+}

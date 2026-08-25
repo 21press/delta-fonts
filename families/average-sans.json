@@ -1,0 +1,16 @@
+{
+	"slug": "average-sans",
+	"name": "Average Sans",
+	"fontFamily": "\"Average Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/averagesans/v17/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCb.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Average Sans"
+		}
+	]
+}

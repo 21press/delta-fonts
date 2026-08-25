@@ -1,0 +1,16 @@
+{
+	"slug": "dynalight",
+	"name": "Dynalight",
+	"fontFamily": "Dynalight, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dynalight/v24/1Ptsg8LOU_aOmQvTsF44TYFq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dynalight"
+		}
+	]
+}

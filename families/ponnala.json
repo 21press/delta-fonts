@@ -1,0 +1,16 @@
+{
+	"slug": "ponnala",
+	"name": "Ponnala",
+	"fontFamily": "Ponnala, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ponnala/v3/w8gaH2QxQOU08bbbnQyn2Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ponnala"
+		}
+	]
+}

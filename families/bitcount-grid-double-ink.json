@@ -1,0 +1,64 @@
+{
+	"slug": "bitcount-grid-double-ink",
+	"name": "Bitcount Grid Double Ink",
+	"fontFamily": "\"Bitcount Grid Double Ink\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55z5cCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsAdhGAM.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double Ink"
+		}
+	]
+}

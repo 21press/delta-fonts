@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-indic-siyaq-numbers",
+	"name": "Noto Sans Indic Siyaq Numbers",
+	"fontFamily": "\"Noto Sans Indic Siyaq Numbers\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v17/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2RNus.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Indic Siyaq Numbers"
+		}
+	]
+}

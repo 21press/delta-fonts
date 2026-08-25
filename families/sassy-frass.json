@@ -1,0 +1,16 @@
+{
+	"slug": "sassy-frass",
+	"name": "Sassy Frass",
+	"fontFamily": "\"Sassy Frass\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sassyfrass/v9/LhWhMVrGOe0FLb97BjhsE-9aEtQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sassy Frass"
+		}
+	]
+}

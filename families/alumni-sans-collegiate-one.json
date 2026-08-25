@@ -1,0 +1,22 @@
+{
+	"slug": "alumni-sans-collegiate-one",
+	"name": "Alumni Sans Collegiate One",
+	"fontFamily": "\"Alumni Sans Collegiate One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgddwjk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alumni Sans Collegiate One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdY8junxw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Alumni Sans Collegiate One"
+		}
+	]
+}

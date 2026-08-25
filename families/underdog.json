@@ -1,0 +1,16 @@
+{
+	"slug": "underdog",
+	"name": "Underdog",
+	"fontFamily": "Underdog, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/underdog/v24/CHygV-jCElj7diMroWSlWV8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Underdog"
+		}
+	]
+}

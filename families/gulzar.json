@@ -1,0 +1,16 @@
+{
+	"slug": "gulzar",
+	"name": "Gulzar",
+	"fontFamily": "Gulzar, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gulzar/v14/Wnz6HAc9eB3HB2I7ZjYY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gulzar"
+		}
+	]
+}

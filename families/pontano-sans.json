@@ -1,0 +1,40 @@
+{
+	"slug": "pontano-sans",
+	"name": "Pontano Sans",
+	"fontFamily": "\"Pontano Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pontanosans/v19/qFdD35GdgYR8EzR6oBLDHa3axT8N.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Pontano Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pontanosans/v19/qFdD35GdgYR8EzR6oBLDHa3axT8N.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pontano Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pontanosans/v19/qFdD35GdgYR8EzR6oBLDHa3axT8N.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Pontano Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pontanosans/v19/qFdD35GdgYR8EzR6oBLDHa3axT8N.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Pontano Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pontanosans/v19/qFdD35GdgYR8EzR6oBLDHa3axT8N.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Pontano Sans"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "sirin-stencil",
+	"name": "Sirin Stencil",
+	"fontFamily": "\"Sirin Stencil\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sirinstencil/v27/mem4YaWwznmLx-lzGfN7MdRyRc9MBw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sirin Stencil"
+		}
+	]
+}

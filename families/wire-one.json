@@ -1,0 +1,16 @@
+{
+	"slug": "wire-one",
+	"name": "Wire One",
+	"fontFamily": "\"Wire One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/wireone/v30/qFdH35Wah5htUhV75VGlU9s.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Wire One"
+		}
+	]
+}

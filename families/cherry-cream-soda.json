@@ -1,0 +1,16 @@
+{
+	"slug": "cherry-cream-soda",
+	"name": "Cherry Cream Soda",
+	"fontFamily": "\"Cherry Cream Soda\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A98.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cherry Cream Soda"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "chokokutai",
+	"name": "Chokokutai",
+	"fontFamily": "Chokokutai, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chokokutai/v12/kmK4Zqw4HwvCeHGM8Fwsxyn4pw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chokokutai"
+		}
+	]
+}

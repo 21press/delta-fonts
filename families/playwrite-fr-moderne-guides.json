@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-fr-moderne-guides",
+	"name": "Playwrite FR Moderne Guides",
+	"fontFamily": "\"Playwrite FR Moderne Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP22HmQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite FR Moderne Guides"
+		}
+	]
+}

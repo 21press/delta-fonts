@@ -1,0 +1,22 @@
+{
+	"slug": "goldman",
+	"name": "Goldman",
+	"fontFamily": "Goldman, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/goldman/v21/pe0uMIWbN4JFplR2HDVyBw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Goldman"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/goldman/v21/pe0rMIWbN4JFplR2FI5XEtCaBg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Goldman"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "ranga",
+	"name": "Ranga",
+	"fontFamily": "Ranga, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ranga/v22/C8ct4cYisGb28q6FJj0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ranga"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ranga/v22/C8cg4cYisGb28qY-AygW43w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Ranga"
+		}
+	]
+}

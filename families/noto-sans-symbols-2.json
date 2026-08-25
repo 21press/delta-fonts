@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-symbols-2",
+	"name": "Noto Sans Symbols 2",
+	"fontFamily": "\"Noto Sans Symbols 2\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssymbols2/v25/I_uyMoGduATTei9eI8daxVHDyfisHr71-pTgfA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Symbols 2"
+		}
+	]
+}

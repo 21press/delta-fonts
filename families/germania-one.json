@@ -1,0 +1,16 @@
+{
+	"slug": "germania-one",
+	"name": "Germania One",
+	"fontFamily": "\"Germania One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/germaniaone/v21/Fh4yPjrqIyv2ucM2qzBjeS3uywhP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Germania One"
+		}
+	]
+}

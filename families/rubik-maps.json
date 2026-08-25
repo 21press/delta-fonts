@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-maps",
+	"name": "Rubik Maps",
+	"fontFamily": "\"Rubik Maps\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSEeCw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Maps"
+		}
+	]
+}

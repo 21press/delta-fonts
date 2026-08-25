@@ -1,0 +1,16 @@
+{
+	"slug": "chicle",
+	"name": "Chicle",
+	"fontFamily": "Chicle, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chicle/v27/lJwG-pw9i2dqU-Bzzmiv.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chicle"
+		}
+	]
+}

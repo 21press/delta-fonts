@@ -1,0 +1,22 @@
+{
+	"slug": "rosarivo",
+	"name": "Rosarivo",
+	"fontFamily": "Rosarivo, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rosarivo/v24/PlI-Fl2lO6N9f8HaNDeF0Hk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rosarivo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rosarivo/v24/PlI4Fl2lO6N9f8HaNDeA4HtkmA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Rosarivo"
+		}
+	]
+}

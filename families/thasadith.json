@@ -1,0 +1,34 @@
+{
+	"slug": "thasadith",
+	"name": "Thasadith",
+	"fontFamily": "Thasadith, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/thasadith/v13/mtG44_1TIqPYrd_f5R1ot0MV.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Thasadith"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/thasadith/v13/mtG94_1TIqPYrd_f5R1gDGYA3wSz.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Thasadith"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/thasadith/v13/mtG-4_1TIqPYrd_f5R1osnMX-CE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Thasadith"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/thasadith/v13/mtGj4_1TIqPYrd_f5R1osnus3TSxNks.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Thasadith"
+		}
+	]
+}

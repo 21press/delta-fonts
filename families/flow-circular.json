@@ -1,0 +1,16 @@
+{
+	"slug": "flow-circular",
+	"name": "Flow Circular",
+	"fontFamily": "\"Flow Circular\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/flowcircular/v15/lJwB-pc4j2F-H8YKuyvfxdZ41iDjWA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Flow Circular"
+		}
+	]
+}

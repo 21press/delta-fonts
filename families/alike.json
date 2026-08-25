@@ -1,0 +1,16 @@
+{
+	"slug": "alike",
+	"name": "Alike",
+	"fontFamily": "Alike, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alike/v22/HI_EiYEYI6BIoHjGQ5Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alike"
+		}
+	]
+}

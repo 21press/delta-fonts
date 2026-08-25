@@ -1,0 +1,16 @@
+{
+	"slug": "caprasimo",
+	"name": "Caprasimo",
+	"fontFamily": "Caprasimo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/caprasimo/v6/esDT31JQOPuXIUGBp72Ukp8D.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Caprasimo"
+		}
+	]
+}

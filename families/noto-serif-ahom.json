@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-ahom",
+	"name": "Noto Serif Ahom",
+	"fontFamily": "\"Noto Serif Ahom\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifahom/v21/FeVIS0hfp6cprmEUffAW_fUL_ANOxewq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ahom"
+		}
+	]
+}

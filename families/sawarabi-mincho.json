@@ -1,0 +1,16 @@
+{
+	"slug": "sawarabi-mincho",
+	"name": "Sawarabi Mincho",
+	"fontFamily": "\"Sawarabi Mincho\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sawarabimincho/v20/8QIRdiDaitzr7brc8ahpxt6GcIJjKqJO.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sawarabi Mincho"
+		}
+	]
+}

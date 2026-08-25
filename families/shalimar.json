@@ -1,0 +1,16 @@
+{
+	"slug": "shalimar",
+	"name": "Shalimar",
+	"fontFamily": "Shalimar, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shalimar/v9/uU9MCBoE6I6iNWFUvQP2-vE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shalimar"
+		}
+	]
+}

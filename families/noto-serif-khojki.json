@@ -1,0 +1,34 @@
+{
+	"slug": "noto-serif-khojki",
+	"name": "Noto Serif Khojki",
+	"fontFamily": "\"Noto Serif Khojki\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_u0MoOduATTei9aP90ctmPGxP2rBI7AypY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Khojki"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_u0MoOduATTei9aP90ctmPGxP2rBI7AypY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Khojki"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_u0MoOduATTei9aP90ctmPGxP2rBI7AypY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Khojki"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_u0MoOduATTei9aP90ctmPGxP2rBI7AypY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Khojki"
+		}
+	]
+}

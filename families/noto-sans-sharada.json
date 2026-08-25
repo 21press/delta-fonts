@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-sharada",
+	"name": "Noto Sans Sharada",
+	"fontFamily": "\"Noto Sans Sharada\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwrXMNu0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Sharada"
+		}
+	]
+}

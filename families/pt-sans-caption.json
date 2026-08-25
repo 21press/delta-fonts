@@ -1,0 +1,22 @@
+{
+	"slug": "pt-sans-caption",
+	"name": "PT Sans Caption",
+	"fontFamily": "\"PT Sans Caption\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ptsanscaption/v20/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_x.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "PT Sans Caption"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptsanscaption/v20/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-v.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "PT Sans Caption"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"slug": "lekton",
+	"name": "Lekton",
+	"fontFamily": "Lekton, monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lekton/v21/SZc43FDmLaWmWpBuWB3p.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lekton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lekton/v21/SZc73FDmLaWmWpBm4zj8kmLW.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lekton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lekton/v21/SZc63FDmLaWmWpBuXS3rtUc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Lekton"
+		}
+	]
+}

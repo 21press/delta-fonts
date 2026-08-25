@@ -1,0 +1,16 @@
+{
+	"slug": "nixie-one",
+	"name": "Nixie One",
+	"fontFamily": "\"Nixie One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nixieone/v17/lW-8wjkKLXjg5y2o2uUYV-ty.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nixie One"
+		}
+	]
+}

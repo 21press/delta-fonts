@@ -1,0 +1,16 @@
+{
+	"slug": "arizonia",
+	"name": "Arizonia",
+	"fontFamily": "Arizonia, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/arizonia/v23/neIIzCemt4A5qa7mv5WBFqw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Arizonia"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "waiting-for-the-sunrise",
+	"name": "Waiting for the Sunrise",
+	"fontFamily": "\"Waiting for the Sunrise\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/waitingforthesunrise/v23/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZX_B4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Waiting for the Sunrise"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "gamja-flower",
+	"name": "Gamja Flower",
+	"fontFamily": "\"Gamja Flower\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gamjaflower/v26/6NUR8FiKJg-Pa0rM6uN40Z4UzvVE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gamja Flower"
+		}
+	]
+}

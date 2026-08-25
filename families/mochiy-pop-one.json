@@ -1,0 +1,16 @@
+{
+	"slug": "mochiy-pop-one",
+	"name": "Mochiy Pop One",
+	"fontFamily": "\"Mochiy Pop One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mochiypopone/v12/QdVPSTA9Jh-gg-5XZP2UmU4O9nw3BXo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mochiy Pop One"
+		}
+	]
+}

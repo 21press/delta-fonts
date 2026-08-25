@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-pahawh-hmong",
+	"name": "Noto Sans Pahawh Hmong",
+	"fontFamily": "\"Noto Sans Pahawh Hmong\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanspahawhhmong/v21/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzA1cg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Pahawh Hmong"
+		}
+	]
+}

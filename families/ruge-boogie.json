@@ -1,0 +1,16 @@
+{
+	"slug": "ruge-boogie",
+	"name": "Ruge Boogie",
+	"fontFamily": "\"Ruge Boogie\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rugeboogie/v30/JIA3UVFwbHRF_GIWSMhKNSOlNTQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ruge Boogie"
+		}
+	]
+}

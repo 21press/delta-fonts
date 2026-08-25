@@ -1,0 +1,22 @@
+{
+	"slug": "fanwood-text",
+	"name": "Fanwood Text",
+	"fontFamily": "\"Fanwood Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFtErwl05Ad_vSCF6Fq7xX2QtzZ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fanwood Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fanwood Text"
+		}
+	]
+}

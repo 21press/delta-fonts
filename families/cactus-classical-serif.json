@@ -1,0 +1,16 @@
+{
+	"slug": "cactus-classical-serif",
+	"name": "Cactus Classical Serif",
+	"fontFamily": "\"Cactus Classical Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cactusclassicalserif/v15/sZlVdQ6K-zJOCzUaS90zMNN-Ep-OoC8dZr0JJudCFA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cactus Classical Serif"
+		}
+	]
+}

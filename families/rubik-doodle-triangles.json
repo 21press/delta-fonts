@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-doodle-triangles",
+	"name": "Rubik Doodle Triangles",
+	"fontFamily": "\"Rubik Doodle Triangles\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikdoodletriangles/v1/esDA301BLOmMKxKspb3g-domRuLPeaSn2bTzRL-1sw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Doodle Triangles"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-cypro-minoan",
+	"name": "Noto Sans Cypro Minoan",
+	"fontFamily": "\"Noto Sans Cypro Minoan\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanscyprominoan/v1/2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGm9CYfg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Cypro Minoan"
+		}
+	]
+}

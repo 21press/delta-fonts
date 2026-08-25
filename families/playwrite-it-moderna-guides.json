@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-it-moderna-guides",
+	"name": "Playwrite IT Moderna Guides",
+	"fontFamily": "\"Playwrite IT Moderna Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPoQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite IT Moderna Guides"
+		}
+	]
+}

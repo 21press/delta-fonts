@@ -1,0 +1,16 @@
+{
+	"slug": "road-rage",
+	"name": "Road Rage",
+	"fontFamily": "\"Road Rage\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/roadrage/v9/6NUU8F2fKAOBKjjr4ekfs8wB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Road Rage"
+		}
+	]
+}

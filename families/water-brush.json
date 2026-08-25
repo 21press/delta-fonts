@@ -1,0 +1,16 @@
+{
+	"slug": "water-brush",
+	"name": "Water Brush",
+	"fontFamily": "\"Water Brush\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/waterbrush/v6/AYCPpXPqc8cJWLhp4hywKEJt5vM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Water Brush"
+		}
+	]
+}

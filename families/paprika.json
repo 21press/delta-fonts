@@ -1,0 +1,16 @@
+{
+	"slug": "paprika",
+	"name": "Paprika",
+	"fontFamily": "Paprika, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/paprika/v24/8QIJdijZitv49rDfiI8Eqg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Paprika"
+		}
+	]
+}

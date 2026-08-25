@@ -1,0 +1,22 @@
+{
+	"slug": "aref-ruqaa-ink",
+	"name": "Aref Ruqaa Ink",
+	"fontFamily": "\"Aref Ruqaa Ink\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx71TmXoDxgQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Aref Ruqaa Ink"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde5Wmo2EayA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Aref Ruqaa Ink"
+		}
+	]
+}

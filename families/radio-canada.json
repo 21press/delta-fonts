@@ -1,0 +1,70 @@
+{
+	"slug": "radio-canada",
+	"name": "Radio Canada",
+	"fontFamily": "\"Radio Canada\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXG3ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6dRW_Qfg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXG3ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6dRW_Qfg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXG3ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6dRW_Qfg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXG3ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6dRW_Qfg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXG3ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6dRW_Qfg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXA3ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrgfOz9.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXA3ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrgfOz9.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXA3ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrgfOz9.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXA3ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrgfOz9.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Radio Canada"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radiocanada/v26/XRXA3ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrgfOz9.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Radio Canada"
+		}
+	]
+}

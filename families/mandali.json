@@ -1,0 +1,16 @@
+{
+	"slug": "mandali",
+	"name": "Mandali",
+	"fontFamily": "Mandali, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mandali/v16/LhWlMVbYOfASNfNUZF4_ZQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mandali"
+		}
+	]
+}

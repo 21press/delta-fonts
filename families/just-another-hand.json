@@ -1,0 +1,16 @@
+{
+	"slug": "just-another-hand",
+	"name": "Just Another Hand",
+	"fontFamily": "\"Just Another Hand\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/justanotherhand/v21/845CNN4-AJyIGvIou-6yJKyptyOpOfr4DGg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Just Another Hand"
+		}
+	]
+}

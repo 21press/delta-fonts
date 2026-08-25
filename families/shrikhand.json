@@ -1,0 +1,16 @@
+{
+	"slug": "shrikhand",
+	"name": "Shrikhand",
+	"fontFamily": "Shrikhand, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shrikhand/v17/a8IbNovtLWfR7T7bMJwrA4KR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shrikhand"
+		}
+	]
+}

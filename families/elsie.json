@@ -1,0 +1,22 @@
+{
+	"slug": "elsie",
+	"name": "Elsie",
+	"fontFamily": "Elsie, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/elsie/v26/BCanqZABrez54xYp_Mg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Elsie"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/elsie/v26/BCaqqZABrez54x6q291PWaU.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Elsie"
+		}
+	]
+}

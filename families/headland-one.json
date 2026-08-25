@@ -1,0 +1,16 @@
+{
+	"slug": "headland-one",
+	"name": "Headland One",
+	"fontFamily": "\"Headland One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/headlandone/v17/yYLu0hHR2vKnp89Tk1TCq3TB1_NS.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Headland One"
+		}
+	]
+}

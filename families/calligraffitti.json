@@ -1,0 +1,16 @@
+{
+	"slug": "calligraffitti",
+	"name": "Calligraffitti",
+	"fontFamily": "Calligraffitti, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/calligraffitti/v20/46k2lbT3XjDVqJw3DCmCFjE0vkFeOZc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Calligraffitti"
+		}
+	]
+}

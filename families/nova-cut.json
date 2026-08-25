@@ -1,0 +1,16 @@
+{
+	"slug": "nova-cut",
+	"name": "Nova Cut",
+	"fontFamily": "\"Nova Cut\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novacut/v26/KFOkCnSYu8mL-39LkVxIIzI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Cut"
+		}
+	]
+}

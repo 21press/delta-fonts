@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-scribble",
+	"name": "Rubik Scribble",
+	"fontFamily": "\"Rubik Scribble\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikscribble/v1/snfzs0Cp48d67SuHQOpjXLsQpYqcQDI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Scribble"
+		}
+	]
+}

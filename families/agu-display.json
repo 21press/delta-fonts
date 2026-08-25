@@ -1,0 +1,16 @@
+{
+	"slug": "agu-display",
+	"name": "Agu Display",
+	"fontFamily": "\"Agu Display\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/agudisplay/v3/iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4fdlqVK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Agu Display"
+		}
+	]
+}

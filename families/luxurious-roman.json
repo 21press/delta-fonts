@@ -1,0 +1,16 @@
+{
+	"slug": "luxurious-roman",
+	"name": "Luxurious Roman",
+	"fontFamily": "\"Luxurious Roman\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/luxuriousroman/v10/buEupou_ZcP1w0yTKxJJokVSmbpaZQ0l.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Luxurious Roman"
+		}
+	]
+}

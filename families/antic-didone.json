@@ -1,0 +1,16 @@
+{
+	"slug": "antic-didone",
+	"name": "Antic Didone",
+	"fontFamily": "\"Antic Didone\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/anticdidone/v17/RWmPoKKX6u8sp8fIWdnDKqDSroEH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Antic Didone"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "mr-dafoe",
+	"name": "Mr Dafoe",
+	"fontFamily": "\"Mr Dafoe\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mrdafoe/v15/lJwE-pIzkS5NXuMMrFitibI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mr Dafoe"
+		}
+	]
+}

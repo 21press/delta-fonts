@@ -1,0 +1,16 @@
+{
+	"slug": "love-ya-like-a-sister",
+	"name": "Love Ya Like A Sister",
+	"fontFamily": "\"Love Ya Like A Sister\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/loveyalikeasister/v23/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL9Xxd.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Love Ya Like A Sister"
+		}
+	]
+}

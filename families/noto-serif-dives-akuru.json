@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-dives-akuru",
+	"name": "Noto Serif Dives Akuru",
+	"fontFamily": "\"Noto Serif Dives Akuru\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifdivesakuru/v8/QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT20fCyw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Dives Akuru"
+		}
+	]
+}

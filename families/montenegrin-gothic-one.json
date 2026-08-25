@@ -1,0 +1,16 @@
+{
+	"slug": "montenegrin-gothic-one",
+	"name": "Montenegrin Gothic One",
+	"fontFamily": "\"Montenegrin Gothic One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/montenegringothicone/v2/Z9XHDnlOQBOL3vX7a9a3psnL-c3rnUnyw7QarwFeGQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Montenegrin Gothic One"
+		}
+	]
+}

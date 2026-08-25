@@ -1,0 +1,16 @@
+{
+	"slug": "are-you-serious",
+	"name": "Are You Serious",
+	"fontFamily": "\"Are You Serious\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/areyouserious/v14/ll8kK2GVSSr-PtjQ5nONVcNn430KgjVm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Are You Serious"
+		}
+	]
+}

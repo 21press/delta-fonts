@@ -1,0 +1,52 @@
+{
+	"slug": "mukta",
+	"name": "Mukta",
+	"fontFamily": "Mukta, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWHBXyXfDDVXbEOjGmd8WA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWHBXyXfDDVXbFqj2md8WA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWKBXyXfDDVXbnBrXw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWHBXyXfDDVXbEyjmmd8WA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWHBXyXfDDVXbEeiWmd8WA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWHBXyXfDDVXbF6iGmd8WA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mukta/v17/iJWHBXyXfDDVXbFmi2md8WA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta"
+		}
+	]
+}

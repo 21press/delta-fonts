@@ -1,0 +1,16 @@
+{
+	"slug": "clicker-script",
+	"name": "Clicker Script",
+	"fontFamily": "\"Clicker Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq71rf0Ts.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Clicker Script"
+		}
+	]
+}

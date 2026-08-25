@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-hanunoo",
+	"name": "Noto Sans Hanunoo",
+	"fontFamily": "\"Noto Sans Hanunoo\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshanunoo/v22/f0Xs0fCv8dxkDWlZSoXOj6CphMloFvErGJk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Hanunoo"
+		}
+	]
+}

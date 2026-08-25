@@ -1,0 +1,16 @@
+{
+	"slug": "chela-one",
+	"name": "Chela One",
+	"fontFamily": "\"Chela One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chelaone/v22/6ae-4KC7Uqgdz_JZdPIC2FHX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chela One"
+		}
+	]
+}

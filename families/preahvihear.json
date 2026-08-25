@@ -1,0 +1,16 @@
+{
+	"slug": "preahvihear",
+	"name": "Preahvihear",
+	"fontFamily": "Preahvihear, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/preahvihear/v32/6NUS8F-dNQeEYhzj7uluxvwD6dA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Preahvihear"
+		}
+	]
+}

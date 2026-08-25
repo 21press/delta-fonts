@@ -1,0 +1,16 @@
+{
+	"slug": "sixtyfour-convergence",
+	"name": "Sixtyfour Convergence",
+	"fontFamily": "\"Sixtyfour Convergence\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102toxukg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sixtyfour Convergence"
+		}
+	]
+}

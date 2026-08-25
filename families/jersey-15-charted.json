@@ -1,0 +1,16 @@
+{
+	"slug": "jersey-15-charted",
+	"name": "Jersey 15 Charted",
+	"fontFamily": "\"Jersey 15 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jersey15charted/v4/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv_pWw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jersey 15 Charted"
+		}
+	]
+}

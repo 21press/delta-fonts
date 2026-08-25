@@ -1,0 +1,16 @@
+{
+	"slug": "prociono",
+	"name": "Prociono",
+	"fontFamily": "Prociono, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/prociono/v28/r05YGLlR-KxAf9GGO_uuwjc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Prociono"
+		}
+	]
+}

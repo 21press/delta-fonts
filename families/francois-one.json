@@ -1,0 +1,16 @@
+{
+	"slug": "francois-one",
+	"name": "Francois One",
+	"fontFamily": "\"Francois One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/francoisone/v22/_Xmr-H4zszafZw3A-KPSZut9wQiR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Francois One"
+		}
+	]
+}

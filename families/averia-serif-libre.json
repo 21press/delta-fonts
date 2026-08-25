@@ -1,0 +1,46 @@
+{
+	"slug": "averia-serif-libre",
+	"name": "Averia Serif Libre",
+	"fontFamily": "\"Averia Serif Libre\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/averiaseriflibre/v19/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGCSmaxq0r.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Averia Serif Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/averiaseriflibre/v19/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Averia Serif Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/averiaseriflibre/v19/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0r.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Averia Serif Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/averiaseriflibre/v19/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzMmw50pXrY.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Averia Serif Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/averiaseriflibre/v19/neIUzD2ms4wxr6GvjeD0X88SHPyX2xYOpzuN4Yg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Averia Serif Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/averiaseriflibre/v19/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzM2xJ0pXrY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Averia Serif Libre"
+		}
+	]
+}

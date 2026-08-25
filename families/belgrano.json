@@ -1,0 +1,16 @@
+{
+	"slug": "belgrano",
+	"name": "Belgrano",
+	"fontFamily": "Belgrano, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/belgrano/v19/55xvey5tM9rwKWrJZfMCgLg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Belgrano"
+		}
+	]
+}

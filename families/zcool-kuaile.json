@@ -1,0 +1,16 @@
+{
+	"slug": "zcool-kuaile",
+	"name": "ZCOOL KuaiLe",
+	"fontFamily": "\"ZCOOL KuaiLe\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2moYby.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "ZCOOL KuaiLe"
+		}
+	]
+}

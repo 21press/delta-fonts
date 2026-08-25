@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-pau-cin-hau",
+	"name": "Noto Sans Pau Cin Hau",
+	"fontFamily": "\"Noto Sans Pau Cin Hau\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanspaucinhau/v21/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehIti0-r.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Pau Cin Hau"
+		}
+	]
+}

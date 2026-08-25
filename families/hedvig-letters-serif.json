@@ -1,0 +1,16 @@
+{
+	"slug": "hedvig-letters-serif",
+	"name": "Hedvig Letters Serif",
+	"fontFamily": "\"Hedvig Letters Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hedviglettersserif/v4/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEApeL3d.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hedvig Letters Serif"
+		}
+	]
+}

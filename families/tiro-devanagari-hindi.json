@@ -1,0 +1,22 @@
+{
+	"slug": "tiro-devanagari-hindi",
+	"name": "Tiro Devanagari Hindi",
+	"fontFamily": "\"Tiro Devanagari Hindi\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tirodevanagarihindi/v7/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vT-MP.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tiro Devanagari Hindi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tirodevanagarihindi/v7/55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vStMNVGk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tiro Devanagari Hindi"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "bungee-shade",
+	"name": "Bungee Shade",
+	"fontFamily": "\"Bungee Shade\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bungeeshade/v17/DtVkJxarWL0t2KdzK3oI_jkc6SjT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bungee Shade"
+		}
+	]
+}

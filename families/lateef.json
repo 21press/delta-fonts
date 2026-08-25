@@ -1,0 +1,52 @@
+{
+	"slug": "lateef",
+	"name": "Lateef",
+	"fontFamily": "Lateef, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESz6XVnNCxEvkb0bjyQaa7a.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESz6XVnNCxEvkb0Cj-Qaa7a.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESw6XVnNCxEvkb8oR2F.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESz6XVnNCxEvkb0Uj6Qaa7a.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESz6XVnNCxEvkb0fjmQaa7a.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESz6XVnNCxEvkb0GjiQaa7a.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/lateef/v35/hESz6XVnNCxEvkb0BjuQaa7a.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Lateef"
+		}
+	]
+}

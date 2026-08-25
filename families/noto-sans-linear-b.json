@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-linear-b",
+	"name": "Noto Sans Linear B",
+	"fontFamily": "\"Noto Sans Linear B\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslinearb/v18/HhyJU4wt9vSgfHoORYOiXOckKNB737Il2xME.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Linear B"
+		}
+	]
+}

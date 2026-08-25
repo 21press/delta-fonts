@@ -1,0 +1,16 @@
+{
+	"slug": "flow-rounded",
+	"name": "Flow Rounded",
+	"fontFamily": "\"Flow Rounded\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/flowrounded/v15/-zki91mtwsU9qlLiGwD4oQXHpp__.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Flow Rounded"
+		}
+	]
+}

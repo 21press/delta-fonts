@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-vinyl",
+	"name": "Rubik Vinyl",
+	"fontFamily": "\"Rubik Vinyl\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikvinyl/v1/iJWABXKIfDnIV4mQ5BfjvXXZzI0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Vinyl"
+		}
+	]
+}

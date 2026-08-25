@@ -1,0 +1,16 @@
+{
+	"slug": "tauri",
+	"name": "Tauri",
+	"fontFamily": "Tauri, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tauri/v20/TwMA-IISS0AM3LpSUnQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tauri"
+		}
+	]
+}

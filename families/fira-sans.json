@@ -1,0 +1,118 @@
+{
+	"slug": "fira-sans",
+	"name": "Fira Sans",
+	"fontFamily": "\"Fira Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9C4kDNxMZdWfMOD5Vn9LjJYTI.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnWKneRhf6.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnPKreRhf6.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9E4kDNxMZdWfMOD5Vvl4jL.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnZKveRhf6.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnSKzeRhf6.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnLK3eRhf6.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnMK7eRhf6.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnFK_eRhf6.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9A4kDNxMZdWfMOD5VvkrCqUTDfcQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrAGQCf4VFk.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrBiQyf4VFk.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9C4kDNxMZdWfMOD5VvkrjJYTI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrA6Qif4VFk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrAWRSf4VFk.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrByRCf4VFk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrBuRyf4VFk.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrBKRif4VFk.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans"
+		}
+	]
+}

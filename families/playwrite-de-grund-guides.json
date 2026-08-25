@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-de-grund-guides",
+	"name": "Playwrite DE Grund Guides",
+	"fontFamily": "\"Playwrite DE Grund Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX9o.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE Grund Guides"
+		}
+	]
+}

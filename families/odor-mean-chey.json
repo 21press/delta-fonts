@@ -1,0 +1,16 @@
+{
+	"slug": "odor-mean-chey",
+	"name": "Odor Mean Chey",
+	"fontFamily": "\"Odor Mean Chey\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/odormeanchey/v31/raxkHiKDttkTe1aOGcJMR1A_4lrf0Ts.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Odor Mean Chey"
+		}
+	]
+}

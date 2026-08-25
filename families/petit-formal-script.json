@@ -1,0 +1,16 @@
+{
+	"slug": "petit-formal-script",
+	"name": "Petit Formal Script",
+	"fontFamily": "\"Petit Formal Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/petitformalscript/v19/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkH7gPg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Petit Formal Script"
+		}
+	]
+}

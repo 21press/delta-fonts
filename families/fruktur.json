@@ -1,0 +1,22 @@
+{
+	"slug": "fruktur",
+	"name": "Fruktur",
+	"fontFamily": "Fruktur, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fruktur/v28/SZc53FHsOru5QYsMTzrMkA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fruktur"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fruktur/v28/SZc73FHsOru5QYsMTz_8kmLW.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fruktur"
+		}
+	]
+}

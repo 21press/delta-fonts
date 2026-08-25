@@ -1,0 +1,16 @@
+{
+	"slug": "belleza",
+	"name": "Belleza",
+	"fontFamily": "Belleza, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/belleza/v18/0nkoC9_pNeMfhX4BhcH4ag.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Belleza"
+		}
+	]
+}

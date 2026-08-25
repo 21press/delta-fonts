@@ -1,0 +1,16 @@
+{
+	"slug": "viaoda-libre",
+	"name": "Viaoda Libre",
+	"fontFamily": "\"Viaoda Libre\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/viaodalibre/v20/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Viaoda Libre"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "contrail-one",
+	"name": "Contrail One",
+	"fontFamily": "\"Contrail One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/contrailone/v21/eLGbP-j_JA-kG0_Zo51noaftYkHs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Contrail One"
+		}
+	]
+}

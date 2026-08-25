@@ -1,0 +1,16 @@
+{
+	"slug": "bowlby-one",
+	"name": "Bowlby One",
+	"fontFamily": "\"Bowlby One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bowlbyone/v25/taiPGmVuC4y96PFeqp8sqomI_A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bowlby One"
+		}
+	]
+}

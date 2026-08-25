@@ -1,0 +1,16 @@
+{
+	"slug": "passions-conflict",
+	"name": "Passions Conflict",
+	"fontFamily": "\"Passions Conflict\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/passionsconflict/v9/kmKnZrcrFhfafnWX9x0GuEC-zowow6NZaxM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Passions Conflict"
+		}
+	]
+}

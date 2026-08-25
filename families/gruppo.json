@@ -1,0 +1,16 @@
+{
+	"slug": "gruppo",
+	"name": "Gruppo",
+	"fontFamily": "Gruppo, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gruppo/v23/WwkfxPmzE06v_ZW1XnrB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gruppo"
+		}
+	]
+}

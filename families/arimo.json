@@ -1,0 +1,58 @@
+{
+	"slug": "arimo",
+	"name": "Arimo",
+	"fontFamily": "Arimo, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sMzZCDf9_T_10ZxCE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sMzZCDf9_T_10ZxCE.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sMzZCDf9_T_10ZxCE.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sMzZCDf9_T_10ZxCE.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sCzZCDf9_T_10c9CNkiA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sCzZCDf9_T_10c9CNkiA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sCzZCDf9_T_10c9CNkiA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Arimo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/arimo/v36/P5sCzZCDf9_T_10c9CNkiA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Arimo"
+		}
+	]
+}

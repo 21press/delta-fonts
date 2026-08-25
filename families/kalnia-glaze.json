@@ -1,0 +1,52 @@
+{
+	"slug": "kalnia-glaze",
+	"name": "Kalnia Glaze",
+	"fontFamily": "\"Kalnia Glaze\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kalniaglaze/v5/wlpjgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtEEwAhg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kalnia Glaze"
+		}
+	]
+}

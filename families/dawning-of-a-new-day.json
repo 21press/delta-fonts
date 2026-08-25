@@ -1,0 +1,16 @@
+{
+	"slug": "dawning-of-a-new-day",
+	"name": "Dawning of a New Day",
+	"fontFamily": "\"Dawning of a New Day\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dawningofanewday/v22/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8cj2M.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dawning of a New Day"
+		}
+	]
+}

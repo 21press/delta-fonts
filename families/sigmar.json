@@ -1,0 +1,16 @@
+{
+	"slug": "sigmar",
+	"name": "Sigmar",
+	"fontFamily": "Sigmar, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sigmar/v9/hv-XlzJgIE8a85pkamw2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sigmar"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "libertinus-serif-display",
+	"name": "Libertinus Serif Display",
+	"fontFamily": "\"Libertinus Serif Display\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/libertinusserifdisplay/v2/0FlHVOmbklub_P32Hm53RVREi5BsXWudOF_GpgcbhMdh.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libertinus Serif Display"
+		}
+	]
+}

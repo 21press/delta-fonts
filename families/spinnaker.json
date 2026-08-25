@@ -1,0 +1,16 @@
+{
+	"slug": "spinnaker",
+	"name": "Spinnaker",
+	"fontFamily": "Spinnaker, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/spinnaker/v21/w8gYH2oyX-I0_rvR6HmX23YK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Spinnaker"
+		}
+	]
+}

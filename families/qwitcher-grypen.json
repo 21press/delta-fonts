@@ -1,0 +1,22 @@
+{
+	"slug": "qwitcher-grypen",
+	"name": "Qwitcher Grypen",
+	"fontFamily": "\"Qwitcher Grypen\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/qwitchergrypen/v8/pxicypclp9tDilN9RrC5BSI1dZmbT2lB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Qwitcher Grypen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/qwitchergrypen/v8/pxiZypclp9tDilN9RrC5BSI1dZmT9ExUrU6t.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Qwitcher Grypen"
+		}
+	]
+}

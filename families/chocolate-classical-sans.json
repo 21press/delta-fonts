@@ -1,0 +1,16 @@
+{
+	"slug": "chocolate-classical-sans",
+	"name": "Chocolate Classical Sans",
+	"fontFamily": "\"Chocolate Classical Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chocolateclassicalsans/v16/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdzO4eI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chocolate Classical Sans"
+		}
+	]
+}

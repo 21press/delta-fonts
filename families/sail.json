@@ -1,0 +1,16 @@
+{
+	"slug": "sail",
+	"name": "Sail",
+	"fontFamily": "Sail, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sail/v17/DPEjYwiBxwYJJBPJAQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sail"
+		}
+	]
+}

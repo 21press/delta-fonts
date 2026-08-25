@@ -1,0 +1,16 @@
+{
+	"slug": "unica-one",
+	"name": "Unica One",
+	"fontFamily": "\"Unica One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/unicaone/v20/DPEuYwWHyAYGVTSmalsRcd3e.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Unica One"
+		}
+	]
+}

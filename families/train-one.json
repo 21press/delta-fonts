@@ -1,0 +1,16 @@
+{
+	"slug": "train-one",
+	"name": "Train One",
+	"fontFamily": "\"Train One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/trainone/v16/gyB-hwkiNtc6KnxUVjW3PazY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Train One"
+		}
+	]
+}

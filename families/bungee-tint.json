@@ -1,0 +1,16 @@
+{
+	"slug": "bungee-tint",
+	"name": "Bungee Tint",
+	"fontFamily": "\"Bungee Tint\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bungeetint/v3/J7abnpl_EGtUEuAJwN9WmotNOj0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bungee Tint"
+		}
+	]
+}

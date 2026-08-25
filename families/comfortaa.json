@@ -1,0 +1,40 @@
+{
+	"slug": "comfortaa",
+	"name": "Comfortaa",
+	"fontFamily": "Comfortaa, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/comfortaa/v47/1Ptsg8LJRfWJmhDAuUs4TYFq.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Comfortaa"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/comfortaa/v47/1Ptsg8LJRfWJmhDAuUs4TYFq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Comfortaa"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/comfortaa/v47/1Ptsg8LJRfWJmhDAuUs4TYFq.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Comfortaa"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/comfortaa/v47/1Ptsg8LJRfWJmhDAuUs4TYFq.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Comfortaa"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/comfortaa/v47/1Ptsg8LJRfWJmhDAuUs4TYFq.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Comfortaa"
+		}
+	]
+}

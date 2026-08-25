@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-id-guides",
+	"name": "Playwrite ID Guides",
+	"fontFamily": "\"Playwrite ID Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUInI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite ID Guides"
+		}
+	]
+}

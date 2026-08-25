@@ -1,0 +1,16 @@
+{
+	"slug": "nova-round",
+	"name": "Nova Round",
+	"fontFamily": "\"Nova Round\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novaround/v23/flU9Rqquw5UhEnlwTJYTUYDUeA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Round"
+		}
+	]
+}

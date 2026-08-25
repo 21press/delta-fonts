@@ -1,0 +1,16 @@
+{
+	"slug": "jacques-francois",
+	"name": "Jacques Francois",
+	"fontFamily": "\"Jacques Francois\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquesfrancois/v26/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcTgoA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacques Francois"
+		}
+	]
+}

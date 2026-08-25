@@ -1,0 +1,22 @@
+{
+	"slug": "zen-loop",
+	"name": "Zen Loop",
+	"fontFamily": "\"Zen Loop\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zenloop/v11/h0GrssK16UsnJwHsEJ90oQ0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Loop"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenloop/v11/h0GtssK16UsnJwHsEJ9xkQ__4g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Zen Loop"
+		}
+	]
+}

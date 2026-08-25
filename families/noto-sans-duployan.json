@@ -1,0 +1,22 @@
+{
+	"slug": "noto-sans-duployan",
+	"name": "Noto Sans Duployan",
+	"fontFamily": "\"Noto Sans Duployan\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansduployan/v19/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbEcgm.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Duployan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansduployan/v19/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0z5kce.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Duployan"
+		}
+	]
+}

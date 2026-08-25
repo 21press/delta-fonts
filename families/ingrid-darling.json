@@ -1,0 +1,16 @@
+{
+	"slug": "ingrid-darling",
+	"name": "Ingrid Darling",
+	"fontFamily": "\"Ingrid Darling\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ingriddarling/v7/LDIrapaJNxUtSuFdw-9yf4rCPvLJs78.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ingrid Darling"
+		}
+	]
+}

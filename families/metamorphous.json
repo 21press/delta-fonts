@@ -1,0 +1,16 @@
+{
+	"slug": "metamorphous",
+	"name": "Metamorphous",
+	"fontFamily": "Metamorphous, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/metamorphous/v22/Wnz8HA03aAXcC39ZEX5y133EOyqs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Metamorphous"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-bhaiksuki",
+	"name": "Noto Sans Bhaiksuki",
+	"fontFamily": "\"Noto Sans Bhaiksuki\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansbhaiksuki/v18/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrXedA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Bhaiksuki"
+		}
+	]
+}

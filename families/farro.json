@@ -1,0 +1,34 @@
+{
+	"slug": "farro",
+	"name": "Farro",
+	"fontFamily": "Farro, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3hNK65UEM.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Farro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/farro/v15/i7dEIFl3byGNHaVKFrs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Farro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa25Na65UEM.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Farro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3xM665UEM.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Farro"
+		}
+	]
+}

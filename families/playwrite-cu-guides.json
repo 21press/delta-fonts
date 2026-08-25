@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-cu-guides",
+	"name": "Playwrite CU Guides",
+	"fontFamily": "\"Playwrite CU Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOFo8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite CU Guides"
+		}
+	]
+}

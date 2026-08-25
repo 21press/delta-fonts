@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-ie-guides",
+	"name": "Playwrite IE Guides",
+	"fontFamily": "\"Playwrite IE Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUaN8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite IE Guides"
+		}
+	]
+}

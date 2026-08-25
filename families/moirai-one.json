@@ -1,0 +1,16 @@
+{
+	"slug": "moirai-one",
+	"name": "Moirai One",
+	"fontFamily": "\"Moirai One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/moiraione/v3/2sDbZGFUgJLJmby6xgNGf0KcBg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Moirai One"
+		}
+	]
+}

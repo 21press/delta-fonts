@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-glitch-pop",
+	"name": "Rubik Glitch Pop",
+	"fontFamily": "\"Rubik Glitch Pop\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MCwOnSA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Glitch Pop"
+		}
+	]
+}

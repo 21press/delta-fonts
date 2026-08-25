@@ -1,0 +1,16 @@
+{
+	"slug": "gloria-hallelujah",
+	"name": "Gloria Hallelujah",
+	"fontFamily": "\"Gloria Hallelujah\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gloriahallelujah/v24/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gloria Hallelujah"
+		}
+	]
+}

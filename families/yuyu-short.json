@@ -1,0 +1,16 @@
+{
+	"slug": "yuyu-short",
+	"name": "Yuyu Short",
+	"fontFamily": "\"Yuyu Short\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yuyushort/v1/LDI3apKZLAsqA9YV6Px0A-SMXA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yuyu Short"
+		}
+	]
+}

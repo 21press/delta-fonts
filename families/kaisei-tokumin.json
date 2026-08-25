@@ -1,0 +1,34 @@
+{
+	"slug": "kaisei-tokumin",
+	"name": "Kaisei Tokumin",
+	"fontFamily": "\"Kaisei Tokumin\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8sN5wdZg7xCwuMsylww2ZiQnJY3Fw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Tokumin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnqr_0kmrsM.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Tokumin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-UkmrsM.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Tokumin"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnr_-kkmrsM.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Kaisei Tokumin"
+		}
+	]
+}

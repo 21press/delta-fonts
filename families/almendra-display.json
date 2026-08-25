@@ -1,0 +1,16 @@
+{
+	"slug": "almendra-display",
+	"name": "Almendra Display",
+	"fontFamily": "\"Almendra Display\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/almendradisplay/v33/0FlPVOGWl1Sb4O3tETtADHRRlZhzbSjUTg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Almendra Display"
+		}
+	]
+}

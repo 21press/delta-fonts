@@ -1,0 +1,16 @@
+{
+	"slug": "ruthie",
+	"name": "Ruthie",
+	"fontFamily": "Ruthie, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ruthie/v28/gokvH63sGkdqXuUNkzR2.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ruthie"
+		}
+	]
+}

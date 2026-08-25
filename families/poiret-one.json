@@ -1,0 +1,16 @@
+{
+	"slug": "poiret-one",
+	"name": "Poiret One",
+	"fontFamily": "\"Poiret One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/poiretone/v18/UqyVK80NJXN4zfRgbdfbo55cVw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Poiret One"
+		}
+	]
+}

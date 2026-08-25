@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-balinese",
+	"name": "Noto Serif Balinese",
+	"fontFamily": "\"Noto Serif Balinese\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifbalinese/v21/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXdb8Ddw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Balinese"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "black-and-white-picture",
+	"name": "Black And White Picture",
+	"fontFamily": "\"Black And White Picture\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/blackandwhitepicture/v30/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8I.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Black And White Picture"
+		}
+	]
+}

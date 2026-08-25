@@ -1,0 +1,22 @@
+{
+	"slug": "im-fell-dw-pica",
+	"name": "IM Fell DW Pica",
+	"fontFamily": "\"IM Fell DW Pica\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnV.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IM Fell DW Pica"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/imfelldwpica/v16/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXlis.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "IM Fell DW Pica"
+		}
+	]
+}

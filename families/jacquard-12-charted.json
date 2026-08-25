@@ -1,0 +1,16 @@
+{
+	"slug": "jacquard-12-charted",
+	"name": "Jacquard 12 Charted",
+	"fontFamily": "\"Jacquard 12 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquard12charted/v4/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3OnZg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacquard 12 Charted"
+		}
+	]
+}

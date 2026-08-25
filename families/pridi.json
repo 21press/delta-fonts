@@ -1,0 +1,46 @@
+{
+	"slug": "pridi",
+	"name": "Pridi",
+	"fontFamily": "Pridi, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pridi/v15/2sDdZG5JnZLfkc1SiH0kT0A.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Pridi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pridi/v15/2sDdZG5JnZLfkc02i30kT0A.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Pridi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pridi/v15/2sDQZG5JnZLfkcWdqWg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pridi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pridi/v15/2sDdZG5JnZLfkc1uin0kT0A.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Pridi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pridi/v15/2sDdZG5JnZLfkc1CjX0kT0A.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Pridi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/pridi/v15/2sDdZG5JnZLfkc0mjH0kT0A.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Pridi"
+		}
+	]
+}

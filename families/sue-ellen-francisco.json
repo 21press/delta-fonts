@@ -1,0 +1,16 @@
+{
+	"slug": "sue-ellen-francisco",
+	"name": "Sue Ellen Francisco",
+	"fontFamily": "\"Sue Ellen Francisco\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sueellenfrancisco/v22/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9no1P2w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sue Ellen Francisco"
+		}
+	]
+}

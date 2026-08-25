@@ -1,0 +1,34 @@
+{
+	"slug": "anonymous-pro",
+	"name": "Anonymous Pro",
+	"fontFamily": "\"Anonymous Pro\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/anonymouspro/v22/rP2Bp2a15UIB7Un-bOeISG3pHls29Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Anonymous Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/anonymouspro/v22/rP2cp2a15UIB7Un-bOeISG3pFuAT4C7c7Q.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Anonymous Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/anonymouspro/v22/rP2fp2a15UIB7Un-bOeISG3pHl4G9wn5.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Anonymous Pro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/anonymouspro/v22/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs74u2.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Anonymous Pro"
+		}
+	]
+}

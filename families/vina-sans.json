@@ -1,0 +1,16 @@
+{
+	"slug": "vina-sans",
+	"name": "Vina Sans",
+	"fontFamily": "\"Vina Sans\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/vinasans/v8/m8JQjfZKf6-d2273MP7Dd5RA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Vina Sans"
+		}
+	]
+}

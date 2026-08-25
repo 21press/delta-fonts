@@ -1,0 +1,22 @@
+{
+	"slug": "dm-serif-text",
+	"name": "DM Serif Text",
+	"fontFamily": "\"DM Serif Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dmseriftext/v13/rnCu-xZa_krGokauCeNq1wWyWfSFXQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "DM Serif Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/dmseriftext/v13/rnCw-xZa_krGokauCeNq1wWyWfG1X1oN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "DM Serif Text"
+		}
+	]
+}

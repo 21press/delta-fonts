@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-ugaritic",
+	"name": "Noto Sans Ugaritic",
+	"fontFamily": "\"Noto Sans Ugaritic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansugaritic/v17/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUNRAJ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Ugaritic"
+		}
+	]
+}

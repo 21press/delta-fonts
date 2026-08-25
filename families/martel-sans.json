@@ -1,0 +1,52 @@
+{
+	"slug": "martel-sans",
+	"name": "Martel Sans",
+	"fontFamily": "\"Martel Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GxssGi7VdzDgKjM-4d8hAX5vuAH0g.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GxssGi7VdzDgKjM-4d8hBz5fuAH0g.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GsssGi7VdzDgKjM-4d8hjYx-4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GxssGi7VdzDgKjM-4d8hAH4_uAH0g.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GxssGi7VdzDgKjM-4d8hBj4vuAH0g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GxssGi7VdzDgKjM-4d8hB_4fuAH0g.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/martelsans/v14/h0GxssGi7VdzDgKjM-4d8hBb4PuAH0g.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Martel Sans"
+		}
+	]
+}

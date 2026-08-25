@@ -1,0 +1,16 @@
+{
+	"slug": "devonshire",
+	"name": "Devonshire",
+	"fontFamily": "Devonshire, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/devonshire/v29/46kqlbDwWirWr4gtBD2Bb0Jg0g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Devonshire"
+		}
+	]
+}

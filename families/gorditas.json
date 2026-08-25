@@ -1,0 +1,22 @@
+{
+	"slug": "gorditas",
+	"name": "Gorditas",
+	"fontFamily": "Gorditas, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtTDvB68.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gorditas"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gorditas/v24/ll84K2aTVD26DsPEtThUIroPtgs.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gorditas"
+		}
+	]
+}

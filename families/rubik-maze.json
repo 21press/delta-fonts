@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-maze",
+	"name": "Rubik Maze",
+	"fontFamily": "\"Rubik Maze\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMXnonA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Maze"
+		}
+	]
+}

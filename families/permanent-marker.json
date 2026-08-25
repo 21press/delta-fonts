@@ -1,0 +1,16 @@
+{
+	"slug": "permanent-marker",
+	"name": "Permanent Marker",
+	"fontFamily": "\"Permanent Marker\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Permanent Marker"
+		}
+	]
+}

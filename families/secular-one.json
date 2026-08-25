@@ -1,0 +1,16 @@
+{
+	"slug": "secular-one",
+	"name": "Secular One",
+	"fontFamily": "\"Secular One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/secularone/v14/8QINdiTajsj_87rMuMdKyqDiOOg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Secular One"
+		}
+	]
+}

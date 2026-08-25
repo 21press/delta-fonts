@@ -1,0 +1,16 @@
+{
+	"slug": "micro-5-charted",
+	"name": "Micro 5 Charted",
+	"fontFamily": "\"Micro 5 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxE2QkEI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Micro 5 Charted"
+		}
+	]
+}

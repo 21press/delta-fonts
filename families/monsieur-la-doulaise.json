@@ -1,0 +1,16 @@
+{
+	"slug": "monsieur-la-doulaise",
+	"name": "Monsieur La Doulaise",
+	"fontFamily": "\"Monsieur La Doulaise\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/monsieurladoulaise/v20/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Monsieur La Doulaise"
+		}
+	]
+}

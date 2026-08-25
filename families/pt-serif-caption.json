@@ -1,0 +1,22 @@
+{
+	"slug": "pt-serif-caption",
+	"name": "PT Serif Caption",
+	"fontFamily": "\"PT Serif Caption\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ptserifcaption/v18/ieVl2ZhbGCW-JoW6S34pSDpqYKU019K7DQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "PT Serif Caption"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/ptserifcaption/v18/ieVj2ZhbGCW-JoW6S34pSDpqYKU019eLDwM9.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "PT Serif Caption"
+		}
+	]
+}

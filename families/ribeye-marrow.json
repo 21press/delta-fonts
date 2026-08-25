@@ -1,0 +1,16 @@
+{
+	"slug": "ribeye-marrow",
+	"name": "Ribeye Marrow",
+	"fontFamily": "\"Ribeye Marrow\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ribeyemarrow/v26/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ribeye Marrow"
+		}
+	]
+}

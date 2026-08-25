@@ -1,0 +1,16 @@
+{
+	"slug": "creepster",
+	"name": "Creepster",
+	"fontFamily": "Creepster, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn35.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Creepster"
+		}
+	]
+}

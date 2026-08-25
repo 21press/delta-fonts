@@ -1,0 +1,16 @@
+{
+	"slug": "chilanka",
+	"name": "Chilanka",
+	"fontFamily": "Chilanka, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chilanka/v23/WWXRlj2DZQiMJYaYRoJXKdA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chilanka"
+		}
+	]
+}

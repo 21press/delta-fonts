@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-gemstones",
+	"name": "Rubik Gemstones",
+	"fontFamily": "\"Rubik Gemstones\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-jyPH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Gemstones"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "asar",
+	"name": "Asar",
+	"fontFamily": "Asar, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/asar/v24/sZlLdRyI6TBIbkEaDQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Asar"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "geostar",
+	"name": "Geostar",
+	"fontFamily": "Geostar, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOfhS23-w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Geostar"
+		}
+	]
+}

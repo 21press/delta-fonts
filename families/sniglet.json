@@ -1,0 +1,22 @@
+{
+	"slug": "sniglet",
+	"name": "Sniglet",
+	"fontFamily": "Sniglet, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJ9C6hYQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sniglet"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sniglet/v18/cIf4MaFLtkE3UjaJ_ImHdGYmnQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Sniglet"
+		}
+	]
+}

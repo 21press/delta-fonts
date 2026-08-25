@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-80s-fade",
+	"name": "Rubik 80s Fade",
+	"fontFamily": "\"Rubik 80s Fade\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiH3m7M.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik 80s Fade"
+		}
+	]
+}

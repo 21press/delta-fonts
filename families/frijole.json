@@ -1,0 +1,16 @@
+{
+	"slug": "frijole",
+	"name": "Frijole",
+	"fontFamily": "Frijole, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/frijole/v15/uU9PCBUR8oakM2BQ3xTR3w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Frijole"
+		}
+	]
+}

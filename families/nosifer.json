@@ -1,0 +1,16 @@
+{
+	"slug": "nosifer",
+	"name": "Nosifer",
+	"fontFamily": "Nosifer, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nosifer/v23/ZGjXol5JTp0g5bxZWCpbVQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nosifer"
+		}
+	]
+}

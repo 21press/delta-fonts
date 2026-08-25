@@ -1,0 +1,16 @@
+{
+	"slug": "praise",
+	"name": "Praise",
+	"fontFamily": "Praise, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/praise/v9/qkBUXvUZ-cnFXcFCCfm7.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Praise"
+		}
+	]
+}

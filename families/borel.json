@@ -1,0 +1,16 @@
+{
+	"slug": "borel",
+	"name": "Borel",
+	"fontFamily": "Borel, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/borel/v10/6qLOKZsftAPisjsmaSI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Borel"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"slug": "zen-old-mincho",
+	"name": "Zen Old Mincho",
+	"fontFamily": "\"Zen Old Mincho\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zenoldmincho/v13/tss0ApVaYytLwxTqcxfMyBveybbwiXw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Old Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4Dqmld-9I.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Old Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4vrWld-9I.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Old Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5LrGld-9I.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Old Mincho"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5zrmld-9I.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Zen Old Mincho"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "lancelot",
+	"name": "Lancelot",
+	"fontFamily": "Lancelot, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4KY_zp4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lancelot"
+		}
+	]
+}

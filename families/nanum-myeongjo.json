@@ -1,0 +1,28 @@
+{
+	"slug": "nanum-myeongjo",
+	"name": "Nanum Myeongjo",
+	"fontFamily": "\"Nanum Myeongjo\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy2LscnU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Myeongjo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2Azr_E.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Myeongjo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGAzr_E.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Myeongjo"
+		}
+	]
+}

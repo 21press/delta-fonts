@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-tamil-supplement",
+	"name": "Noto Sans Tamil Supplement",
+	"fontFamily": "\"Noto Sans Tamil Supplement\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanstamilsupplement/v23/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vrC-I.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Tamil Supplement"
+		}
+	]
+}

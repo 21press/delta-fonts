@@ -1,0 +1,22 @@
+{
+	"slug": "flamenco",
+	"name": "Flamenco",
+	"fontFamily": "Flamenco, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/flamenco/v19/neIPzCehqYguo67ssZ0qNLk1cJA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Flamenco"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/flamenco/v19/neIIzCehqYguo67ssZWBFqw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Flamenco"
+		}
+	]
+}

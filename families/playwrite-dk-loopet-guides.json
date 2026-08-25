@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-dk-loopet-guides",
+	"name": "Playwrite DK Loopet Guides",
+	"fontFamily": "\"Playwrite DK Loopet Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tj.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DK Loopet Guides"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"slug": "zilla-slab",
+	"name": "Zilla Slab",
+	"fontFamily": "\"Zilla Slab\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYpEY6HOpWw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFajo6_Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ6HOpWw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYuUe6HOpWw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CVHaZWXB3.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj8K_1SM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CDHeZWXB3.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CIHCZWXB3.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Zilla Slab"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CRHGZWXB3.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Zilla Slab"
+		}
+	]
+}

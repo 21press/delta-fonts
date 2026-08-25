@@ -1,0 +1,106 @@
+{
+	"slug": "literata",
+	"name": "Literata",
+	"fontFamily": "Literata, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or38Q6P12-iJxAIgLa78DkrbXsDgk0oVDaDlbJ5W.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/literata/v40/or3yQ6P12-iJxAIgLYT1PLs1Zd0nfUwAbeGVKq5U5Ck.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Literata"
+		}
+	]
+}

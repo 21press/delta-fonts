@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-hatran",
+	"name": "Noto Sans Hatran",
+	"fontFamily": "\"Noto Sans Hatran\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanshatran/v17/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qMg9rg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Hatran"
+		}
+	]
+}

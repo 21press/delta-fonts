@@ -1,0 +1,16 @@
+{
+	"slug": "jaini",
+	"name": "Jaini",
+	"fontFamily": "Jaini, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jaini/v1/fC1vPYJMbGHQzHmJIec.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jaini"
+		}
+	]
+}

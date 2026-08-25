@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-masaram-gondi",
+	"name": "Noto Sans Masaram Gondi",
+	"fontFamily": "\"Noto Sans Masaram Gondi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmasaramgondi/v19/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGZ5xM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Masaram Gondi"
+		}
+	]
+}

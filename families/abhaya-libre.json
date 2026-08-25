@@ -1,0 +1,40 @@
+{
+	"slug": "abhaya-libre",
+	"name": "Abhaya Libre",
+	"fontFamily": "\"Abhaya Libre\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEQfEnX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Abhaya Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2rCrdZJ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Abhaya Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23CrdZJ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Abhaya Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zCrdZJ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Abhaya Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_CrdZJ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Abhaya Libre"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "unlock",
+	"name": "Unlock",
+	"fontFamily": "Unlock, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/unlock/v28/7Au-p_8ykD-cDl72LwLT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Unlock"
+		}
+	]
+}

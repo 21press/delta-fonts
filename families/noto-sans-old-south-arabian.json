@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-south-arabian",
+	"name": "Noto Sans Old South Arabian",
+	"fontFamily": "\"Noto Sans Old South Arabian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansoldsoutharabian/v17/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB0-FC.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old South Arabian"
+		}
+	]
+}

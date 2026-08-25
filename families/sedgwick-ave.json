@@ -1,0 +1,16 @@
+{
+	"slug": "sedgwick-ave",
+	"name": "Sedgwick Ave",
+	"fontFamily": "\"Sedgwick Ave\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sedgwickave/v13/uK_04rKEYuguzAcSYRdWTJqMWWI0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sedgwick Ave"
+		}
+	]
+}

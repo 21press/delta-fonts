@@ -1,0 +1,16 @@
+{
+	"slug": "libre-caslon-display",
+	"name": "Libre Caslon Display",
+	"fontFamily": "\"Libre Caslon Display\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Libre Caslon Display"
+		}
+	]
+}

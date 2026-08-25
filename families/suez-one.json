@@ -1,0 +1,16 @@
+{
+	"slug": "suez-one",
+	"name": "Suez One",
+	"fontFamily": "\"Suez One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/suezone/v15/taiJGmd_EZ6rqscQgOFOmos.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Suez One"
+		}
+	]
+}

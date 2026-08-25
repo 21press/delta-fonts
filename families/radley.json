@@ -1,0 +1,22 @@
+{
+	"slug": "radley",
+	"name": "Radley",
+	"fontFamily": "Radley, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/radley/v24/LYjDdGzinEIjCN1NpwNF.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Radley"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/radley/v24/LYjBdGzinEIjCN1NojNHjV8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Radley"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "alumni-sans-inline-one",
+	"name": "Alumni Sans Inline One",
+	"fontFamily": "\"Alumni Sans Inline One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3cTcw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alumni Sans Inline One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3IjcZb1.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Alumni Sans Inline One"
+		}
+	]
+}

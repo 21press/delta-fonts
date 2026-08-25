@@ -1,0 +1,16 @@
+{
+	"slug": "miniver",
+	"name": "Miniver",
+	"fontFamily": "Miniver, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/miniver/v27/eLGcP-PxIg-5H0vC37oIyg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Miniver"
+		}
+	]
+}

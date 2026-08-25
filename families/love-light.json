@@ -1,0 +1,16 @@
+{
+	"slug": "love-light",
+	"name": "Love Light",
+	"fontFamily": "\"Love Light\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDvKHIyA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Love Light"
+		}
+	]
+}

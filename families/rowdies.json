@@ -1,0 +1,28 @@
+{
+	"slug": "rowdies",
+	"name": "Rowdies",
+	"fontFamily": "Rowdies, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219hth1On4KA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Rowdies"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rowdies/v19/ptRJTieMYPNBAK21_rBDwQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rowdies"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219gtm1On4KA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Rowdies"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "antic-slab",
+	"name": "Antic Slab",
+	"fontFamily": "\"Antic Slab\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/anticslab/v17/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Antic Slab"
+		}
+	]
+}

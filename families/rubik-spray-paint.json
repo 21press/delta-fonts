@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-spray-paint",
+	"name": "Rubik Spray Paint",
+	"fontFamily": "\"Rubik Spray Paint\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikspraypaint/v1/WnzhHBAoeBPUDTB4EWR82y6EXWPH-So5SIc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Spray Paint"
+		}
+	]
+}

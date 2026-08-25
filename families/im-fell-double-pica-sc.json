@@ -1,0 +1,16 @@
+{
+	"slug": "im-fell-double-pica-sc",
+	"name": "IM Fell Double Pica SC",
+	"fontFamily": "\"IM Fell Double Pica SC\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YoOew.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "IM Fell Double Pica SC"
+		}
+	]
+}

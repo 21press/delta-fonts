@@ -1,0 +1,16 @@
+{
+	"slug": "noto-color-emoji",
+	"name": "Noto Color Emoji",
+	"fontFamily": "\"Noto Color Emoji\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notocoloremoji/v40/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Color Emoji"
+		}
+	]
+}

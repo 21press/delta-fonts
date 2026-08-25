@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-pe-guides",
+	"name": "Playwrite PE Guides",
+	"fontFamily": "\"Playwrite PE Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70wwyk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite PE Guides"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "inspiration",
+	"name": "Inspiration",
+	"fontFamily": "Inspiration, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/inspiration/v7/x3dkckPPZa6L4wIg5cZOEsoBlys.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Inspiration"
+		}
+	]
+}

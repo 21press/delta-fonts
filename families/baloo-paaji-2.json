@@ -1,0 +1,40 @@
+{
+	"slug": "baloo-paaji-2",
+	"name": "Baloo Paaji 2",
+	"fontFamily": "\"Baloo Paaji 2\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baloopaaji2/v29/i7dMIFFzbz-QHZUdV9_UGWZuUFWaHg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Paaji 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloopaaji2/v29/i7dMIFFzbz-QHZUdV9_UGWZuUFWaHg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Paaji 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloopaaji2/v29/i7dMIFFzbz-QHZUdV9_UGWZuUFWaHg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Paaji 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloopaaji2/v29/i7dMIFFzbz-QHZUdV9_UGWZuUFWaHg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Paaji 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloopaaji2/v29/i7dMIFFzbz-QHZUdV9_UGWZuUFWaHg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Paaji 2"
+		}
+	]
+}

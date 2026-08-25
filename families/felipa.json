@@ -1,0 +1,16 @@
+{
+	"slug": "felipa",
+	"name": "Felipa",
+	"fontFamily": "Felipa, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_AT96F.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Felipa"
+		}
+	]
+}

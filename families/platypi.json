@@ -1,0 +1,82 @@
+{
+	"slug": "platypi",
+	"name": "Platypi",
+	"fontFamily": "Platypi, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr3mSGU7pMlaX6-FgWGMQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr3mSGU7pMlaX6-FgWGMQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr3mSGU7pMlaX6-FgWGMQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr3mSGU7pMlaX6-FgWGMQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr3mSGU7pMlaX6-FgWGMQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr3mSGU7pMlaX6-FgWGMQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr1mSGU7pMlaX6-FgC2M-SX.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr1mSGU7pMlaX6-FgC2M-SX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr1mSGU7pMlaX6-FgC2M-SX.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr1mSGU7pMlaX6-FgC2M-SX.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr1mSGU7pMlaX6-FgC2M-SX.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Platypi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/platypi/v6/bMr1mSGU7pMlaX6-FgC2M-SX.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Platypi"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"slug": "reddit-sans-condensed",
+	"name": "Reddit Sans Condensed",
+	"fontFamily": "\"Reddit Sans Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/redditsanscondensed/v5/m8JMjepOc6WYkkm2Dey9A5QGAQXmuL3va5I1auJH.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Reddit Sans Condensed"
+		}
+	]
+}

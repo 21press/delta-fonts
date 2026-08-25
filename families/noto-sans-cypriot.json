@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-cypriot",
+	"name": "Noto Sans Cypriot",
+	"fontFamily": "\"Noto Sans Cypriot\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanscypriot/v20/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyIrIZI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Cypriot"
+		}
+	]
+}

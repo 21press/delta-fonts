@@ -1,0 +1,16 @@
+{
+	"slug": "passero-one",
+	"name": "Passero One",
+	"fontFamily": "\"Passero One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/passeroone/v28/JTUTjIko8DOq5FeaeEAjgH5G7gs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Passero One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "beth-ellen",
+	"name": "Beth Ellen",
+	"fontFamily": "\"Beth Ellen\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bethellen/v22/WwkbxPW2BE-3rb_JNT-qIIcoVQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Beth Ellen"
+		}
+	]
+}

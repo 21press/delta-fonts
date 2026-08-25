@@ -1,0 +1,70 @@
+{
+	"slug": "teachers",
+	"name": "Teachers",
+	"fontFamily": "Teachers, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ckBXKVncXVmUGsgRY9yL4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ckBXKVncXVmUGsgRY9yL4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ckBXKVncXVmUGsgRY9yL4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ckBXKVncXVmUGsgRY9yL4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ckBXKVncXVmUGsgRY9yL4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ciBXKVncXVmUGsgRY4-LyYhw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ciBXKVncXVmUGsgRY4-LyYhw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ciBXKVncXVmUGsgRY4-LyYhw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ciBXKVncXVmUGsgRY4-LyYhw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Teachers"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/teachers/v6/H4ciBXKVncXVmUGsgRY4-LyYhw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Teachers"
+		}
+	]
+}

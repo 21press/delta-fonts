@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-miao",
+	"name": "Noto Sans Miao",
+	"fontFamily": "\"Noto Sans Miao\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmiao/v19/Dxxz8jmXMW75w3OmoDXVV4zyZXjnW4Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Miao"
+		}
+	]
+}

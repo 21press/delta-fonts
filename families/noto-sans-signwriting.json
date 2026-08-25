@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-signwriting",
+	"name": "Noto Sans SignWriting",
+	"fontFamily": "\"Noto Sans SignWriting\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanssignwriting/v5/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikFlqB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans SignWriting"
+		}
+	]
+}

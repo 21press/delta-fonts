@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-phoenician",
+	"name": "Noto Sans Phoenician",
+	"fontFamily": "\"Noto Sans Phoenician\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansphoenician/v18/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7OqN4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Phoenician"
+		}
+	]
+}

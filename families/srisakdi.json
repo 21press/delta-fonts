@@ -1,0 +1,22 @@
+{
+	"slug": "srisakdi",
+	"name": "Srisakdi",
+	"fontFamily": "Srisakdi, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/srisakdi/v18/yMJRMIlvdpDbkB0A-gq7dy0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Srisakdi"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/srisakdi/v18/yMJWMIlvdpDbkB0A-gIAUjh2qtA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Srisakdi"
+		}
+	]
+}

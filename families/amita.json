@@ -1,0 +1,22 @@
+{
+	"slug": "amita",
+	"name": "Amita",
+	"fontFamily": "Amita, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/amita/v20/HhyaU5si9Om7PTloC_U.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Amita"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/amita/v20/HhyXU5si9Om7PTHTLuCFMIs.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Amita"
+		}
+	]
+}

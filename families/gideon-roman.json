@@ -1,0 +1,16 @@
+{
+	"slug": "gideon-roman",
+	"name": "Gideon Roman",
+	"fontFamily": "\"Gideon Roman\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gideonroman/v13/e3tmeuGrVOys8sxzZgWlmXoQfEnX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gideon Roman"
+		}
+	]
+}

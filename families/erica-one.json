@@ -1,0 +1,16 @@
+{
+	"slug": "erica-one",
+	"name": "Erica One",
+	"fontFamily": "\"Erica One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGDFXEXN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Erica One"
+		}
+	]
+}

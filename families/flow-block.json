@@ -1,0 +1,16 @@
+{
+	"slug": "flow-block",
+	"name": "Flow Block",
+	"fontFamily": "\"Flow Block\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/flowblock/v15/wlp0gwfPCEB65UmTk-d6yWFvbQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Flow Block"
+		}
+	]
+}

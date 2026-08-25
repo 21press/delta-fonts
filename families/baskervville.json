@@ -1,0 +1,58 @@
+{
+	"slug": "baskervville",
+	"name": "Baskervville",
+	"fontFamily": "Baskervville, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Baskervville"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baskervville/v20/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Baskervville"
+		}
+	]
+}

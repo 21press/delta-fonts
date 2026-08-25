@@ -1,0 +1,22 @@
+{
+	"slug": "fuzzy-bubbles",
+	"name": "Fuzzy Bubbles",
+	"fontFamily": "\"Fuzzy Bubbles\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLGKZMbrgv9pwtjPEVNV0F2BnTzZg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fuzzy Bubbles"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLbKZMbrgv9pwtjPEVNV0F2Ds_WcxQKZw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fuzzy Bubbles"
+		}
+	]
+}

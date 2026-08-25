@@ -1,0 +1,16 @@
+{
+	"slug": "julius-sans-one",
+	"name": "Julius Sans One",
+	"fontFamily": "\"Julius Sans One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/juliussansone/v20/1Pt2g8TAX_SGgBGUi0tGOYEga5WOwnsX.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Julius Sans One"
+		}
+	]
+}

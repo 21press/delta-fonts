@@ -1,0 +1,40 @@
+{
+	"slug": "noto-traditional-nushu",
+	"name": "Noto Traditional Nushu",
+	"fontFamily": "\"Noto Traditional Nushu\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nototraditionalnushu/v23/SZco3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67F0p_GQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Traditional Nushu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nototraditionalnushu/v23/SZco3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67F0p_GQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Traditional Nushu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nototraditionalnushu/v23/SZco3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67F0p_GQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Traditional Nushu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nototraditionalnushu/v23/SZco3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67F0p_GQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Traditional Nushu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/nototraditionalnushu/v23/SZco3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67F0p_GQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Traditional Nushu"
+		}
+	]
+}

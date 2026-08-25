@@ -1,0 +1,16 @@
+{
+	"slug": "galindo",
+	"name": "Galindo",
+	"fontFamily": "Galindo, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/galindo/v26/HI_KiYMeLqVKqwyuc5boRw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Galindo"
+		}
+	]
+}

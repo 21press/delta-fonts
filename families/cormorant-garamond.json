@@ -1,0 +1,70 @@
+{
+	"slug": "cormorant-garamond",
+	"name": "Cormorant Garamond",
+	"fontFamily": "\"Cormorant Garamond\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Cormorant Garamond"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Cormorant Garamond"
+		}
+	]
+}

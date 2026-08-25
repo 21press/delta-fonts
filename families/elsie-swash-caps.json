@@ -1,0 +1,22 @@
+{
+	"slug": "elsie-swash-caps",
+	"name": "Elsie Swash Caps",
+	"fontFamily": "\"Elsie Swash Caps\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/elsieswashcaps/v25/845DNN8xGZyVX5MVo_upKf7KnjK0Te3fKQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Elsie Swash Caps"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/elsieswashcaps/v25/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGqNTw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Elsie Swash Caps"
+		}
+	]
+}

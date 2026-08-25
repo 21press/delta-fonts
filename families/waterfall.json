@@ -1,0 +1,16 @@
+{
+	"slug": "waterfall",
+	"name": "Waterfall",
+	"fontFamily": "Waterfall, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/waterfall/v8/MCoRzAfo293fACdFKcwo3bv9.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Waterfall"
+		}
+	]
+}

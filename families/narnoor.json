@@ -1,0 +1,40 @@
+{
+	"slug": "narnoor",
+	"name": "Narnoor",
+	"fontFamily": "Narnoor, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyP9C6hYQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Narnoor"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_N2CdGYmnQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Narnoor"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_PGFdGYmnQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Narnoor"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_JWEdGYmnQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Narnoor"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/narnoor/v10/cIf4MaFWuVo-UTyP_ImHdGYmnQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Narnoor"
+		}
+	]
+}

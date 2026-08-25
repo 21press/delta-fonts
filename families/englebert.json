@@ -1,0 +1,16 @@
+{
+	"slug": "englebert",
+	"name": "Englebert",
+	"fontFamily": "Englebert, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/englebert/v24/xn7iYH8w2XGrC8AR4HSBSP3Z.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Englebert"
+		}
+	]
+}

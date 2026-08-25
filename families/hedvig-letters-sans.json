@@ -1,0 +1,16 @@
+{
+	"slug": "hedvig-letters-sans",
+	"name": "Hedvig Letters Sans",
+	"fontFamily": "\"Hedvig Letters Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/hedvigletterssans/v2/CHy_V_PfGVjobSBkihHWDT98RVp37w8jcJpH3A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Hedvig Letters Sans"
+		}
+	]
+}

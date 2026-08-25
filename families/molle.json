@@ -1,0 +1,16 @@
+{
+	"slug": "molle",
+	"name": "Molle",
+	"fontFamily": "Molle, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/molle/v25/E21n_dL5hOXFhWEsbz8sVg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Molle"
+		}
+	]
+}

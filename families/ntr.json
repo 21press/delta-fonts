@@ -1,0 +1,16 @@
+{
+	"slug": "ntr",
+	"name": "NTR",
+	"fontFamily": "NTR, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ntr/v19/RLpzK5Xy0ZjSH2Jt.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "NTR"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "charmonman",
+	"name": "Charmonman",
+	"fontFamily": "Charmonman, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/charmonman/v20/MjQDmiR3vP_nuxDv47jiaJaivQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Charmonman"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/charmonman/v20/MjQAmiR3vP_nuxDv47jiYC2HqLhA9Q.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Charmonman"
+		}
+	]
+}

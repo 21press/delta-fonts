@@ -1,0 +1,34 @@
+{
+	"slug": "tinos",
+	"name": "Tinos",
+	"fontFamily": "Tinos, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tinos/v26/buE4poGnedXvwjX7fmQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tinos"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tinos/v26/buE1poGnedXvwj1AW3Fu0C8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tinos"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tinos/v26/buE2poGnedXvwjX-TmZJ9Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tinos"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tinos/v26/buEzpoGnedXvwjX-Rt1s4C0f_Q.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Tinos"
+		}
+	]
+}

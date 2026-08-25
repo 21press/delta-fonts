@@ -1,0 +1,64 @@
+{
+	"slug": "bitcount-prop-single",
+	"name": "Bitcount Prop Single",
+	"fontFamily": "\"Bitcount Prop Single\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-9XIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFBpVzZ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Prop Single"
+		}
+	]
+}

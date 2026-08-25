@@ -1,0 +1,16 @@
+{
+	"slug": "swanky-and-moo-moo",
+	"name": "Swanky and Moo Moo",
+	"fontFamily": "\"Swanky and Moo Moo\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/swankyandmoomoo/v24/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kksrnl.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Swanky and Moo Moo"
+		}
+	]
+}

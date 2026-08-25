@@ -1,0 +1,118 @@
+{
+	"slug": "taviraj",
+	"name": "Taviraj",
+	"fontFamily": "Taviraj, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcbv8Cj3ylylTXzRIobUMl0.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzRCYKR-5RgA.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzREIJR-5RgA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcZv8Cj3ylylTXzTOkrUg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzRBoIR-5RgA.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzRDYPR-5RgA.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzRFIOR-5RgA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzRE4NR-5RgA.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahccv8Cj3ylylTXzRGoMR-5RgA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcdv8Cj3ylylTXzTOwTM_l2pUk.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwTn-hhgmy9.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwT--thgmy9.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcbv8Cj3ylylTXzTOwbUMl0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwTo-phgmy9.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwTj-1hgmy9.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwT6-xhgmy9.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwT9-9hgmy9.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/taviraj/v15/ahcev8Cj3ylylTXzTOwT0-5hgmy9.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Taviraj"
+		}
+	]
+}

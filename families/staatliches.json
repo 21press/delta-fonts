@@ -1,0 +1,16 @@
+{
+	"slug": "staatliches",
+	"name": "Staatliches",
+	"fontFamily": "Staatliches, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/staatliches/v15/HI_OiY8KO6hCsQSoAPmtMYebvpA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Staatliches"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "dela-gothic-one",
+	"name": "Dela Gothic One",
+	"fontFamily": "\"Dela Gothic One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/delagothicone/v19/hESp6XxvMDRA-2eD0lXpDa6QkBA2QkEI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Dela Gothic One"
+		}
+	]
+}

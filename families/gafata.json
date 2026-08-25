@@ -1,0 +1,16 @@
+{
+	"slug": "gafata",
+	"name": "Gafata",
+	"fontFamily": "Gafata, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gafata/v22/XRXV3I6Cn0VJKonINeaB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gafata"
+		}
+	]
+}

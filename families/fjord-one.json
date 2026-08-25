@@ -1,0 +1,16 @@
+{
+	"slug": "fjord-one",
+	"name": "Fjord One",
+	"fontFamily": "\"Fjord One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fjordone/v22/zOL-4pbEnKBY_9S1jNKb7uRB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fjord One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "goblin-one",
+	"name": "Goblin One",
+	"fontFamily": "\"Goblin One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/goblinone/v28/CSR64z1ZnOqZRjRCBVY_fOAKTQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Goblin One"
+		}
+	]
+}

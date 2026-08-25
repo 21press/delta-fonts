@@ -1,0 +1,34 @@
+{
+	"slug": "courier-prime",
+	"name": "Courier Prime",
+	"fontFamily": "\"Courier Prime\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/courierprime/v11/u-450q2lgwslOqpF_6gQ8kELawFpWg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Courier Prime"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/courierprime/v11/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-Dfqw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Courier Prime"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/courierprime/v11/u-4n0q2lgwslOqpF_6gQ8kELawRZWMf6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Courier Prime"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/courierprime/v11/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvqdns.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Courier Prime"
+		}
+	]
+}

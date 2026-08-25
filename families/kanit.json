@@ -1,0 +1,118 @@
+{
+	"slug": "kanit",
+	"name": "Kanit",
+	"fontFamily": "Kanit, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcr72KwKAcA.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOhWnVaE.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-ORWnVaE.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKZ-Go6G5tXcraVGwA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5mOBWnVaE.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5KPxWnVaE.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4uPhWnVaE.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4yPRWnVaE.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4WPBWnVaE.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKV-Go6G5tXcraQI2GwcoRE.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI82hZaNhMQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6miZaNhMQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcraQKwKAcA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI_GjZaNhMQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI92kZaNhMQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI7mlZaNhMQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6WmZaNhMQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI4GnZaNhMQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Kanit"
+		}
+	]
+}

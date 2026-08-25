@@ -1,0 +1,16 @@
+{
+	"slug": "tilt-warp",
+	"name": "Tilt Warp",
+	"fontFamily": "\"Tilt Warp\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tiltwarp/v18/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZQB2C1Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tilt Warp"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"slug": "expletus-sans",
+	"name": "Expletus Sans",
+	"fontFamily": "\"Expletus Sans\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Expletus Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/expletussans/v31/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Expletus Sans"
+		}
+	]
+}

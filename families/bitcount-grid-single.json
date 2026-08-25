@@ -1,0 +1,64 @@
+{
+	"slug": "bitcount-grid-single",
+	"name": "Bitcount Grid Single",
+	"fontFamily": "\"Bitcount Grid Single\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8Gfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAA3YiMW.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Single"
+		}
+	]
+}

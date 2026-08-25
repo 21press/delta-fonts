@@ -1,0 +1,16 @@
+{
+	"slug": "crafty-girls",
+	"name": "Crafty Girls",
+	"fontFamily": "\"Crafty Girls\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Crafty Girls"
+		}
+	]
+}

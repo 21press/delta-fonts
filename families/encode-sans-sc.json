@@ -1,0 +1,64 @@
+{
+	"slug": "encode-sans-sc",
+	"name": "Encode Sans SC",
+	"fontFamily": "\"Encode Sans SC\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/encodesanssc/v14/jVye7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_P3ukYU.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Encode Sans SC"
+		}
+	]
+}

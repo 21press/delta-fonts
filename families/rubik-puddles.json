@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-puddles",
+	"name": "Rubik Puddles",
+	"fontFamily": "\"Rubik Puddles\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfe-wA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Puddles"
+		}
+	]
+}

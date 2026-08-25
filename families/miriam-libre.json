@@ -1,0 +1,34 @@
+{
+	"slug": "miriam-libre",
+	"name": "Miriam Libre",
+	"fontFamily": "\"Miriam Libre\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/miriamlibre/v19/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Miriam Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/miriamlibre/v19/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Miriam Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/miriamlibre/v19/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Miriam Libre"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/miriamlibre/v19/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Miriam Libre"
+		}
+	]
+}

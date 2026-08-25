@@ -1,0 +1,82 @@
+{
+	"slug": "cascadia-code",
+	"name": "Cascadia Code",
+	"fontFamily": "\"Cascadia Code\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcsB6-zq5zxD57cT5s916v3aDvbtw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcsB6-zq5zxD57cT5s916v3aDvbtw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcsB6-zq5zxD57cT5s916v3aDvbtw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcsB6-zq5zxD57cT5s916v3aDvbtw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcsB6-zq5zxD57cT5s916v3aDvbtw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcsB6-zq5zxD57cT5s916v3aDvbtw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcyB6-zq5zxD57cT5s916v3aD7rtREl.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcyB6-zq5zxD57cT5s916v3aD7rtREl.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcyB6-zq5zxD57cT5s916v3aD7rtREl.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcyB6-zq5zxD57cT5s916v3aD7rtREl.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcyB6-zq5zxD57cT5s916v3aD7rtREl.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Code"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cascadiacode/v5/qWcyB6-zq5zxD57cT5s916v3aD7rtREl.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Cascadia Code"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "abeezee",
+	"name": "ABeeZee",
+	"fontFamily": "ABeeZee, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/abeezee/v23/esDR31xSG-6AGleN2tWkkA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "ABeeZee"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/abeezee/v23/esDT31xSG-6AGleN2tCUkp8D.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "ABeeZee"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "pirata-one",
+	"name": "Pirata One",
+	"fontFamily": "\"Pirata One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pirataone/v23/I_urMpiDvgLdLh0fAtofhi-Org.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pirata One"
+		}
+	]
+}

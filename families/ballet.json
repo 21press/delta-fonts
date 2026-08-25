@@ -1,0 +1,16 @@
+{
+	"slug": "ballet",
+	"name": "Ballet",
+	"fontFamily": "Ballet, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ballet/v30/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3O4a0Ew.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ballet"
+		}
+	]
+}

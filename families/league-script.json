@@ -1,0 +1,16 @@
+{
+	"slug": "league-script",
+	"name": "League Script",
+	"fontFamily": "\"League Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/leaguescript/v30/CSR54zpSlumSWj9CGVsoBZdeWNReuQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "League Script"
+		}
+	]
+}

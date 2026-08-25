@@ -1,0 +1,46 @@
+{
+	"slug": "crimson-text",
+	"name": "Crimson Text",
+	"fontFamily": "\"Crimson Text\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Crimson Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCxGDNNQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Crimson Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C1GDNNQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Crimson Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfajhRK_Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Crimson Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD-NS_LU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Crimson Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDuNS_LU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Crimson Text"
+		}
+	]
+}

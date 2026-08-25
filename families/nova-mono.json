@@ -1,0 +1,16 @@
+{
+	"slug": "nova-mono",
+	"name": "Nova Mono",
+	"fontFamily": "\"Nova Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novamono/v23/Cn-0JtiGWQ5Ajb--MRKvZ2ZZ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Mono"
+		}
+	]
+}

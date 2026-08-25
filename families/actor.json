@@ -1,0 +1,16 @@
+{
+	"slug": "actor",
+	"name": "Actor",
+	"fontFamily": "Actor, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/actor/v18/wEOzEBbCkc5cO0ejVSk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Actor"
+		}
+	]
+}

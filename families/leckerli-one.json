@@ -1,0 +1,16 @@
+{
+	"slug": "leckerli-one",
+	"name": "Leckerli One",
+	"fontFamily": "\"Leckerli One\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/leckerlione/v22/V8mCoQH8VCsNttEnxnGQ-1idKpZd.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Leckerli One"
+		}
+	]
+}

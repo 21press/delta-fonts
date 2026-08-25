@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-old-north-arabian",
+	"name": "Noto Sans Old North Arabian",
+	"fontFamily": "\"Noto Sans Old North Arabian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansoldnortharabian/v17/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgnkA-.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Old North Arabian"
+		}
+	]
+}

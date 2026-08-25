@@ -1,0 +1,16 @@
+{
+	"slug": "do-hyeon",
+	"name": "Do Hyeon",
+	"fontFamily": "\"Do Hyeon\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HGEwbQc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Do Hyeon"
+		}
+	]
+}

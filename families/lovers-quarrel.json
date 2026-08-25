@@ -1,0 +1,16 @@
+{
+	"slug": "lovers-quarrel",
+	"name": "Lovers Quarrel",
+	"fontFamily": "\"Lovers Quarrel\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/loversquarrel/v25/Yq6N-LSKXTL-5bCy8ksBzpQ_-wArabs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Lovers Quarrel"
+		}
+	]
+}

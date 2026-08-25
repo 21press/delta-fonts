@@ -1,0 +1,16 @@
+{
+	"slug": "ranchers",
+	"name": "Ranchers",
+	"fontFamily": "Ranchers, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ranchers/v19/zrfm0H3Lx-P2Xvs2ArDfBi8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ranchers"
+		}
+	]
+}

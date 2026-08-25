@@ -1,0 +1,70 @@
+{
+	"slug": "afacad-flux",
+	"name": "Afacad Flux",
+	"fontFamily": "\"Afacad Flux\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/afacadflux/v4/9oRdNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_C8EIgo.woff2",
+			"fontWeight": "1000",
+			"fontStyle": "normal",
+			"fontFamily": "Afacad Flux"
+		}
+	]
+}

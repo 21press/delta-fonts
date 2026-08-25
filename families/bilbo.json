@@ -1,0 +1,16 @@
+{
+	"slug": "bilbo",
+	"name": "Bilbo",
+	"fontFamily": "Bilbo, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bilbo/v21/o-0EIpgpwWwZ220mroU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bilbo"
+		}
+	]
+}

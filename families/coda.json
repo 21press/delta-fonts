@@ -1,0 +1,22 @@
+{
+	"slug": "coda",
+	"name": "Coda",
+	"fontFamily": "Coda, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/coda/v22/SLXHc1jY5nQ8FUUGaw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Coda"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/coda/v22/SLXIc1jY5nQ8HeIgfpmswg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Coda"
+		}
+	]
+}

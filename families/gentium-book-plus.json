@@ -1,0 +1,34 @@
+{
+	"slug": "gentium-book-plus",
+	"name": "Gentium Book Plus",
+	"fontFamily": "\"Gentium Book Plus\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFL2-RHBgUK5fbjKxRpbBtJPyRpocKYf7M.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gentium Book Plus"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFO2-RHBgUK5fbjKxRpbBtJPyRpocojWqbBjM4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Gentium Book Plus"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFN2-RHBgUK5fbjKxRpbBtJPyRpocKdT7HmqQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Gentium Book Plus"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFA2-RHBgUK5fbjKxRpbBtJPyRpocKdRwrDvMz0eA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Gentium Book Plus"
+		}
+	]
+}

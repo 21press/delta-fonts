@@ -1,0 +1,16 @@
+{
+	"slug": "delius",
+	"name": "Delius",
+	"fontFamily": "Delius, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/delius/v21/PN_xRfK0pW_9e1rdZsg_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Delius"
+		}
+	]
+}

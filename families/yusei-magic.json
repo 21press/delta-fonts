@@ -1,0 +1,16 @@
+{
+	"slug": "yusei-magic",
+	"name": "Yusei Magic",
+	"fontFamily": "\"Yusei Magic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yuseimagic/v17/yYLt0hbAyuCmoo5wlhPkpgHW8NY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yusei Magic"
+		}
+	]
+}

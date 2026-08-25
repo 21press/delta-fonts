@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-anatolian-hieroglyphs",
+	"name": "Noto Sans Anatolian Hieroglyphs",
+	"fontFamily": "\"Noto Sans Anatolian Hieroglyphs\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v17/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWbyHCyw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Anatolian Hieroglyphs"
+		}
+	]
+}

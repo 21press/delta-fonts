@@ -1,0 +1,16 @@
+{
+	"slug": "la-belle-aurore",
+	"name": "La Belle Aurore",
+	"fontFamily": "\"La Belle Aurore\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/labelleaurore/v23/RrQIbot8-mNYKnGNDkWlocovHeI4HO2E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "La Belle Aurore"
+		}
+	]
+}

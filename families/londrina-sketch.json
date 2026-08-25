@@ -1,0 +1,16 @@
+{
+	"slug": "londrina-sketch",
+	"name": "Londrina Sketch",
+	"fontFamily": "\"Londrina Sketch\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/londrinasketch/v27/c4m41npxGMTnomOHtRU68eIJn8qvXmP4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Sketch"
+		}
+	]
+}

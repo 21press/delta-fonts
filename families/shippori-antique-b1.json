@@ -1,0 +1,16 @@
+{
+	"slug": "shippori-antique-b1",
+	"name": "Shippori Antique B1",
+	"fontFamily": "\"Shippori Antique B1\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shipporiantiqueb1/v11/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40gnRZIjg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shippori Antique B1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "knewave",
+	"name": "Knewave",
+	"fontFamily": "Knewave, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSIhS23-w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Knewave"
+		}
+	]
+}

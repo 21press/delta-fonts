@@ -1,0 +1,16 @@
+{
+	"slug": "moo-lah-lah",
+	"name": "Moo Lah Lah",
+	"fontFamily": "\"Moo Lah Lah\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/moolahlah/v8/dg4h_p_opKZOA0w1AYcm56wqawc.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Moo Lah Lah"
+		}
+	]
+}

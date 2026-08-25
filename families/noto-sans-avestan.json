@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-avestan",
+	"name": "Noto Sans Avestan",
+	"fontFamily": "\"Noto Sans Avestan\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansavestan/v22/bWti7ejKfBziStx7lIzKOLQZKhIJkxu6QgU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Avestan"
+		}
+	]
+}

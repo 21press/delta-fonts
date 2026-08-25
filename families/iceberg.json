@@ -1,0 +1,16 @@
+{
+	"slug": "iceberg",
+	"name": "Iceberg",
+	"fontFamily": "Iceberg, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/iceberg/v26/8QIJdijAiM7o-qnZiI8Eqg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Iceberg"
+		}
+	]
+}

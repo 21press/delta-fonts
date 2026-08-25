@@ -1,0 +1,76 @@
+{
+	"slug": "titillium-web",
+	"name": "Titillium Web",
+	"fontFamily": "\"Titillium Web\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzYw.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzYw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPecZTIAOhVxoMyOr9n_E7fdMPmDQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzYw.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzYw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzYw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyc.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyc.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xW.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyc.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Titillium Web"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/titilliumweb/v19/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyc.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Titillium Web"
+		}
+	]
+}

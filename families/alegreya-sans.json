@@ -1,0 +1,94 @@
+{
+	"slug": "alegreya-sans",
+	"name": "Alegreya Sans",
+	"fontFamily": "\"Alegreya Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUt9_-1phKLFgshYDvh6Vwt5Tldv21T.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUu9_-1phKLFgshYDvh6Vwt5fFPqEp2iw.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUz9_-1phKLFgshYDvh6Vwt7VptvQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUu9_-1phKLFgshYDvh6Vwt5alOqEp2iw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUu9_-1phKLFgshYDvh6Vwt5eFIqEp2iw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUu9_-1phKLFgshYDvh6Vwt5f1LqEp2iw.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUu9_-1phKLFgshYDvh6Vwt5dlKqEp2iw.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUv9_-1phKLFgshYDvh6Vwt7V9V3F1Rrmo.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUo9_-1phKLFgshYDvh6Vwt7V9VFE9GiU9G.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUt9_-1phKLFgshYDvh6Vwt7V9dv21T.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUo9_-1phKLFgshYDvh6Vwt7V9VTE5GiU9G.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUo9_-1phKLFgshYDvh6Vwt7V9VBEhGiU9G.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUo9_-1phKLFgshYDvh6Vwt7V9VGEtGiU9G.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/alegreyasans/v28/5aUo9_-1phKLFgshYDvh6Vwt7V9VPEpGiU9G.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Alegreya Sans"
+		}
+	]
+}

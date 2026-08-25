@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-glagolitic",
+	"name": "Noto Sans Glagolitic",
+	"fontFamily": "\"Noto Sans Glagolitic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansglagolitic/v19/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRN6gg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Glagolitic"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "stint-ultra-condensed",
+	"name": "Stint Ultra Condensed",
+	"fontFamily": "\"Stint Ultra Condensed\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stintultracondensed/v25/-W_gXIrsVjjeyEnPC45qD2NoFPtBE0xCh2AOrR8P.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Stint Ultra Condensed"
+		}
+	]
+}

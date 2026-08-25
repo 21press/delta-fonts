@@ -1,0 +1,34 @@
+{
+	"slug": "playwrite-de-va",
+	"name": "Playwrite DE VA",
+	"fontFamily": "\"Playwrite DE VA\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedeva/v11/VuJpdNPb2p7tvoFGLMPdeMxGN1p9ug.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE VA"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedeva/v11/VuJpdNPb2p7tvoFGLMPdeMxGN1p9ug.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE VA"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedeva/v11/VuJpdNPb2p7tvoFGLMPdeMxGN1p9ug.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE VA"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedeva/v11/VuJpdNPb2p7tvoFGLMPdeMxGN1p9ug.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE VA"
+		}
+	]
+}

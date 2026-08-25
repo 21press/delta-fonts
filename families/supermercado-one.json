@@ -1,0 +1,16 @@
+{
+	"slug": "supermercado-one",
+	"name": "Supermercado One",
+	"fontFamily": "\"Supermercado One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/supermercadoone/v29/OpNXnpQWg8jc_xps_Gi14kVVEXOn20H9MQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Supermercado One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "annie-use-your-telescope",
+	"name": "Annie Use Your Telescope",
+	"fontFamily": "\"Annie Use Your Telescope\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/annieuseyourtelescope/v20/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTkz3A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Annie Use Your Telescope"
+		}
+	]
+}

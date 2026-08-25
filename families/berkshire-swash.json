@@ -1,0 +1,16 @@
+{
+	"slug": "berkshire-swash",
+	"name": "Berkshire Swash",
+	"fontFamily": "\"Berkshire Swash\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/berkshireswash/v22/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs4z.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Berkshire Swash"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "bree-serif",
+	"name": "Bree Serif",
+	"fontFamily": "\"Bree Serif\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/breeserif/v18/4UaHrEJCrhhnVA3DgluA96rp5w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bree Serif"
+		}
+	]
+}

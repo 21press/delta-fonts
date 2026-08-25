@@ -1,0 +1,22 @@
+{
+	"slug": "castoro",
+	"name": "Castoro",
+	"fontFamily": "Castoro, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/castoro/v20/1q2GY5yMCld3-O4cLY9OzQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Castoro"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/castoro/v20/1q2EY5yMCld3-O4cLYp-z84a.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Castoro"
+		}
+	]
+}

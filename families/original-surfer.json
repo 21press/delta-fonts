@@ -1,0 +1,16 @@
+{
+	"slug": "original-surfer",
+	"name": "Original Surfer",
+	"fontFamily": "\"Original Surfer\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/originalsurfer/v25/RWmQoKGZ9vIirYntXJ3_MbekzNMSC0Fu.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Original Surfer"
+		}
+	]
+}

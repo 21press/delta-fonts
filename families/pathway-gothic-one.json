@@ -1,0 +1,16 @@
+{
+	"slug": "pathway-gothic-one",
+	"name": "Pathway Gothic One",
+	"fontFamily": "\"Pathway Gothic One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/pathwaygothicone/v16/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tS1Zf.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Pathway Gothic One"
+		}
+	]
+}

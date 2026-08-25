@@ -1,0 +1,16 @@
+{
+	"slug": "kosugi-maru",
+	"name": "Kosugi Maru",
+	"fontFamily": "\"Kosugi Maru\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kosugimaru/v17/0nksC9PgP_wGh21A2KeqGhTtgPs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kosugi Maru"
+		}
+	]
+}

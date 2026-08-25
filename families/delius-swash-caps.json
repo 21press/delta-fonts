@@ -1,0 +1,16 @@
+{
+	"slug": "delius-swash-caps",
+	"name": "Delius Swash Caps",
+	"fontFamily": "\"Delius Swash Caps\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/deliusswashcaps/v25/oY1E8fPLr7v4JWCExZpWebxVKORpXUeaIGY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Delius Swash Caps"
+		}
+	]
+}

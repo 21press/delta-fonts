@@ -1,0 +1,16 @@
+{
+	"slug": "quando",
+	"name": "Quando",
+	"fontFamily": "Quando, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/quando/v18/xMQVuFNaVa6YuW0ZDK-y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Quando"
+		}
+	]
+}

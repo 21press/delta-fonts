@@ -1,0 +1,82 @@
+{
+	"slug": "shantell-sans",
+	"name": "Shantell Sans",
+	"fontFamily": "\"Shantell Sans\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVvS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv8ws8PQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVvS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv8ws8PQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVvS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv8ws8PQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVvS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv8ws8PQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVvS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv8ws8PQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVvS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv8ws8PQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVhS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwMP21l.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVhS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwMP21l.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVhS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwMP21l.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVhS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwMP21l.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVhS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwMP21l.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Shantell Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/shantellsans/v13/FeVhS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwMP21l.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Shantell Sans"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "playwrite-gb-j-guides",
+	"name": "Playwrite GB J Guides",
+	"fontFamily": "\"Playwrite GB J Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmILg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite GB J Guides"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRAp.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite GB J Guides"
+		}
+	]
+}

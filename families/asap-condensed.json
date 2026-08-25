@@ -1,0 +1,106 @@
+{
+	"slug": "asap-condensed",
+	"name": "Asap Condensed",
+	"fontFamily": "\"Asap Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO9DSVlDims.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO8nSllDims.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxidypY1o9NHyXh3WvSbGSggdOeMaEw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO9_S1lDims.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO9TTFlDims.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO83TVlDims.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO8rTllDims.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxieypY1o9NHyXh3WvSbGSggdO8PT1lDims.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUIFFummIow.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUOVGummIow.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxifypY1o9NHyXh3WvSbGSggdOeJWE5krw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUL1HummIow.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUJFAummIow.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUPVBummIow.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUOlCummIow.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/asapcondensed/v18/pxiYypY1o9NHyXh3WvSbGSggdOeJUM1DummIow.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Asap Condensed"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-modi",
+	"name": "Noto Sans Modi",
+	"fontFamily": "\"Noto Sans Modi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansmodi/v25/pe03MIySN5pO62Z5YkFyT7jeas5tU1E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Modi"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "karla-tamil-upright",
+	"name": "Karla Tamil Upright",
+	"fontFamily": "\"Karla Tamil Upright\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/karlatamilupright/v3/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkAN3hQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Karla Tamil Upright"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/karlatamilupright/v3/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SkLYFLQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Karla Tamil Upright"
+		}
+	]
+}

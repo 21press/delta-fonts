@@ -1,0 +1,22 @@
+{
+	"slug": "windsong",
+	"name": "WindSong",
+	"fontFamily": "WindSong, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/windsong/v13/KR1WBsyu-P-GFEW57o9-F9A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "WindSong"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/windsong/v13/KR1RBsyu-P-GFEW57oeNNMW1nyw.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "WindSong"
+		}
+	]
+}

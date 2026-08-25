@@ -1,0 +1,16 @@
+{
+	"slug": "candal",
+	"name": "Candal",
+	"fontFamily": "Candal, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/candal/v16/XoHn2YH6T7-t_8c9BhQI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Candal"
+		}
+	]
+}

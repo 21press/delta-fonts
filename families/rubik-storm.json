@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-storm",
+	"name": "Rubik Storm",
+	"fontFamily": "\"Rubik Storm\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL6RWQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Storm"
+		}
+	]
+}

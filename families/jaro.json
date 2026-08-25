@@ -1,0 +1,16 @@
+{
+	"slug": "jaro",
+	"name": "Jaro",
+	"fontFamily": "Jaro, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jaro/v8/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SmCrPvw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jaro"
+		}
+	]
+}

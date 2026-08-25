@@ -1,0 +1,22 @@
+{
+	"slug": "karla-tamil-inclined",
+	"name": "Karla Tamil Inclined",
+	"fontFamily": "\"Karla Tamil Inclined\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/karlatamilinclined/v3/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVocKt5I.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Karla Tamil Inclined"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/karlatamilinclined/v3/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkofoKS8.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Karla Tamil Inclined"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "carme",
+	"name": "Carme",
+	"fontFamily": "Carme, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Carme"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "syne-mono",
+	"name": "Syne Mono",
+	"fontFamily": "\"Syne Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/synemono/v16/K2FzfZNHj_FHBmRbFvHDJaql.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Syne Mono"
+		}
+	]
+}

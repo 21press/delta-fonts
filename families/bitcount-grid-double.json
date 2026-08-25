@@ -1,0 +1,64 @@
+{
+	"slug": "bitcount-grid-double",
+	"name": "Bitcount Grid Double",
+	"fontFamily": "\"Bitcount Grid Double\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBKmrFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRtZzQq.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Bitcount Grid Double"
+		}
+	]
+}

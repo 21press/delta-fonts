@@ -1,0 +1,46 @@
+{
+	"slug": "inria-sans",
+	"name": "Inria Sans",
+	"fontFamily": "\"Inria Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3ELaPQxPqA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Inria Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ1On4KA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Inria Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3FLdPQxPqA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Inria Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAgQl_qs4z.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Inria Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/inriasans/v15/ptROTiqXYfZMCOiVj9kQ1OzIKitq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Inria Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5_qs4z.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Inria Sans"
+		}
+	]
+}

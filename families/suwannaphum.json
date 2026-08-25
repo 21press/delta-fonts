@@ -1,0 +1,40 @@
+{
+	"slug": "suwannaphum",
+	"name": "Suwannaphum",
+	"fontFamily": "Suwannaphum, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/suwannaphum/v33/jAnAgHV7GtDvc8jbe8hXXL3BxcOcXg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Suwannaphum"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/suwannaphum/v33/jAnfgHV7GtDvc8jbe8hXXL0J19S7exA.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Suwannaphum"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/suwannaphum/v33/jAnCgHV7GtDvc8jbe8hXXLWi9cE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Suwannaphum"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/suwannaphum/v33/jAnfgHV7GtDvc8jbe8hXXL0Z0NS7exA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Suwannaphum"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/suwannaphum/v33/jAnfgHV7GtDvc8jbe8hXXL0h0tS7exA.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Suwannaphum"
+		}
+	]
+}

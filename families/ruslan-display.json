@@ -1,0 +1,16 @@
+{
+	"slug": "ruslan-display",
+	"name": "Ruslan Display",
+	"fontFamily": "\"Ruslan Display\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/ruslandisplay/v27/Gw6jwczl81XcIZuckK_e3Upfdwxsn90.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Ruslan Display"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"slug": "noto-sans-adlam",
+	"name": "Noto Sans Adlam",
+	"fontFamily": "\"Noto Sans Adlam\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansadlam/v27/neITzCCpqp0s5pPusPamd81eMfjlrlMb.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Adlam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansadlam/v27/neITzCCpqp0s5pPusPamd81eMfjlrlMb.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Adlam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansadlam/v27/neITzCCpqp0s5pPusPamd81eMfjlrlMb.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Adlam"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosansadlam/v27/neITzCCpqp0s5pPusPamd81eMfjlrlMb.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Adlam"
+		}
+	]
+}

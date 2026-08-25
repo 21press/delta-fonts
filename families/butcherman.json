@@ -1,0 +1,16 @@
+{
+	"slug": "butcherman",
+	"name": "Butcherman",
+	"fontFamily": "Butcherman, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/butcherman/v25/2EbiL-thF0loflXUBOdb5zK5qg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Butcherman"
+		}
+	]
+}

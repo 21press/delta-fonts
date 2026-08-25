@@ -1,0 +1,28 @@
+{
+	"slug": "tienne",
+	"name": "Tienne",
+	"fontFamily": "Tienne, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tienne/v21/AYCKpX7pe9YCRP07l0nG.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tienne"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tienne/v21/AYCJpX7pe9YCRP0zLGzTR3Jv.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tienne"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tienne/v21/AYCJpX7pe9YCRP0zFG7TR3Jv.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Tienne"
+		}
+	]
+}

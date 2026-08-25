@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-psalter-pahlavi",
+	"name": "Noto Sans Psalter Pahlavi",
+	"fontFamily": "\"Noto Sans Psalter Pahlavi\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanspsalterpahlavi/v18/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GrAsA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Psalter Pahlavi"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "fragment-mono",
+	"name": "Fragment Mono",
+	"fontFamily": "\"Fragment Mono\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fragment Mono"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/fragmentmono/v6/4iC16K5wfMRRjxp0DA6-2CLnB4Z3hK0M.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fragment Mono"
+		}
+	]
+}

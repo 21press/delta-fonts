@@ -1,0 +1,16 @@
+{
+	"slug": "poor-story",
+	"name": "Poor Story",
+	"fontFamily": "\"Poor Story\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd0O6tLQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Poor Story"
+		}
+	]
+}

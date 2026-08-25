@@ -1,0 +1,22 @@
+{
+	"slug": "geo",
+	"name": "Geo",
+	"fontFamily": "Geo, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/geo/v23/CSRz4zRZluflKHpn.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Geo"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/geo/v23/CSRx4zRZluflLUplaj0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Geo"
+		}
+	]
+}

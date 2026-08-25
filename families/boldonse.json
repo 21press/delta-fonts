@@ -1,0 +1,16 @@
+{
+	"slug": "boldonse",
+	"name": "Boldonse",
+	"fontFamily": "Boldonse, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/boldonse/v1/ZgNQjPxGPbbJUZemjB37jGA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Boldonse"
+		}
+	]
+}

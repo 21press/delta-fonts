@@ -1,0 +1,16 @@
+{
+	"slug": "abel",
+	"name": "Abel",
+	"fontFamily": "Abel, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE2V9BPQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Abel"
+		}
+	]
+}

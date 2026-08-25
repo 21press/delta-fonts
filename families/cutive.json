@@ -1,0 +1,16 @@
+{
+	"slug": "cutive",
+	"name": "Cutive",
+	"fontFamily": "Cutive, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cutive/v24/NaPZcZ_fHOhV3IpLSPJC.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cutive"
+		}
+	]
+}

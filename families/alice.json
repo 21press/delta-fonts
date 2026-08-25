@@ -1,0 +1,16 @@
+{
+	"slug": "alice",
+	"name": "Alice",
+	"fontFamily": "Alice, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6GcOrg4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alice"
+		}
+	]
+}

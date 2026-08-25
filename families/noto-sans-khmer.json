@@ -1,0 +1,64 @@
+{
+	"slug": "noto-sans-khmer",
+	"name": "Noto Sans Khmer",
+	"fontFamily": "\"Noto Sans Khmer\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanskhmer/v29/ijwCs5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vR1kFeg.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Khmer"
+		}
+	]
+}

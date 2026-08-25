@@ -1,0 +1,16 @@
+{
+	"slug": "bhutuka-expanded-one",
+	"name": "BhuTuka Expanded One",
+	"fontFamily": "\"BhuTuka Expanded One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bhutukaexpandedone/v9/SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJByQ-Jk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "BhuTuka Expanded One"
+		}
+	]
+}

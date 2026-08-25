@@ -1,0 +1,28 @@
+{
+	"slug": "cinzel-decorative",
+	"name": "Cinzel Decorative",
+	"fontFamily": "\"Cinzel Decorative\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cinzel Decorative"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTE.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Cinzel Decorative"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTE.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Cinzel Decorative"
+		}
+	]
+}

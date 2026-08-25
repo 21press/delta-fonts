@@ -1,0 +1,28 @@
+{
+	"slug": "bona-nova",
+	"name": "Bona Nova",
+	"fontFamily": "\"Bona Nova\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bonanova/v12/B50NF7ZCpX7fcHfvIUB5jKJr.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bona Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bonanova/v12/B50IF7ZCpX7fcHfvIUBxN4d-E46f.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Bona Nova"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bonanova/v12/B50LF7ZCpX7fcHfvIUB5iZJpNKs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Bona Nova"
+		}
+	]
+}

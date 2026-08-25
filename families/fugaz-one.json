@@ -1,0 +1,16 @@
+{
+	"slug": "fugaz-one",
+	"name": "Fugaz One",
+	"fontFamily": "\"Fugaz One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/fugazone/v21/rax_HiWKp9EAITukFsl8Axhf.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fugaz One"
+		}
+	]
+}

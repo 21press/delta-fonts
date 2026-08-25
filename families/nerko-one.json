@@ -1,0 +1,16 @@
+{
+	"slug": "nerko-one",
+	"name": "Nerko One",
+	"fontFamily": "\"Nerko One\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nerkoone/v17/m8JQjfZSc7OXlB3ZMOjDd5RA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nerko One"
+		}
+	]
+}

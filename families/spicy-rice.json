@@ -1,0 +1,16 @@
+{
+	"slug": "spicy-rice",
+	"name": "Spicy Rice",
+	"fontFamily": "\"Spicy Rice\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/spicyrice/v28/uK_24rSEd-Uqwk4jY1RyKvi8Ww.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Spicy Rice"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"slug": "amiri",
+	"name": "Amiri",
+	"fontFamily": "Amiri, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHpUutLM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Amiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkaY_zp4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Amiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/amiri/v30/J7afnpd8CGxBHpUrhLEY6w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Amiri"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/amiri/v30/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Amiri"
+		}
+	]
+}

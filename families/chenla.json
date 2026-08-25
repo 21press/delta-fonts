@@ -1,0 +1,16 @@
+{
+	"slug": "chenla",
+	"name": "Chenla",
+	"fontFamily": "Chenla, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9uUx3p.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chenla"
+		}
+	]
+}

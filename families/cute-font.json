@@ -1,0 +1,16 @@
+{
+	"slug": "cute-font",
+	"name": "Cute Font",
+	"fontFamily": "\"Cute Font\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cutefont/v28/Noaw6Uny2oWPbSHMrY6fn5lU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cute Font"
+		}
+	]
+}

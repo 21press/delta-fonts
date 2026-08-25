@@ -1,0 +1,16 @@
+{
+	"slug": "cherry-bomb-one",
+	"name": "Cherry Bomb One",
+	"fontFamily": "\"Cherry Bomb One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/cherrybombone/v11/y83DW4od1h6KlV3c6JJhRhGOdhr6C9BE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Cherry Bomb One"
+		}
+	]
+}

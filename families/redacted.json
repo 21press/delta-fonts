@@ -1,0 +1,16 @@
+{
+	"slug": "redacted",
+	"name": "Redacted",
+	"fontFamily": "Redacted, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/redacted/v11/Z9XVDmdRShme2O_7aLTZ6Ow.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Redacted"
+		}
+	]
+}

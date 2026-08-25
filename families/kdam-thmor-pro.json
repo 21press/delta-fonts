@@ -1,0 +1,16 @@
+{
+	"slug": "kdam-thmor-pro",
+	"name": "Kdam Thmor Pro",
+	"fontFamily": "\"Kdam Thmor Pro\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kdamthmorpro/v7/EJRPQgAzVdcI-Qdvt34jzurnGD74hc4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kdam Thmor Pro"
+		}
+	]
+}

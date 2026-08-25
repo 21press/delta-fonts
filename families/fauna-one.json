@@ -1,0 +1,16 @@
+{
+	"slug": "fauna-one",
+	"name": "Fauna One",
+	"fontFamily": "\"Fauna One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/faunaone/v16/wlpzgwTPBVpjpCuwkuEB3kZK.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fauna One"
+		}
+	]
+}

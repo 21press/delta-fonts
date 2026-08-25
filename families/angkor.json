@@ -1,0 +1,16 @@
+{
+	"slug": "angkor",
+	"name": "Angkor",
+	"fontFamily": "Angkor, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/angkor/v35/H4cmBXyAlsPdnlbO9SY_.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Angkor"
+		}
+	]
+}

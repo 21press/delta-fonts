@@ -1,0 +1,16 @@
+{
+	"slug": "monomaniac-one",
+	"name": "Monomaniac One",
+	"fontFamily": "\"Monomaniac One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/monomaniacone/v15/4iC06K17YctZjx50EU-QlwPmcpRgo4g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Monomaniac One"
+		}
+	]
+}

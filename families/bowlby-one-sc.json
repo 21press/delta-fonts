@@ -1,0 +1,16 @@
+{
+	"slug": "bowlby-one-sc",
+	"name": "Bowlby One SC",
+	"fontFamily": "\"Bowlby One SC\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9P_g_2og.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bowlby One SC"
+		}
+	]
+}

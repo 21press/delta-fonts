@@ -1,0 +1,22 @@
+{
+	"slug": "bevan",
+	"name": "Bevan",
+	"fontFamily": "Bevan, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/bevan/v26/4iCj6KZ0a9NXjG8dWCs.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bevan"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/bevan/v26/4iCt6KZ0a9NXjG8YaCnTsg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Bevan"
+		}
+	]
+}

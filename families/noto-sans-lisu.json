@@ -1,0 +1,34 @@
+{
+	"slug": "noto-sans-lisu",
+	"name": "Noto Sans Lisu",
+	"fontFamily": "\"Noto Sans Lisu\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslisu/v27/uk-6EGO3o6EruUbnwovcYhz6kjR31os.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lisu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslisu/v27/uk-6EGO3o6EruUbnwovcYhz6kjR31os.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lisu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslisu/v27/uk-6EGO3o6EruUbnwovcYhz6kjR31os.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lisu"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslisu/v27/uk-6EGO3o6EruUbnwovcYhz6kjR31os.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Lisu"
+		}
+	]
+}

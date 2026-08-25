@@ -1,0 +1,16 @@
+{
+	"slug": "triodion",
+	"name": "Triodion",
+	"fontFamily": "Triodion, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr-seQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Triodion"
+		}
+	]
+}

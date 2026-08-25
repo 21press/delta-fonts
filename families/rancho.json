@@ -1,0 +1,16 @@
+{
+	"slug": "rancho",
+	"name": "Rancho",
+	"fontFamily": "Rancho, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rancho/v22/46kulbzmXjLaqZRVam_h.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rancho"
+		}
+	]
+}

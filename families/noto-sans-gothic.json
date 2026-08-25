@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-gothic",
+	"name": "Noto Sans Gothic",
+	"fontFamily": "\"Noto Sans Gothic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansgothic/v17/TuGKUUVzXI5FBtUq5a8bj6wRbzxTJMLy0w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Gothic"
+		}
+	]
+}

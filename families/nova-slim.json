@@ -1,0 +1,16 @@
+{
+	"slug": "nova-slim",
+	"name": "Nova Slim",
+	"fontFamily": "\"Nova Slim\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/novaslim/v26/Z9XUDmZNQAuem8jyZcnOz8mJ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nova Slim"
+		}
+	]
+}

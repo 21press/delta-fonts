@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-ottoman-siyaq",
+	"name": "Noto Serif Ottoman Siyaq",
+	"fontFamily": "\"Noto Serif Ottoman Siyaq\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7IbIB.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Ottoman Siyaq"
+		}
+	]
+}

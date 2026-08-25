@@ -1,0 +1,16 @@
+{
+	"slug": "chango",
+	"name": "Chango",
+	"fontFamily": "Chango, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chango/v29/2V0cKI0OB5U7WaJCyHe5.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chango"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "noto-serif-old-uyghur",
+	"name": "Noto Serif Old Uyghur",
+	"fontFamily": "\"Noto Serif Old Uyghur\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoserifolduyghur/v5/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXLeOf.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Serif Old Uyghur"
+		}
+	]
+}

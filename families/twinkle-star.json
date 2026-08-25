@@ -1,0 +1,16 @@
+{
+	"slug": "twinkle-star",
+	"name": "Twinkle Star",
+	"fontFamily": "\"Twinkle Star\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/twinklestar/v8/pe0pMI6IL4dPoFl9LGEmY6WqBP5v.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Twinkle Star"
+		}
+	]
+}

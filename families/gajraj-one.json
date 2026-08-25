@@ -1,0 +1,16 @@
+{
+	"slug": "gajraj-one",
+	"name": "Gajraj One",
+	"fontFamily": "\"Gajraj One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjn1aghA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Gajraj One"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "bruno-ace",
+	"name": "Bruno Ace",
+	"fontFamily": "\"Bruno Ace\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/brunoace/v7/WwkcxPa2E06x4trkOj_UN6AN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Bruno Ace"
+		}
+	]
+}

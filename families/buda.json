@@ -1,0 +1,16 @@
+{
+	"slug": "buda",
+	"name": "Buda",
+	"fontFamily": "Buda, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrK7ILrg.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Buda"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "donegal-one",
+	"name": "Donegal One",
+	"fontFamily": "\"Donegal One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/donegalone/v22/m8JWjfRYea-ZnFz6fsK9FaRCTm4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Donegal One"
+		}
+	]
+}

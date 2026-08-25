@@ -1,0 +1,16 @@
+{
+	"slug": "nanum-pen-script",
+	"name": "Nanum Pen Script",
+	"fontFamily": "\"Nanum Pen Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nanumpenscript/v25/daaDSSYiLGqEal3MvdA_FOL_3FkN6zn0aQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Pen Script"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"slug": "agdasima",
+	"name": "Agdasima",
+	"fontFamily": "Agdasima, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/agdasima/v5/PN_zRfyxp2f1fUCgAPg9pTk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Agdasima"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/agdasima/v5/PN_0Rfyxp2f1fUCgAPCGgCzU3v0.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Agdasima"
+		}
+	]
+}

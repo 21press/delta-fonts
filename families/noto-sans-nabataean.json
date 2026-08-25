@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-nabataean",
+	"name": "Noto Sans Nabataean",
+	"fontFamily": "\"Noto Sans Nabataean\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansnabataean/v17/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBV3hQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Nabataean"
+		}
+	]
+}

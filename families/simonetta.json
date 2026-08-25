@@ -1,0 +1,34 @@
+{
+	"slug": "simonetta",
+	"name": "Simonetta",
+	"fontFamily": "Simonetta, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/simonetta/v29/x3dickHVYrCU5BU15c4xe_oD.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Simonetta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/simonetta/v29/x3dnckHVYrCU5BU15c45-N0WsA7o.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Simonetta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/simonetta/v29/x3dkckHVYrCU5BU15c4xfsoBlys.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Simonetta"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/simonetta/v29/x3d5ckHVYrCU5BU15c4xfsKCsD7qJQY.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Simonetta"
+		}
+	]
+}

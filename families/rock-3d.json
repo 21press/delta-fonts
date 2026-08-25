@@ -1,0 +1,16 @@
+{
+	"slug": "rock-3d",
+	"name": "Rock 3D",
+	"fontFamily": "\"Rock 3D\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651553OtwA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rock 3D"
+		}
+	]
+}

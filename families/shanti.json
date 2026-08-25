@@ -1,0 +1,16 @@
+{
+	"slug": "shanti",
+	"name": "Shanti",
+	"fontFamily": "Shanti, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/shanti/v25/t5thIREMM4uSDgzQVE2y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Shanti"
+		}
+	]
+}

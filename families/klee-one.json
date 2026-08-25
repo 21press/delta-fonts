@@ -1,0 +1,22 @@
+{
+	"slug": "klee-one",
+	"name": "Klee One",
+	"fontFamily": "\"Klee One\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kleeone/v13/LDIxapCLNRc6A8oT4p4HM-Y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Klee One"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kleeone/v13/LDI2apCLNRc6A8oT4pbYF_Oreec.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Klee One"
+		}
+	]
+}

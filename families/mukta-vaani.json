@@ -1,0 +1,52 @@
+{
+	"slug": "mukta-vaani",
+	"name": "Mukta Vaani",
+	"fontFamily": "\"Mukta Vaani\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3JnkSD_-ynaxmxnEfVHPIGXNV_BE8O4.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3JnkSD_-ynaxmxnEfVHPIGWpVPBE8O4.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3Jn5SD_-ynaxmxnEfVHPIG0CduU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3JnkSD_-ynaxmxnEfVHPIGXxVfBE8O4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3JnkSD_-ynaxmxnEfVHPIGXdUvBE8O4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3JnkSD_-ynaxmxnEfVHPIGW5U_BE8O4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/muktavaani/v15/3JnkSD_-ynaxmxnEfVHPIGWlUPBE8O4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Mukta Vaani"
+		}
+	]
+}

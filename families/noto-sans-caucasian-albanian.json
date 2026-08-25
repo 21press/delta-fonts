@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-caucasian-albanian",
+	"name": "Noto Sans Caucasian Albanian",
+	"fontFamily": "\"Noto Sans Caucasian Albanian\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanscaucasianalbanian/v19/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYfsoA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Caucasian Albanian"
+		}
+	]
+}

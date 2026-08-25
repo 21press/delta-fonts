@@ -1,0 +1,16 @@
+{
+	"slug": "stylish",
+	"name": "Stylish",
+	"fontFamily": "Stylish, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stylish/v26/m8JSjfhPYriQkk7-TorzdQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Stylish"
+		}
+	]
+}

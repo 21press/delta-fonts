@@ -1,0 +1,16 @@
+{
+	"slug": "port-lligat-slab",
+	"name": "Port Lligat Slab",
+	"fontFamily": "\"Port Lligat Slab\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/portlligatslab/v27/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg70R9g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Port Lligat Slab"
+		}
+	]
+}

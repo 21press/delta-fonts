@@ -1,0 +1,118 @@
+{
+	"slug": "fira-sans-extra-condensed",
+	"name": "Fira Sans Extra Condensed",
+	"fontFamily": "\"Fira Sans Extra Condensed\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPMcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3ZyeuF-b.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3TCPr3i-oQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3VSMr3i-oQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPKcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1f-uug.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3QyNr3i-oQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3SCKr3i-oQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3USLr3i-oQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3ViIr3i-oQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3XyJr3i-oQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPOcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqW22-ZhEs.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWd36Oo256.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWE32Oo256.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPMcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqeuF-b.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWS3yOo256.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWZ3uOo256.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWA3qOo256.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWH3mOo256.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPxcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fqWO3iOo256.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Fira Sans Extra Condensed"
+		}
+	]
+}

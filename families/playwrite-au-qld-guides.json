@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-au-qld-guides",
+	"name": "Playwrite AU QLD Guides",
+	"fontFamily": "\"Playwrite AU QLD Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LDxg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite AU QLD Guides"
+		}
+	]
+}

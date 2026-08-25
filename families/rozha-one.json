@@ -1,0 +1,16 @@
+{
+	"slug": "rozha-one",
+	"name": "Rozha One",
+	"fontFamily": "\"Rozha One\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rozhaone/v17/AlZy_zVFtYP12Zncg2kRcn35.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rozha One"
+		}
+	]
+}

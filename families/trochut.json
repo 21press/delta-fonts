@@ -1,0 +1,28 @@
+{
+	"slug": "trochut",
+	"name": "Trochut",
+	"fontFamily": "Trochut, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/trochut/v24/CHyjV-fDDlP9bDIw1nOCfA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Trochut"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trochut/v24/CHymV-fDDlP9bDIw3sinaV0uMw.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Trochut"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/trochut/v24/CHyhV-fDDlP9bDIw1nayfnoL.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Trochut"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "konkhmer-sleokchher",
+	"name": "Konkhmer Sleokchher",
+	"fontFamily": "\"Konkhmer Sleokchher\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/konkhmersleokchher/v3/_Xmw-GE-rjmabA_M-aPOZOsCrUv825LFE3l-7Q.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Konkhmer Sleokchher"
+		}
+	]
+}

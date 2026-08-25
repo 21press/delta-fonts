@@ -1,0 +1,16 @@
+{
+	"slug": "smokum",
+	"name": "Smokum",
+	"fontFamily": "Smokum, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/smokum/v30/TK3iWkUbAhopmrd2GT8G.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Smokum"
+		}
+	]
+}

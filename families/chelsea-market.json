@@ -1,0 +1,16 @@
+{
+	"slug": "chelsea-market",
+	"name": "Chelsea Market",
+	"fontFamily": "\"Chelsea Market\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chelseamarket/v14/BCawqZsHqfr89WNP_IApC8tzKChiJg8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chelsea Market"
+		}
+	]
+}

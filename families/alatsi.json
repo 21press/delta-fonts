@@ -1,0 +1,16 @@
+{
+	"slug": "alatsi",
+	"name": "Alatsi",
+	"fontFamily": "Alatsi, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alatsi/v14/TK3iWkUJAxQ2nLN2GT8G.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alatsi"
+		}
+	]
+}

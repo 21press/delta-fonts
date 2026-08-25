@@ -1,0 +1,16 @@
+{
+	"slug": "seymour-one",
+	"name": "Seymour One",
+	"fontFamily": "\"Seymour One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/seymourone/v25/4iCp6Khla9xbjQpoWGGd0lyPN4E.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Seymour One"
+		}
+	]
+}

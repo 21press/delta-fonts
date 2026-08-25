@@ -1,0 +1,46 @@
+{
+	"slug": "stack-sans-text",
+	"name": "Stack Sans Text",
+	"fontFamily": "\"Stack Sans Text\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/stacksanstext/v1/kJErBuAJ-Q0hiGPmzHEu345X1JJnCry4.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksanstext/v1/kJErBuAJ-Q0hiGPmzHEu345X1JJnCry4.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksanstext/v1/kJErBuAJ-Q0hiGPmzHEu345X1JJnCry4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksanstext/v1/kJErBuAJ-Q0hiGPmzHEu345X1JJnCry4.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksanstext/v1/kJErBuAJ-Q0hiGPmzHEu345X1JJnCry4.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Text"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/stacksanstext/v1/kJErBuAJ-Q0hiGPmzHEu345X1JJnCry4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Stack Sans Text"
+		}
+	]
+}

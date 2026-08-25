@@ -1,0 +1,64 @@
+{
+	"slug": "m-plus-u",
+	"name": "M PLUS U",
+	"fontFamily": "\"M PLUS U\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/mplusu/v1/-W_9XJfyAgH86Tq6MuofTkY.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "M PLUS U"
+		}
+	]
+}

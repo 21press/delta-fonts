@@ -1,0 +1,16 @@
+{
+	"slug": "sixtyfour",
+	"name": "Sixtyfour",
+	"fontFamily": "Sixtyfour, monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sixtyfour/v3/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f43flSU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sixtyfour"
+		}
+	]
+}

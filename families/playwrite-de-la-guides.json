@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-de-la-guides",
+	"name": "Playwrite DE LA Guides",
+	"fontFamily": "\"Playwrite DE LA Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE56gg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite DE LA Guides"
+		}
+	]
+}

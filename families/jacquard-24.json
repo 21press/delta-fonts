@@ -1,0 +1,16 @@
+{
+	"slug": "jacquard-24",
+	"name": "Jacquard 24",
+	"fontFamily": "\"Jacquard 24\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/jacquard24/v4/jVyO7nf_B2zO5jVpUGU8ljQDf8k.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Jacquard 24"
+		}
+	]
+}

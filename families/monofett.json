@@ -1,0 +1,16 @@
+{
+	"slug": "monofett",
+	"name": "Monofett",
+	"fontFamily": "Monofett, monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW73Vsx0.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Monofett"
+		}
+	]
+}

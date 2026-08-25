@@ -1,0 +1,22 @@
+{
+	"slug": "delius-unicase",
+	"name": "Delius Unicase",
+	"fontFamily": "\"Delius Unicase\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/deliusunicase/v30/845BNMEwEIOVT8BmgfSzIr_6mlLAfe8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Delius Unicase"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/deliusunicase/v30/845CNMEwEIOVT8BmgfSzIr_6mlp7WPr4DGg.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Delius Unicase"
+		}
+	]
+}

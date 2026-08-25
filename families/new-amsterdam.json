@@ -1,0 +1,16 @@
+{
+	"slug": "new-amsterdam",
+	"name": "New Amsterdam",
+	"fontFamily": "\"New Amsterdam\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/newamsterdam/v1/YA9Vr02Y5lucHqUlbEe51kBtp76Miw.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "New Amsterdam"
+		}
+	]
+}

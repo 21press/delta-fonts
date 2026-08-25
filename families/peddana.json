@@ -1,0 +1,16 @@
+{
+	"slug": "peddana",
+	"name": "Peddana",
+	"fontFamily": "Peddana, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/peddana/v24/aFTU7PBhaX89UcKWthqQBA.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Peddana"
+		}
+	]
+}

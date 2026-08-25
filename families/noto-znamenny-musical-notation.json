@@ -1,0 +1,16 @@
+{
+	"slug": "noto-znamenny-musical-notation",
+	"name": "Noto Znamenny Musical Notation",
+	"fontFamily": "\"Noto Znamenny Musical Notation\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jfsZCr.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Znamenny Musical Notation"
+		}
+	]
+}

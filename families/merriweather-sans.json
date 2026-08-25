@@ -1,0 +1,82 @@
+{
+	"slug": "merriweather-sans",
+	"name": "Merriweather Sans",
+	"fontFamily": "\"Merriweather Sans\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c99IRs1JiJN1FRAMjTN5zd9vgsFHX1QjU.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c99IRs1JiJN1FRAMjTN5zd9vgsFHX1QjU.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c99IRs1JiJN1FRAMjTN5zd9vgsFHX1QjU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c99IRs1JiJN1FRAMjTN5zd9vgsFHX1QjU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c99IRs1JiJN1FRAMjTN5zd9vgsFHX1QjU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c99IRs1JiJN1FRAMjTN5zd9vgsFHX1QjU.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c79IRs1JiJN1FRAMjTN5zd9vgsFHXwcjfj9w.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c79IRs1JiJN1FRAMjTN5zd9vgsFHXwcjfj9w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c79IRs1JiJN1FRAMjTN5zd9vgsFHXwcjfj9w.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c79IRs1JiJN1FRAMjTN5zd9vgsFHXwcjfj9w.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c79IRs1JiJN1FRAMjTN5zd9vgsFHXwcjfj9w.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Merriweather Sans"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/merriweathersans/v28/2-c79IRs1JiJN1FRAMjTN5zd9vgsFHXwcjfj9w.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Merriweather Sans"
+		}
+	]
+}

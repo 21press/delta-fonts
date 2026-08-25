@@ -1,0 +1,16 @@
+{
+	"slug": "diphylleia",
+	"name": "Diphylleia",
+	"fontFamily": "Diphylleia, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIilss6w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Diphylleia"
+		}
+	]
+}

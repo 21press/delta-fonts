@@ -1,0 +1,46 @@
+{
+	"slug": "neuton",
+	"name": "Neuton",
+	"fontFamily": "Neuton, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKAKkvfQr4.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Neuton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKZKovfQr4.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Neuton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZCz4g6.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Neuton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0vfQr4.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Neuton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKaK4vfQr4.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Neuton"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyrg4Wi8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Neuton"
+		}
+	]
+}

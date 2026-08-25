@@ -1,0 +1,16 @@
+{
+	"slug": "rubik-marker-hatch",
+	"name": "Rubik Marker Hatch",
+	"fontFamily": "\"Rubik Marker Hatch\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgC7Qj.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Rubik Marker Hatch"
+		}
+	]
+}

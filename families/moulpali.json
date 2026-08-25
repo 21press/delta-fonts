@@ -1,0 +1,16 @@
+{
+	"slug": "moulpali",
+	"name": "Moulpali",
+	"fontFamily": "Moulpali, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/moulpali/v33/H4ckBXKMl9HagUWymxY9yL4.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Moulpali"
+		}
+	]
+}

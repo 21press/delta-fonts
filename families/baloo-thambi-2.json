@@ -1,0 +1,40 @@
+{
+	"slug": "baloo-thambi-2",
+	"name": "Baloo Thambi 2",
+	"fontFamily": "\"Baloo Thambi 2\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/baloothambi2/v22/cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Thambi 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloothambi2/v22/cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Thambi 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloothambi2/v22/cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Thambi 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloothambi2/v22/cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Thambi 2"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/baloothambi2/v22/cY9cfjeOW0NHpmOQXranrbDyu7hADpI.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Baloo Thambi 2"
+		}
+	]
+}

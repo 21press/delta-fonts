@@ -1,0 +1,16 @@
+{
+	"slug": "londrina-shadow",
+	"name": "Londrina Shadow",
+	"fontFamily": "\"Londrina Shadow\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/londrinashadow/v28/oPWX_kB4kOQoWNJmjxLV5JuoCUlnQVyT.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Londrina Shadow"
+		}
+	]
+}

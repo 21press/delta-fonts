@@ -1,0 +1,16 @@
+{
+	"slug": "nanum-brush-script",
+	"name": "Nanum Brush Script",
+	"fontFamily": "\"Nanum Brush Script\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/nanumbrushscript/v26/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapq.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Nanum Brush Script"
+		}
+	]
+}

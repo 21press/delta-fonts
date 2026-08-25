@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-pt-guides",
+	"name": "Playwrite PT Guides",
+	"fontFamily": "\"Playwrite PT Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5F5w.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite PT Guides"
+		}
+	]
+}

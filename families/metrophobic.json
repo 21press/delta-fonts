@@ -1,0 +1,16 @@
+{
+	"slug": "metrophobic",
+	"name": "Metrophobic",
+	"fontFamily": "Metrophobic, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/metrophobic/v24/sJoA3LZUhMSAPV_u0qwiAQ-O5X8.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Metrophobic"
+		}
+	]
+}

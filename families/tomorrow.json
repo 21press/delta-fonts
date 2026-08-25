@@ -1,0 +1,118 @@
+{
+	"slug": "tomorrow",
+	"name": "Tomorrow",
+	"fontFamily": "Tomorrow, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLgrETNbFtZCeGqgR2xS2LoKQ.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR0dWnXPDMU.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR15WXXPDMU.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLmrETNbFtZCeGqgRXSe2A.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR0hWHXPDMU.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR0NX3XPDMU.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR1pXnXPDMU.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR11XXXPDMU.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLhrETNbFtZCeGqgR1RXHXPDMU.woff2",
+			"fontWeight": "900",
+			"fontStyle": "normal",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLirETNbFtZCeGqgRXXQwHYK-Cs.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ63JPMeJjQ.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ8nKPMeJjQ.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLgrETNbFtZCeGqgRXXS2LoKQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ5HLPMeJjQ.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ73MPMeJjQ.woff2",
+			"fontWeight": "600",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ9nNPMeJjQ.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ8XOPMeJjQ.woff2",
+			"fontWeight": "800",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/tomorrow/v19/WBLjrETNbFtZCeGqgRXXQ-HPPMeJjQ.woff2",
+			"fontWeight": "900",
+			"fontStyle": "italic",
+			"fontFamily": "Tomorrow"
+		}
+	]
+}

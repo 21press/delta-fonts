@@ -1,0 +1,40 @@
+{
+	"slug": "sen",
+	"name": "Sen",
+	"fontFamily": "Sen, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sen/v12/6xKjdSxYI9_3nPWN.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sen/v12/6xKjdSxYI9_3nPWN.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Sen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sen/v12/6xKjdSxYI9_3nPWN.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Sen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sen/v12/6xKjdSxYI9_3nPWN.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sen"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sen/v12/6xKjdSxYI9_3nPWN.woff2",
+			"fontWeight": "800",
+			"fontStyle": "normal",
+			"fontFamily": "Sen"
+		}
+	]
+}

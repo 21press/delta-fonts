@@ -1,0 +1,58 @@
+{
+	"slug": "iosevka-charon",
+	"name": "Iosevka Charon",
+	"fontFamily": "\"Iosevka Charon\", monospace",
+	"category": "monospace",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xs0e-o8dtuW1FZBLWGprOon7-re_ErGJk.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xv0e-o8dtuW1FZBLWGprOon7cAWeQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xs0e-o8dtuW1FZBLWGprOon7_zevErGJk.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xs0e-o8dtuW1FZBLWGprOon7-7fPErGJk.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xq0e-o8dtuW1FZBLWGprOon7cFYU0uKJsj-g.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xt0e-o8dtuW1FZBLWGprOon7cFaeYMPQ.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xq0e-o8dtuW1FZBLWGprOon7cFYRUvKJsj-g.woff2",
+			"fontWeight": "500",
+			"fontStyle": "italic",
+			"fontFamily": "Iosevka Charon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xq0e-o8dtuW1FZBLWGprOon7cFYV0pKJsj-g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "italic",
+			"fontFamily": "Iosevka Charon"
+		}
+	]
+}

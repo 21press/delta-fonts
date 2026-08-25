@@ -1,0 +1,34 @@
+{
+	"slug": "caveat",
+	"name": "Caveat",
+	"fontFamily": "Caveat, cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7ZjYY.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Caveat"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7ZjYY.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Caveat"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7ZjYY.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Caveat"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7ZjYY.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Caveat"
+		}
+	]
+}

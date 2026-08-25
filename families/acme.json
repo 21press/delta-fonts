@@ -1,0 +1,16 @@
+{
+	"slug": "acme",
+	"name": "Acme",
+	"fontFamily": "Acme, sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/acme/v29/RrQfboBx-C5_XxrBbg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Acme"
+		}
+	]
+}

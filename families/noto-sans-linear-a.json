@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-linear-a",
+	"name": "Noto Sans Linear A",
+	"fontFamily": "\"Noto Sans Linear A\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosanslineara/v19/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2GyWvR.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Linear A"
+		}
+	]
+}

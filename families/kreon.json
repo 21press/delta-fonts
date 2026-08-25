@@ -1,0 +1,40 @@
+{
+	"slug": "kreon",
+	"name": "Kreon",
+	"fontFamily": "Kreon, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kreon/v40/t5tuIRIUKY-TFHXHc2g.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Kreon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kreon/v40/t5tuIRIUKY-TFHXHc2g.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kreon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kreon/v40/t5tuIRIUKY-TFHXHc2g.woff2",
+			"fontWeight": "500",
+			"fontStyle": "normal",
+			"fontFamily": "Kreon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kreon/v40/t5tuIRIUKY-TFHXHc2g.woff2",
+			"fontWeight": "600",
+			"fontStyle": "normal",
+			"fontFamily": "Kreon"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/kreon/v40/t5tuIRIUKY-TFHXHc2g.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Kreon"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"slug": "alfa-slab-one",
+	"name": "Alfa Slab One",
+	"fontFamily": "\"Alfa Slab One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhew.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Alfa Slab One"
+		}
+	]
+}

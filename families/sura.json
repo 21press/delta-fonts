@@ -1,0 +1,22 @@
+{
+	"slug": "sura",
+	"name": "Sura",
+	"fontFamily": "Sura, serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sura/v21/SZc23FL5PbyzJfleWg.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sura"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/sura/v21/SZc53FL5PbyzLUJ7TzrMkA.woff2",
+			"fontWeight": "700",
+			"fontStyle": "normal",
+			"fontFamily": "Sura"
+		}
+	]
+}

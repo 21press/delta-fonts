@@ -1,0 +1,16 @@
+{
+	"slug": "sancreek",
+	"name": "Sancreek",
+	"fontFamily": "Sancreek, system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/sancreek/v27/pxiHypAnsdxUm159X4D5V14.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Sancreek"
+		}
+	]
+}

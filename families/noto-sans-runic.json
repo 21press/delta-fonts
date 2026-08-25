@@ -1,0 +1,16 @@
+{
+	"slug": "noto-sans-runic",
+	"name": "Noto Sans Runic",
+	"fontFamily": "\"Noto Sans Runic\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WmbBBu.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Noto Sans Runic"
+		}
+	]
+}

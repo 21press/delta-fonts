@@ -1,0 +1,16 @@
+{
+	"slug": "yarndings-20-charted",
+	"name": "Yarndings 20 Charted",
+	"fontFamily": "\"Yarndings 20 Charted\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/yarndings20charted/v4/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQh60U.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Yarndings 20 Charted"
+		}
+	]
+}

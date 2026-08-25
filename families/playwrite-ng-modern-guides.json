@@ -1,0 +1,16 @@
+{
+	"slug": "playwrite-ng-modern-guides",
+	"name": "Playwrite NG Modern Guides",
+	"fontFamily": "\"Playwrite NG Modern Guides\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhDau.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite NG Modern Guides"
+		}
+	]
+}

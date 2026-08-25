@@ -1,0 +1,58 @@
+{
+	"slug": "playwrite-gb-s",
+	"name": "Playwrite GB S",
+	"fontFamily": "\"Playwrite GB S\", cursive",
+	"category": "handwriting",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWW_kFkk-s1Xclhmlemy7jsNR5y.woff2",
+			"fontWeight": "100",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWW_kFkk-s1Xclhmlemy7jsNR5y.woff2",
+			"fontWeight": "200",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWW_kFkk-s1Xclhmlemy7jsNR5y.woff2",
+			"fontWeight": "300",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWW_kFkk-s1Xclhmlemy7jsNR5y.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWU_kFkk-s1Xclhmlemy7jsNS51Znk.woff2",
+			"fontWeight": "100",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWU_kFkk-s1Xclhmlemy7jsNS51Znk.woff2",
+			"fontWeight": "200",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWU_kFkk-s1Xclhmlemy7jsNS51Znk.woff2",
+			"fontWeight": "300",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite GB S"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/playwritegbs/v12/oPWU_kFkk-s1Xclhmlemy7jsNS51Znk.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Playwrite GB S"
+		}
+	]
+}

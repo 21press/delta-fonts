@@ -1,0 +1,16 @@
+{
+	"slug": "kite-one",
+	"name": "Kite One",
+	"fontFamily": "\"Kite One\", sans-serif",
+	"category": "sans-serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/kiteone/v23/70lQu7shLnA_E02vyp1c4ng.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Kite One"
+		}
+	]
+}
