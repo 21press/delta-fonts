@@ -1,0 +1,16 @@
+{
+	"slug": "caacupe-one",
+	"name": "Caacupe One",
+	"fontFamily": "\"Caacupe One\", system-ui",
+	"category": "display",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/caacupeone/v2/PlI5Fl60NbF_eNjJe2jslWxDvcE.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Caacupe One"
+		}
+	]
+}

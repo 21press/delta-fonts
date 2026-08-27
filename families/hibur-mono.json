@@ -7,7 +7,7 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/hiburmono/v1/R70fjyoFkv6fKPKNWxXXiC20Ug.woff2",
+			"src": "https://fonts.gstatic.com/s/hiburmono/v3/R70fjyoFkv6fKPKNWxXXiC20Ug.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Hibur Mono"

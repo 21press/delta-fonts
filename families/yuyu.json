@@ -7,7 +7,7 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/yuyu/v1/cY9Kfj2VT1Zd2UTkMw.woff2",
+			"src": "https://fonts.gstatic.com/s/yuyu/v2/cY9Kfj2VT1Zd2UTkMw.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Yuyu"

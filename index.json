@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"updatedAt": "2026-08-25T17:35:26.532Z",
+	"updatedAt": "2026-08-27T15:05:14.892Z",
 	"provider": "google",
 	"families": [
 		{
@@ -969,6 +969,14 @@
 			"fontFamily": "\"Asap Condensed\", sans-serif",
 			"category": "sans-serif",
 			"weightCount": 16,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "asap-sharp",
+			"name": "Asap Sharp",
+			"fontFamily": "\"Asap Sharp\", sans-serif",
+			"category": "sans-serif",
+			"weightCount": 18,
 			"license": "OFL-1.1"
 		},
 		{
@@ -2224,6 +2232,14 @@
 			"name": "Bytesized",
 			"fontFamily": "Bytesized, sans-serif",
 			"category": "sans-serif",
+			"weightCount": 1,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "caacupe-one",
+			"name": "Caacupe One",
+			"fontFamily": "\"Caacupe One\", system-ui",
+			"category": "display",
 			"weightCount": 1,
 			"license": "OFL-1.1"
 		},
@@ -13196,6 +13212,14 @@
 			"license": "OFL-1.1"
 		},
 		{
+			"slug": "scoutie-sans",
+			"name": "Scoutie Sans",
+			"fontFamily": "\"Scoutie Sans\", sans-serif",
+			"category": "sans-serif",
+			"weightCount": 14,
+			"license": "OFL-1.1"
+		},
+		{
 			"slug": "seaweed-script",
 			"name": "Seaweed Script",
 			"fontFamily": "\"Seaweed Script\", system-ui",
@@ -14839,6 +14863,14 @@
 			"slug": "urbanist",
 			"name": "Urbanist",
 			"fontFamily": "Urbanist, sans-serif",
+			"category": "sans-serif",
+			"weightCount": 18,
+			"license": "OFL-1.1"
+		},
+		{
+			"slug": "valley-sans",
+			"name": "Valley Sans",
+			"fontFamily": "\"Valley Sans\", sans-serif",
 			"category": "sans-serif",
 			"weightCount": 18,
 			"license": "OFL-1.1"
