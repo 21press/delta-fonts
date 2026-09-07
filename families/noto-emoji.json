@@ -7,31 +7,31 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/notoemoji/v62/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+			"src": "https://fonts.gstatic.com/s/notoemoji/v64/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
 			"fontWeight": "300",
 			"fontStyle": "normal",
 			"fontFamily": "Noto Emoji"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/notoemoji/v62/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+			"src": "https://fonts.gstatic.com/s/notoemoji/v64/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Noto Emoji"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/notoemoji/v62/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+			"src": "https://fonts.gstatic.com/s/notoemoji/v64/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
 			"fontWeight": "500",
 			"fontStyle": "normal",
 			"fontFamily": "Noto Emoji"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/notoemoji/v62/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+			"src": "https://fonts.gstatic.com/s/notoemoji/v64/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
 			"fontWeight": "600",
 			"fontStyle": "normal",
 			"fontFamily": "Noto Emoji"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/notoemoji/v62/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
+			"src": "https://fonts.gstatic.com/s/notoemoji/v64/bMrymSyK7YY-MEu6aWjPFMHQUnEOtg_Uy9ZzkQ.0.woff2",
 			"fontWeight": "700",
 			"fontStyle": "normal",
 			"fontFamily": "Noto Emoji"

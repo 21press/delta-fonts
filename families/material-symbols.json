@@ -7,43 +7,43 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "200",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "300",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "500",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "600",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbols/v95/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbols/v96/d6kHkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk1u2.woff2",
 			"fontWeight": "700",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols"

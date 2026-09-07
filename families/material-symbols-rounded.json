@@ -7,43 +7,43 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "100",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "200",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "300",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "500",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "600",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v369/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v370/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
 			"fontWeight": "700",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
