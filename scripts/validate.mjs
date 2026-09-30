@@ -47,6 +47,32 @@ for ( const file of files ) {
 		);
 		need( face.fontWeight && face.fontStyle, `${ file } face weight/style` );
 	}
+	// Additive keys (Delta 0.2.3+). Optional, checked when present.
+	if ( 'variable' in rec ) {
+		need( 'boolean' === typeof rec.variable, `${ file } variable must be boolean` );
+	}
+	if ( 'axes' in rec ) {
+		need( Array.isArray( rec.axes ), `${ file } axes must be array` );
+		for ( const a of rec.axes || [] ) {
+			need( /^[A-Za-z]{4}$/.test( a.tag ) && typeof a.min === 'number' && typeof a.max === 'number' && a.min <= a.max, `${ file } axis ${ JSON.stringify( a ) }` );
+		}
+	}
+	if ( 'subsets' in rec ) {
+		need( Array.isArray( rec.subsets ) && ! rec.subsets.includes( 'menu' ), `${ file } subsets` );
+	}
+	if ( 'files' in rec ) {
+		need( Array.isArray( rec.files.weight ) && rec.files.weight.length > 0, `${ file } files.weight` );
+		for ( const set of [ 'weight', 'all' ] ) {
+			for ( const face of rec.files[ set ] || [] ) {
+				need(
+					typeof face.src === 'string' && face.src.startsWith( 'https://fonts.gstatic.com/' ) && face.src.endsWith( '.woff2' ),
+					`${ file } files.${ set } src must be gstatic woff2`
+				);
+				need( face.style && face.weight && face.subset, `${ file } files.${ set } style/weight/subset` );
+				need( /^\d+( \d+)?$/.test( face.weight ), `${ file } files.${ set } weight "${ face.weight }"` );
+			}
+		}
+	}
 	fileSlugs.add( slug );
 	need( indexSlugs.has( slug ), `${ slug } in families/ but not index` );
 }

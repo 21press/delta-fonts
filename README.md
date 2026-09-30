@@ -8,7 +8,7 @@ Sites fetch `index.json` (via jsDelivr), then a family file for weights. **Insta
 
 ```
 index.json                 # catalog root (consumed by Delta)
-families/{slug}.json       # weights + gstatic src URLs
+families/{slug}.json       # fontFace (latin, every Delta) + variable/axes/subsets/files (Delta 0.2.3+)
 scripts/
   sync.mjs                 # Google Fonts API → index + families
   validate.mjs
@@ -19,6 +19,15 @@ scripts/
 Delta default URL:
 
 `https://cdn.jsdelivr.net/gh/21press/delta-fonts@main/index.json`
+
+## Family record
+
+- `fontFace` — one latin face per weight/style. Unchanged; read by every Delta version.
+- `variable`, `axes` (`[{tag,min,max,default}]`), `subsets` (Google subsets without `menu`) — additive.
+- `files.weight` — one face per `@font-face` block Google prints for the wght axis (or the discrete weights of a static family): `{ style, weight, stretch?, subset, unicodeRange, src, slice? }`. CJK families are split into numbered slices (`slice`) under their script subset.
+- `files.all` — the same for every axis, only for families with axes beyond `wght`.
+
+Local test of a few families (keeps the rest of `families/`): `SYNC_ONLY="Inter,Roboto Flex" npm run sync`.
 
 ## Maintainer workflow
 

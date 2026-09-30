@@ -5,6 +5,7 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { indexRow } from './lib/index-row.mjs';
 
 const ROOT = join( dirname( fileURLToPath( import.meta.url ) ), '..' );
 const FAMILIES_DIR = join( ROOT, 'families' );
@@ -17,22 +18,15 @@ for ( const file of files ) {
 	if ( ! rec.slug || ! rec.name ) {
 		continue;
 	}
-	families.push( {
-		slug: rec.slug,
-		name: rec.name,
-		fontFamily: rec.fontFamily || rec.name,
-		category: rec.category || 'sans-serif',
-		weightCount: Array.isArray( rec.fontFace ) ? rec.fontFace.length : 0,
-		license: rec.license || 'OFL-1.1',
-	} );
+	families.push( indexRow( rec ) );
 }
 families.sort( ( a, b ) => a.name.localeCompare( b.name ) );
 
 let updatedAt = new Date().toISOString();
 try {
 	const prev = JSON.parse( await readFile( INDEX_PATH, 'utf8' ) );
-	const prevSlugs = JSON.stringify( ( prev.families || [] ).map( ( f ) => [ f.slug, f.weightCount ] ) );
-	const nextSlugs = JSON.stringify( families.map( ( f ) => [ f.slug, f.weightCount ] ) );
+	const prevSlugs = JSON.stringify( prev.families || [] );
+	const nextSlugs = JSON.stringify( families );
 	if ( prevSlugs === nextSlugs && prev.updatedAt ) {
 		updatedAt = prev.updatedAt;
 	}
