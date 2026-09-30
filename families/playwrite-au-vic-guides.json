@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite AU VIC Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteauvicguides/v1/ll8sK3mEVy6nEMXMskXIZv8owEdZpVIWaQEnuD6A.woff2"
+			}
+		]
+	}
 }

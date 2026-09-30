@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite ES Deco Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteesdecoguides/v1/flUrRriwwII5RVl2TZ1XBNTUOYY6ZzZzwPCEKtwqZQ.woff2"
+			}
+		]
+	}
 }

@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite AU TAS Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbP.woff2"
+			}
+		]
+	}
 }

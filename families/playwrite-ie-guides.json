@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite IE Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUaN8.woff2"
+			}
+		]
+	}
 }

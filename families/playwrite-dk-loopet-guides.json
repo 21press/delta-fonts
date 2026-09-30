@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite DK Loopet Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tj.woff2"
+			}
+		]
+	}
 }

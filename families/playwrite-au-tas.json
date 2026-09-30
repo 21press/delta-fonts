@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AU TAS"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AU TAS"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AU TAS"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteautas/v11/GftT7u9QuxsdI_QuuctXue3ElxxmcBb3ih0opvWiLLUEH6K_.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite AU TAS"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteautas/v11/Gfte7u9QuxsdI_QuuctXue3Elxxmahg.woff2"
+			}
+		]
+	}
 }

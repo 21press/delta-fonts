@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNk9tyHsnVPjW9trmV7wQ0stdwRBZ0r.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite US Trad"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNk9tyHsnVPjW9trmV7wQ0stdwRBZ0r.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite US Trad"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNk9tyHsnVPjW9trmV7wQ0stdwRBZ0r.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite US Trad"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNk9tyHsnVPjW9trmV7wQ0stdwRBZ0r.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgig.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite US Trad"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNk9tyHsnVPjW9trmV7wQ0stdwRBZ0r.woff2"
+			}
+		]
+	}
 }

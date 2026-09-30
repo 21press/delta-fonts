@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite US Modern"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite US Modern"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite US Modern"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4cMBWmRlMXPhla3hmMaveiYz8nSDkIFLNIYl2TXUwK62YohNg2G.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite US Modern"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteusmodern/v11/H4c7BWmRlMXPhla3hmMaveiYz8nSDkIFNtw.woff2"
+			}
+		]
+	}
 }

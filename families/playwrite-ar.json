@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AR"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AR"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AR"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2",
+			"src": "https://fonts.gstatic.com/s/playwritear/v6/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-ftfqfo.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite AR"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritear/v6/VEM2RohisJz5pTCzruCNjWbFqQ.woff2"
+			}
+		]
+	}
 }

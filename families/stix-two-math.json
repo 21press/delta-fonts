@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "STIX Two Math"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "unknown",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/stixtwomath/v12/pONg1hwwL_6M9EkZySr_yteUi18.woff2"
+			}
+		]
+	}
 }

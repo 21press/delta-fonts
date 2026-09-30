@@ -7,58 +7,48 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+			"src": "https://fonts.gstatic.com/s/linefont/v10/dg4I_pzpoqcLKUIzVfFMh1TF2rkhli25jn7CKTTWSumsFuSnY4UMbus.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Linefont"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wdth",
+			"min": 25,
+			"max": 200
+		},
+		{
+			"tag": "wght",
+			"min": 4,
+			"max": 1000
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "4 1000",
+				"subset": "unknown",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/linefont/v10/dg47_pzpoqcLKUIzVfFMh1TF2rkhli25jn7YJw.woff2",
+				"stretch": "100%"
+			}
+		],
+		"all": [
+			{
+				"style": "normal",
+				"weight": "4 1000",
+				"subset": "unknown",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/linefont/v10/dg4m_pzpoqcLKUIzVetC.woff2",
+				"stretch": "25% 200%"
+			}
+		]
+	}
 }

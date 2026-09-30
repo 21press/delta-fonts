@@ -7,46 +7,56 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Rounded"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Rounded"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Rounded"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelXxc.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Rounded"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Rounded"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Rounded"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Rounded"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "opsz",
+			"min": 20,
+			"max": 48
+		},
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 700
+		},
+		{
+			"tag": "FILL",
+			"min": 0,
+			"max": 1
+		},
+		{
+			"tag": "GRAD",
+			"min": -50,
+			"max": 200
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 700",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/syl7-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCPqw.woff2"
+			}
+		],
+		"all": [
+			{
+				"style": "normal",
+				"weight": "100 700",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/materialsymbolsrounded/v375/sykg-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190Fjzag.woff2"
+			}
+		]
+	}
 }

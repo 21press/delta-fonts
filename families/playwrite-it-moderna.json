@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTuWaYCwKPK5cx6W8jy2kwDnSUe9q45vR4s.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite IT Moderna"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTuWaYCwKPK5cx6W8jy2kwDnSUe9q45vR4s.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite IT Moderna"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTuWaYCwKPK5cx6W8jy2kwDnSUe9q45vR4s.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite IT Moderna"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTuWaYCwKPK5cx6W8jy2kwDnSUe9q45vR4s.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wih8vA.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite IT Moderna"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTuWaYCwKPK5cx6W8jy2kwDnSUe9q45vR4s.woff2"
+			}
+		]
+	}
 }

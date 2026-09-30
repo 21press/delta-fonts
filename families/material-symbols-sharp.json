@@ -7,46 +7,56 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Sharp"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Sharp"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Sharp"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
+			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLojCL.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Material Symbols Sharp"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Sharp"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Sharp"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Material Symbols Sharp"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "opsz",
+			"min": 20,
+			"max": 48
+		},
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 700
+		},
+		{
+			"tag": "FILL",
+			"min": 0,
+			"max": 1
+		},
+		{
+			"tag": "GRAD",
+			"min": -50,
+			"max": 200
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 700",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMyW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5Od1kw.woff2"
+			}
+		],
+		"all": [
+			{
+				"style": "normal",
+				"weight": "100 700",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/materialsymbolssharp/v371/gNMVW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4aWE.woff2"
+			}
+		]
+	}
 }

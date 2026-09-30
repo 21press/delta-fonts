@@ -7,58 +7,51 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
+			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DC.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Wavefont"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 4,
+			"max": 1000
+		},
+		{
+			"tag": "ROND",
+			"min": 0,
+			"max": 100
+		},
+		{
+			"tag": "YELA",
+			"min": -100,
+			"max": 100
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "4 1000",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2"
+			}
+		],
+		"all": [
+			{
+				"style": "normal",
+				"weight": "4 1000",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/wavefont/v19/L0x-DF00m0cP6hefyPqn.woff2"
+			}
+		]
+	}
 }

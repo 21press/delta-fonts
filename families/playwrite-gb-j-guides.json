@@ -18,5 +18,28 @@
 			"fontStyle": "italic",
 			"fontFamily": "Playwrite GB J Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "italic",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRAp.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmILg.woff2"
+			}
+		]
+	}
 }

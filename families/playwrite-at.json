@@ -7,52 +7,45 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AT"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AT"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite AT"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d0g.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite AT"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
-			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Playwrite AT"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
-			"fontWeight": "200",
-			"fontStyle": "italic",
-			"fontFamily": "Playwrite AT"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
-			"fontWeight": "300",
-			"fontStyle": "italic",
-			"fontFamily": "Playwrite AT"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GLQ.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
 			"fontFamily": "Playwrite AT"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "italic",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw6jwc7n6kfJN4fVoKON7HIuDDxu.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteat/v6/Gw69wc7n6kfJN4fVoKON7HIeCw.woff2"
+			}
+		]
+	}
 }

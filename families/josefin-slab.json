@@ -7,88 +7,45 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
+			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR349Kg.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Josefin Slab"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
-			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
-			"fontWeight": "200",
-			"fontStyle": "italic",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
-			"fontWeight": "300",
-			"fontStyle": "italic",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
+			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzoNKIiY.woff2",
 			"fontWeight": "400",
-			"fontStyle": "italic",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
-			"fontWeight": "500",
-			"fontStyle": "italic",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
-			"fontWeight": "600",
-			"fontStyle": "italic",
-			"fontFamily": "Josefin Slab"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2",
-			"fontWeight": "700",
 			"fontStyle": "italic",
 			"fontFamily": "Josefin Slab"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 700
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "italic",
+				"weight": "100 700",
+				"subset": "latin",
+				"unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+				"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-nwjwOK3Ps5GSJlNNkMalnrz6tDs8.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "100 700",
+				"subset": "latin",
+				"unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+				"src": "https://fonts.gstatic.com/s/josefinslab/v29/lW-5wjwOK3Ps5GSJlNNkMalnqg6v.woff2"
+			}
+		]
+	}
 }

@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33pA.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite CL"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33pA.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite CL"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33pA.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite CL"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33pA.woff2",
+			"src": "https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JavL8.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite CL"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritecl/v6/-zki91m7wssz_XLkGgu8hy33pA.woff2"
+			}
+		]
+	}
 }

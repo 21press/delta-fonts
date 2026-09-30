@@ -18,5 +18,28 @@
 			"fontStyle": "italic",
 			"fontFamily": "Playwrite AT Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "italic",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDdw.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRb0.woff2"
+			}
+		]
+	}
 }

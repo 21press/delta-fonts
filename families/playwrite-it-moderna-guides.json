@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite IT Moderna Guides"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPoQ.woff2"
+			}
+		]
+	}
 }

@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Noto Sans Math"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "unknown",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/notosansmath/v19/7Aump_cpkSecTWaHRlH2hyV5UHkD.woff2"
+			}
+		]
+	}
 }

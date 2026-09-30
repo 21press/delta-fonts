@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtn7e3Ufwn0Hf1zjprKPYlcDAoHknvYFiCG.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite DK Uloopet"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtn7e3Ufwn0Hf1zjprKPYlcDAoHknvYFiCG.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite DK Uloopet"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtn7e3Ufwn0Hf1zjprKPYlcDAoHknvYFiCG.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite DK Uloopet"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtn7e3Ufwn0Hf1zjprKPYlcDAoHknvYFiCG.woff2",
+			"src": "https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lUrLA.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite DK Uloopet"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtn7e3Ufwn0Hf1zjprKPYlcDAoHknvYFiCG.woff2"
+			}
+		]
+	}
 }

@@ -1,0 +1,40 @@
+{
+	"slug": "chiron-sung-hk",
+	"name": "Chiron Sung HK",
+	"fontFamily": "\"Chiron Sung HK\", serif",
+	"category": "serif",
+	"license": "OFL-1.1",
+	"provider": "google",
+	"fontFace": [
+		{
+			"src": "https://fonts.gstatic.com/s/chironsunghk/v3/nuFtD_XLTZPpXIpS3-3dhGzHTSilFc8oGNI59hRj9OSd-UDV.woff2",
+			"fontWeight": "400",
+			"fontStyle": "normal",
+			"fontFamily": "Chiron Sung HK"
+		},
+		{
+			"src": "https://fonts.gstatic.com/s/chironsunghk/v3/nuFvD_XLTZPpXIpS3-3dhGzHTQKsJzDwcbmjWBN2PKdFvXDXbtM.woff2",
+			"fontWeight": "400",
+			"fontStyle": "italic",
+			"fontFamily": "Chiron Sung HK"
+		}
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 200,
+			"max": 900
+		}
+	],
+	"subsets": [
+		"chinese-hongkong",
+		"cyrillic",
+		"cyrillic-ext",
+		"greek",
+		"latin",
+		"latin-ext",
+		"symbols2",
+		"vietnamese"
+	]
+}

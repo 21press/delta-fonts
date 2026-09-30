@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite MX"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite MX"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite MX"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2",
+			"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xM.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite MX"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwritemx/v13/6xKodSNbKtCe7KfhXg7RYSwoTQ.woff2"
+			}
+		]
+	}
 }

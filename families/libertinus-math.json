@@ -12,5 +12,21 @@
 			"fontStyle": "normal",
 			"fontFamily": "Libertinus Math"
 		}
-	]
+	],
+	"variable": false,
+	"axes": [],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "400",
+				"subset": "unknown",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/libertinusmath/v2/Gw6iwc3770TVMoHVurPejWtfenRLug.woff2"
+			}
+		]
+	}
 }

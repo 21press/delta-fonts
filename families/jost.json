@@ -7,112 +7,75 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
+			"src": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNIg.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Jost"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "500",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "600",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "700",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "800",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2",
-			"fontWeight": "900",
-			"fontStyle": "normal",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "100",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "200",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "300",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
+			"src": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokng.woff2",
 			"fontWeight": "400",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "500",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "600",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "700",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "800",
-			"fontStyle": "italic",
-			"fontFamily": "Jost"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2",
-			"fontWeight": "900",
 			"fontStyle": "italic",
 			"fontFamily": "Jost"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 900
+		}
+	],
+	"subsets": [
+		"cyrillic",
+		"latin",
+		"latin-ext"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "italic",
+				"weight": "100 900",
+				"subset": "cyrillic",
+				"unicodeRange": "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+				"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt5D4hTxM.woff2"
+			},
+			{
+				"style": "italic",
+				"weight": "100 900",
+				"subset": "latin-ext",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt7j4hTxM.woff2"
+			},
+			{
+				"style": "italic",
+				"weight": "100 900",
+				"subset": "latin",
+				"unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+				"src": "https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt4D4h.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "100 900",
+				"subset": "cyrillic",
+				"unicodeRange": "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+				"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "100 900",
+				"subset": "latin-ext",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2"
+			},
+			{
+				"style": "normal",
+				"weight": "100 900",
+				"subset": "latin",
+				"unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+				"src": "https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2"
+			}
+		]
+	}
 }

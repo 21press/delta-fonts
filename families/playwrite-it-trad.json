@@ -7,28 +7,32 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/playwriteittrad/v11/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivN.woff2",
-			"fontWeight": "100",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite IT Trad"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteittrad/v11/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivN.woff2",
-			"fontWeight": "200",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite IT Trad"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteittrad/v11/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivN.woff2",
-			"fontWeight": "300",
-			"fontStyle": "normal",
-			"fontFamily": "Playwrite IT Trad"
-		},
-		{
-			"src": "https://fonts.gstatic.com/s/playwriteittrad/v11/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivN.woff2",
+			"src": "https://fonts.gstatic.com/s/playwriteittrad/v11/SlG5mR6Yo5oYZX5BFVcEySBSPE50BjHDpZxuvgxzFq96u-6_hQ.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Playwrite IT Trad"
 		}
-	]
+	],
+	"variable": true,
+	"axes": [
+		{
+			"tag": "wght",
+			"min": 100,
+			"max": 400
+		}
+	],
+	"subsets": [
+		"latin"
+	],
+	"files": {
+		"weight": [
+			{
+				"style": "normal",
+				"weight": "100 400",
+				"subset": "fallback",
+				"unicodeRange": "",
+				"src": "https://fonts.gstatic.com/s/playwriteittrad/v11/SlGKmR6Yo5oYZX5BFVcEySBSPE50BivN.woff2"
+			}
+		]
+	}
 }
