@@ -41,7 +41,7 @@ npm run validate
 1. `npm run sync` regenerates `families/*.json` + `index.json`.
 2. `npm run validate`
 3. Merge to `main` (catalog is `@main` via jsDelivr).
-4. CI purges jsDelivr when `index.json` changes on `main`.
+4. CI purges jsDelivr for `index.json` and every changed family file on `main` (the sync job purges its own commit; `purge-cdn.yml` covers manual pushes).
 5. Delta sites: **Fonts → Catalog → Refresh** (WordPress transient only — CDN already purged).
 
 CI cron runs sync twice a week. Manual: Actions → Sync Google Fonts catalog → Run workflow.
@@ -54,7 +54,7 @@ Workflow files live in `.github/workflows/` (`sync.yml`, `validate.yml`, `purge-
 | `npm run validate` | Schema check |
 | `npm run build:index` | Rebuild `index.json` from `families/*.json` |
 | `npm run check` | CI gate (validate + index in sync) |
-| `npm run purge:cdn` | Purge jsDelivr cache for `@main/index.json` |
+| `npm run purge:cdn` | Purge jsDelivr cache for `@main/index.json`; add `-- --changed A..B` for changed family files, `-- --all` for every family |
 
 ## License
 
