@@ -23,6 +23,7 @@ jobs:
       - name: Validate
         run: npm run validate
       - name: Commit if changed
+        id: commit
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -33,3 +34,9 @@ jobs:
           fi
           git commit -m "chore(catalog): sync Google Fonts"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      # Pushes made with GITHUB_TOKEN do not trigger other workflows, so
+      # purge-cdn.yml never runs after a scheduled sync. Purge here instead.
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.changed == 'true'
+        run: npm run purge:cdn
