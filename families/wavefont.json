@@ -7,7 +7,7 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DC.woff2",
+			"src": "https://fonts.gstatic.com/s/wavefont/v20/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DC.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Wavefont"
@@ -41,7 +41,7 @@
 				"weight": "4 1000",
 				"subset": "fallback",
 				"unicodeRange": "",
-				"src": "https://fonts.gstatic.com/s/wavefont/v19/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2"
+				"src": "https://fonts.gstatic.com/s/wavefont/v20/L0xQDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuW4I.woff2"
 			}
 		],
 		"all": [
@@ -50,7 +50,7 @@
 				"weight": "4 1000",
 				"subset": "fallback",
 				"unicodeRange": "",
-				"src": "https://fonts.gstatic.com/s/wavefont/v19/L0x-DF00m0cP6hefyPqn.woff2"
+				"src": "https://fonts.gstatic.com/s/wavefont/v20/L0x-DF00m0cP6hefyPqn.woff2"
 			}
 		]
 	}

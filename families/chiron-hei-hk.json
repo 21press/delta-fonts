@@ -7,13 +7,13 @@
 	"provider": "google",
 	"fontFace": [
 		{
-			"src": "https://fonts.gstatic.com/s/chironheihk/v6/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr28LmzA.woff2",
+			"src": "https://fonts.gstatic.com/s/chironheihk/v7/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr28LmzA.woff2",
 			"fontWeight": "400",
 			"fontStyle": "normal",
 			"fontFamily": "Chiron Hei HK"
 		},
 		{
-			"src": "https://fonts.gstatic.com/s/chironheihk/v6/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPqzIaiA.woff2",
+			"src": "https://fonts.gstatic.com/s/chironheihk/v7/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPqzIaiA.woff2",
 			"fontWeight": "400",
 			"fontStyle": "italic",
 			"fontFamily": "Chiron Hei HK"
