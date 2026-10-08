@@ -74,7 +74,7 @@
 				"style": "italic",
 				"weight": "300 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/playfair/v10/0nkHC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9gkjjhmHc.woff2",
 				"stretch": "100%"
 			},
@@ -114,7 +114,7 @@
 				"style": "normal",
 				"weight": "300 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/playfair/v10/0nkFC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SoCRQniDl.woff2",
 				"stretch": "100%"
 			},
@@ -156,7 +156,7 @@
 				"style": "italic",
 				"weight": "300 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/playfair/v10/0nktC9D7PO4KhmUJ59bafw3Kpcb0.woff2",
 				"stretch": "87.5% 112.5%"
 			},
@@ -196,7 +196,7 @@
 				"style": "normal",
 				"weight": "300 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/playfair/v10/0nkrC9D7PO4KhmUJ59bRTwHSoQ.woff2",
 				"stretch": "87.5% 112.5%"
 			},

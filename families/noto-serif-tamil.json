@@ -51,7 +51,7 @@
 				"style": "italic",
 				"weight": "100 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/notoseriftamil/v31/LYjqdHr-klIgTfc40komjQ5OObazSJaI_D5kV8k_WLwFBmWr4JoJfAsG.woff2",
 				"stretch": "100%"
 			},
@@ -75,7 +75,7 @@
 				"style": "normal",
 				"weight": "100 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/notoseriftamil/v31/LYjUdHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRL3g0JYReA.woff2",
 				"stretch": "100%"
 			},
@@ -101,7 +101,7 @@
 				"style": "italic",
 				"weight": "100 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/notoseriftamil/v31/LYjfdHr-klIgTfc40komjQ5OObazSJai_haJh1k.woff2",
 				"stretch": "62.5% 100%"
 			},
@@ -125,7 +125,7 @@
 				"style": "normal",
 				"weight": "100 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/notoseriftamil/v31/LYjZdHr-klIgTfc40komjQ5OObazSJ2S8g6N.woff2",
 				"stretch": "62.5% 100%"
 			},

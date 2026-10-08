@@ -25,7 +25,7 @@
 				"style": "normal",
 				"weight": "400",
 				"subset": "telugu",
-				"unicodeRange": "U+0951-0952, U+0964-0965, U+0C00-0C7F, U+1CDA, U+1CF2, U+200C-200D, U+25CC",
+				"unicodeRange": "U+0951-0952, U+0964-0965, U+0B83, U+0C00-0C7F, U+1CD5-1CD6, U+1CD8, U+1CDA, U+1CF2, U+200C-200D, U+25CC",
 				"src": "https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZTfzzdgN7w.woff2"
 			},
 			{

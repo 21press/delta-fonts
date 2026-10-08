@@ -51,7 +51,7 @@
 				"style": "normal",
 				"weight": "100 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwbF5OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewIoebwvTd0.woff2"
 			},
 			{
@@ -67,7 +67,7 @@
 				"style": "oblique 0deg 8deg",
 				"weight": "100 900",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/bitcountsingleink/v4/FwYx7_80w0kk_0u-PN7ToaLMySaevcGoq2mkigHH9vT6ctyhd8vJqY1TlYMWXkcMgiBS-NNOIEm6LWTdJ9CrxLCoZYwgzoFyPbRfpR_3NM5hl6nP0Vj8v-rARZqEkWu4TxhExAxKC6xsKYJB.woff2"
 			},
 			{

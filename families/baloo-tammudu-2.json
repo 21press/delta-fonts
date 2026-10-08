@@ -33,7 +33,7 @@
 				"style": "normal",
 				"weight": "400 800",
 				"subset": "telugu",
-				"unicodeRange": "U+0951-0952, U+0964-0965, U+0C00-0C7F, U+1CDA, U+1CF2, U+200C-200D, U+25CC",
+				"unicodeRange": "U+0951-0952, U+0964-0965, U+0B83, U+0C00-0C7F, U+1CD5-1CD6, U+1CD8, U+1CDA, U+1CF2, U+200C-200D, U+25CC",
 				"src": "https://fonts.gstatic.com/s/balootammudu2/v27/1Pt2g8TIS_SAmkLguUdFP8UaJcKO3nsX2aE.woff2"
 			},
 			{
@@ -47,7 +47,7 @@
 				"style": "normal",
 				"weight": "400 800",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/balootammudu2/v27/1Pt2g8TIS_SAmkLguUdFP8UaJcKOzHsX2aE.woff2"
 			},
 			{

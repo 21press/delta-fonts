@@ -26,14 +26,14 @@
 				"style": "normal",
 				"weight": "400",
 				"subset": "tangut",
-				"unicodeRange": "U+2FF0-2FFF, U+31EF, U+16FE0, U+17000-187F7, U+18800-18AFF, U+18D00-18D08",
+				"unicodeRange": "U+2FF0-2FFF, U+31EF, U+16FE0, U+17000-18AFF, U+18D00-18D20, U+18D80-18DF2",
 				"src": "https://fonts.gstatic.com/s/notoseriftangut/v19/xn76YGc72GKoTvER4Gn3b4m9Ern7El6wVu_A4b0.woff2"
 			},
 			{
 				"style": "normal",
 				"weight": "400",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/notoseriftangut/v19/xn76YGc72GKoTvER4Gn3b4m9Ern7El48d8r92A.woff2"
 			},
 			{

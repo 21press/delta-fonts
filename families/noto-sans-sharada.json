@@ -26,14 +26,14 @@
 				"style": "normal",
 				"weight": "400",
 				"subset": "sharada",
-				"unicodeRange": "U+0951, U+1CD7, U+1CD9, U+1CDC-1CDD, U+1CE0, U+200C-200D, U+25CC, U+A830-A835, U+A838, U+11180-111DF",
+				"unicodeRange": "U+0951, U+1CD7, U+1CD9, U+1CDC-1CDD, U+1CE0, U+1CEA, U+1CED, U+200C-200D, U+25CC, U+A830-A835, U+A838, U+11180-111DF, U+11B60-11B67",
 				"src": "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwrW9Nu0b4A.woff2"
 			},
 			{
 				"style": "normal",
 				"weight": "400",
 				"subset": "latin-ext",
-				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+				"unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF",
 				"src": "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwrXCNu0b4A.woff2"
 			},
 			{

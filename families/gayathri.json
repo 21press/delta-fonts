@@ -37,7 +37,7 @@
 				"style": "normal",
 				"weight": "100",
 				"subset": "malayalam",
-				"unicodeRange": "U+0307, U+0323, U+0951-0952, U+0964-0965, U+0D00-0D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832",
+				"unicodeRange": "U+0307, U+0323, U+0951-0952, U+0964-0965, U+0B83, U+0D00-0D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832",
 				"src": "https://fonts.gstatic.com/s/gayathri/v20/MCoWzAb429DbBilWLLhcyoTYAsgA.woff2"
 			},
 			{
@@ -51,7 +51,7 @@
 				"style": "normal",
 				"weight": "400",
 				"subset": "malayalam",
-				"unicodeRange": "U+0307, U+0323, U+0951-0952, U+0964-0965, U+0D00-0D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832",
+				"unicodeRange": "U+0307, U+0323, U+0951-0952, U+0964-0965, U+0B83, U+0D00-0D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832",
 				"src": "https://fonts.gstatic.com/s/gayathri/v20/MCoQzAb429DbBilWLLAn-p7ABg.woff2"
 			},
 			{
@@ -65,7 +65,7 @@
 				"style": "normal",
 				"weight": "700",
 				"subset": "malayalam",
-				"unicodeRange": "U+0307, U+0323, U+0951-0952, U+0964-0965, U+0D00-0D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832",
+				"unicodeRange": "U+0307, U+0323, U+0951-0952, U+0964-0965, U+0B83, U+0D00-0D7F, U+1CDA, U+1CF2, U+200C-200D, U+20B9, U+25CC, U+A830-A832",
 				"src": "https://fonts.gstatic.com/s/gayathri/v20/MCoXzAb429DbBilWLLiE34vnJ_U5wA.woff2"
 			},
 			{

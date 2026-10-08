@@ -55,7 +55,7 @@
 				"style": "normal",
 				"weight": "400",
 				"subset": "beria-erfe",
-				"unicodeRange": "U+0301, U+16EA0-16EB8, U+16EBB-16ED3",
+				"unicodeRange": "U+0300-0301, U+0304, U+16EA0-16EB8, U+16EBB-16ED3",
 				"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tlIR0UPo6ZGAykNh_evBjp7TzXqw.woff2"
 			},
 			{
@@ -69,7 +69,7 @@
 				"style": "normal",
 				"weight": "500",
 				"subset": "beria-erfe",
-				"unicodeRange": "U+0301, U+16EA0-16EB8, U+16EBB-16ED3",
+				"unicodeRange": "U+0300-0301, U+0304, U+16EA0-16EB8, U+16EBB-16ED3",
 				"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etFLr3Yfuip6-ew.woff2"
 			},
 			{
@@ -83,7 +83,7 @@
 				"style": "normal",
 				"weight": "600",
 				"subset": "beria-erfe",
-				"unicodeRange": "U+0301, U+16EA0-16EB8, U+16EBB-16ED3",
+				"unicodeRange": "U+0300-0301, U+0304, U+16EA0-16EB8, U+16EBB-16ED3",
 				"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etH7s3Yfuip6-ew.woff2"
 			},
 			{
@@ -97,7 +97,7 @@
 				"style": "normal",
 				"weight": "700",
 				"subset": "beria-erfe",
-				"unicodeRange": "U+0301, U+16EA0-16EB8, U+16EBB-16ED3",
+				"unicodeRange": "U+0300-0301, U+0304, U+16EA0-16EB8, U+16EBB-16ED3",
 				"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etBrt3Yfuip6-ew.woff2"
 			},
 			{
@@ -111,7 +111,7 @@
 				"style": "normal",
 				"weight": "800",
 				"subset": "beria-erfe",
-				"unicodeRange": "U+0301, U+16EA0-16EB8, U+16EBB-16ED3",
+				"unicodeRange": "U+0300-0301, U+0304, U+16EA0-16EB8, U+16EBB-16ED3",
 				"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etAbu3Yfuip6-ew.woff2"
 			},
 			{
@@ -125,7 +125,7 @@
 				"style": "normal",
 				"weight": "900",
 				"subset": "beria-erfe",
-				"unicodeRange": "U+0301, U+16EA0-16EB8, U+16EBB-16ED3",
+				"unicodeRange": "U+0300-0301, U+0304, U+16EA0-16EB8, U+16EBB-16ED3",
 				"src": "https://fonts.gstatic.com/s/kedebideri/v6/t5tmIR0UPo6ZGAykNh_etCLv3Yfuip6-ew.woff2"
 			},
 			{
