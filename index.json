@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"updatedAt": "2026-10-19T09:45:30.902Z",
+	"updatedAt": "2026-10-22T09:18:18.174Z",
 	"provider": "google",
 	"families": [
 		{
@@ -8922,7 +8922,6 @@
 				"slnt",
 				"wdth",
 				"wght",
-				"GRAD",
 				"ROND"
 			],
 			"subsets": [
