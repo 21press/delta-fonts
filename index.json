@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"updatedAt": "2026-10-26T09:57:30.983Z",
+	"updatedAt": "2026-10-29T10:48:19.585Z",
 	"provider": "google",
 	"families": [
 		{
@@ -4634,7 +4634,10 @@
 			"category": "serif",
 			"weightCount": 2,
 			"license": "OFL-1.1",
-			"variable": false,
+			"variable": true,
+			"axes": [
+				"wght"
+			],
 			"subsets": [
 				"latin",
 				"latin-ext"
@@ -11781,7 +11784,9 @@
 			"license": "OFL-1.1",
 			"variable": true,
 			"axes": [
-				"wght"
+				"wdth",
+				"wght",
+				"ROND"
 			],
 			"subsets": [
 				"latin",
@@ -23055,6 +23060,97 @@
 			]
 		},
 		{
+			"slug": "redaction",
+			"name": "Redaction",
+			"fontFamily": "Redaction, serif",
+			"category": "serif",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
+			"slug": "redaction-10",
+			"name": "Redaction 10",
+			"fontFamily": "\"Redaction 10\", serif",
+			"category": "serif",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
+			"slug": "redaction-100",
+			"name": "Redaction 100",
+			"fontFamily": "\"Redaction 100\", system-ui",
+			"category": "display",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
+			"slug": "redaction-20",
+			"name": "Redaction 20",
+			"fontFamily": "\"Redaction 20\", serif",
+			"category": "serif",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
+			"slug": "redaction-35",
+			"name": "Redaction 35",
+			"fontFamily": "\"Redaction 35\", system-ui",
+			"category": "display",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
+			"slug": "redaction-50",
+			"name": "Redaction 50",
+			"fontFamily": "\"Redaction 50\", system-ui",
+			"category": "display",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
+			"slug": "redaction-70",
+			"name": "Redaction 70",
+			"fontFamily": "\"Redaction 70\", system-ui",
+			"category": "display",
+			"weightCount": 3,
+			"license": "OFL-1.1",
+			"variable": false,
+			"subsets": [
+				"latin",
+				"latin-ext"
+			]
+		},
+		{
 			"slug": "reddit-mono",
 			"name": "Reddit Mono",
 			"fontFamily": "\"Reddit Mono\", monospace",
@@ -27004,17 +27100,53 @@
 		{
 			"slug": "tiny5",
 			"name": "Tiny5",
-			"fontFamily": "\"Tiny5\", sans-serif",
-			"category": "sans-serif",
-			"weightCount": 1,
+			"fontFamily": "\"Tiny5\", system-ui",
+			"category": "display",
+			"weightCount": 2,
 			"license": "OFL-1.1",
-			"variable": false,
+			"variable": true,
+			"axes": [
+				"wdth",
+				"wght",
+				"BLED",
+				"JITT",
+				"ROND"
+			],
 			"subsets": [
+				"armenian",
 				"cyrillic",
 				"cyrillic-ext",
 				"greek",
+				"greek-ext",
 				"latin",
-				"latin-ext"
+				"latin-ext",
+				"vietnamese"
+			]
+		},
+		{
+			"slug": "tiny5-duo",
+			"name": "Tiny5 Duo",
+			"fontFamily": "\"Tiny5 Duo\", system-ui",
+			"category": "display",
+			"weightCount": 2,
+			"license": "OFL-1.1",
+			"variable": true,
+			"axes": [
+				"wdth",
+				"wght",
+				"BLED",
+				"JITT",
+				"ROND"
+			],
+			"subsets": [
+				"armenian",
+				"cyrillic",
+				"cyrillic-ext",
+				"greek",
+				"greek-ext",
+				"latin",
+				"latin-ext",
+				"vietnamese"
 			]
 		},
 		{
@@ -28365,6 +28497,25 @@
 				"latin",
 				"latin-ext",
 				"vietnamese"
+			]
+		},
+		{
+			"slug": "xmind",
+			"name": "Xmind",
+			"fontFamily": "Xmind, sans-serif",
+			"category": "sans-serif",
+			"weightCount": 2,
+			"license": "OFL-1.1",
+			"variable": true,
+			"axes": [
+				"wght"
+			],
+			"subsets": [
+				"cyrillic",
+				"cyrillic-ext",
+				"greek",
+				"latin",
+				"latin-ext"
 			]
 		},
 		{
