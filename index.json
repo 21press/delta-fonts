@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"updatedAt": "2026-10-29T10:48:19.585Z",
+	"updatedAt": "2026-11-02T12:10:32.187Z",
 	"provider": "google",
 	"families": [
 		{
@@ -8859,6 +8859,7 @@
 				"GRAD"
 			],
 			"subsets": [
+				"arabic",
 				"armenian",
 				"bengali",
 				"canadian-aboriginal",
@@ -8872,6 +8873,7 @@
 				"gujarati",
 				"gurmukhi",
 				"hebrew",
+				"kannada",
 				"khmer",
 				"lao",
 				"latin",
